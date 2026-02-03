@@ -30,10 +30,23 @@
     </p>
   </div>
   
-  <div class="social-links">
+<div class="social-links">
   <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank" aria-label="LinkedIn">
     <i class="fab fa-linkedin"></i>
   </a>
+
+  <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank" aria-label="Google Scholar">
+    <i class="fas fa-graduation-cap"></i>
+  </a>
+
+  <a href="https://orcid.org/YOUR-ORCID-ID" target="_blank" aria-label="ORCID">
+    <i class="fab fa-orcid"></i>
+  </a>
+
+  <a href="mailto:your.email@domain.com" aria-label="Email">
+    <i class="fas fa-envelope"></i>
+  </a>
 </div>
+
 
 </section>
