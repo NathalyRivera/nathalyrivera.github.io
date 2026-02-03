@@ -87,3 +87,19 @@ section, main, .container {
   border-radius: 12px;
 }
 
+.social-links {
+  margin-top: 1.5rem;
+}
+
+.social-links a {
+  font-size: 1.6rem;
+  margin-right: 15px;
+  color: #333;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.social-links a:hover {
+  color: #0077b5; /* LinkedIn blue */
+}
+
