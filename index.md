@@ -34,10 +34,6 @@
   <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank" aria-label="LinkedIn">
     <i class="fab fa-linkedin"></i>
   </a>
-
-  #<a href="https://twitter.com/YOUR_USERNAME" target="_blank" aria-label="Twitter">
-  #  <i class="fab fa-x-twitter"></i>
-  #</a>
 </div>
 
 </section>
