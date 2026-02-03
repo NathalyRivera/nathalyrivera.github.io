@@ -11,14 +11,20 @@
   <div>
     <h1>Nathaly M. Rivera</h1>
     <p>
-      Environmental and Resource Economist. My research studies the welfare impacts
-      of pollution, climate shocks, and energy transitions in Latin America.
+      Welcome to my website! I am an Assistant Professor in the Department of 
+      Economics at the University of Chile. My research and teaching interests 
+      are Environmental and Resource Economics, Energy Economics, and Applied 
+      Econometrics. One of my research strands lies in the intersection between 
+      market capitalizations of environmental (dis)amenities and the evaluation 
+      of environmental policy, with a focus on air pollution. The other one 
+      focuses on the economics of extractive industries, particularly on their
+      impact on local welfare. 
     </p>
 
     <p>
+      <a href="cv.pdf">CV</a> ·    
       <a href="research.html">Research</a> ·
       <a href="teaching.html">Teaching</a> ·
-      <a href="cv.pdf">CV</a> ·
       <a href="contact.html">Contact</a>
     </p>
   </div>
