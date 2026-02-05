@@ -7,7 +7,7 @@
 
 
 <section class="intro">
-  <img src="assets/img/profile.jpg" alt="Nathaly Rivera">
+  <img src="assets/img/nathaly_b&w.jpg" alt="Nathaly Rivera">
 
   <div>
     <h1>Nathaly M. Rivera</h1>
@@ -31,11 +31,11 @@
   </div>
   
 <div class="social-links">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank" aria-label="LinkedIn">
+  <a href="https://www.linkedin.com/in/nathaly-rivera" target="_blank" aria-label="LinkedIn">
     <i class="fab fa-linkedin"></i>
   </a>
 
-  <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank" aria-label="Google Scholar">
+  <a href="https://scholar.google.com/citations?user=zPEZL74AAAAJ&hl=en" target="_blank" aria-label="Google Scholar">
     <i class="fas fa-graduation-cap"></i>
   </a>
 
@@ -43,7 +43,7 @@
     <i class="fab fa-orcid"></i>
   </a>
 
-  <a href="mailto:your.email@domain.com" aria-label="Email">
+  <a href="mailto:nmrivera@fen.uchile.cl" aria-label="Email">
     <i class="fas fa-envelope"></i>
   </a>
 </div>
