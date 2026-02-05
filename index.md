@@ -35,7 +35,7 @@
     <i class="fas fa-graduation-cap"></i>
   </a>
 
-  <a href="https://orcid.org/YOUR-ORCID-ID" target="_blank" aria-label="ORCID">
+  <a href="https://orcid.org/my-orcid?orcid=0000-0003-3193-145X" target="_blank" aria-label="ORCID">
     <i class="fab fa-orcid"></i>
   </a>
 
