@@ -1,42 +1,49 @@
 /* ==================================================
-   MODERN ACADEMIC STYLE — Final Polish
+   MODERN ACADEMIC STYLE — Precision Fix
    ================================================== */
 
 body {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 18px;
-    line-height: 1.7; /* Más espacio entre líneas para elegancia */
-    color: #334155;    /* Un gris oscuro profesional (Slate) */
+    line-height: 1.7;
+    color: #334155;
     background-color: #ffffff;
     max-width: 900px;
     margin: 60px auto;
     padding: 0 25px;
 }
 
-/* Navegación */
+/* 1. NAVEGACIÓN (Arriba y Espaciada) */
 .main-nav {
     display: flex;
-    justify-content: center;
-    gap: 30px;
-    margin-bottom: 80px; /* Más espacio antes del contenido */
+    justify-content: center; /* Centrado en móvil */
+    gap: 40px;               /* MÁS ESPACIO entre links */
+    margin-bottom: 60px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #f1f5f9;
 }
 
 .main-nav a {
     font-weight: 600;
-    font-size: 0.85rem;
+    font-size: 0.9rem;
     letter-spacing: 1.5px;
-    color: #64748b; /* Gris medio */
+    color: #64748b;
     text-decoration: none;
     text-transform: uppercase;
+    border: none; /* Quitamos la línea para que se vea limpio */
 }
 
-/* Layout Base (Móvil) */
+.main-nav a:hover {
+    color: #0D9488;
+}
+
+/* 2. ESTRUCTURA INTRO */
 .intro {
     display: flex;
-    flex-direction: column;
+    flex-direction: column; /* Por defecto móvil */
     align-items: center;
     text-align: center;
-    gap: 40px; /* Espacio entre foto y texto */
+    gap: 30px;
 }
 
 .foto-perfil {
@@ -46,19 +53,26 @@ body {
     box-shadow: 0 10px 30px rgba(0,0,0,0.05);
 }
 
+/* 3. BLOQUE DE TEXTO E ICONOS */
+.intro-text {
+    flex: 1;
+    display: flex;
+    flex-direction: column; /* Obliga a que los iconos sociales vayan ABAJO del texto */
+}
+
 h1 {
     font-family: 'DM Serif Display', serif;
     font-size: 3rem;
-    color: #0F172A; /* Navy para el nombre */
+    color: #0F172A;
     margin-top: 0;
 }
 
-/* Iconos Sociales */
+/* 4. ICONOS SOCIALES (Siempre debajo del texto) */
 .social-links {
-    margin-top: 2rem;
+    margin-top: 25px;
     display: flex;
     gap: 25px;
-    justify-content: center;
+    justify-content: center; /* Centrado en móvil */
 }
 
 .social-links a {
@@ -72,21 +86,17 @@ h1 {
    ================================================== */
 @media (min-width: 768px) {
     .main-nav {
-        justify-content: flex-start;
+        justify-content: flex-start; /* Alineado a la izquierda en PC */
     }
 
     .intro {
-        flex-direction: row; /* Foto a la izquierda, texto a la derecha */
+        flex-direction: row;      /* Foto a la izquierda, texto a la derecha */
         text-align: left;
         align-items: flex-start;
-        gap: 60px; /* MUCHO espacio entre foto y texto en PC */
-    }
-
-    .intro-text {
-        flex: 1;
+        gap: 60px;
     }
 
     .social-links {
-        justify-content: flex-start;
+        justify-content: flex-start; /* Iconos a la izquierda debajo del texto en PC */
     }
 }
