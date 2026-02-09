@@ -62,7 +62,7 @@ body {
 
 h1 {
     font-family: 'DM Serif Display', serif;
-    font-size: 2rem; /* Lo bajamos de 3rem a 2.2rem */
+    font-size: 1.8rem; /* Lo bajamos de 3rem a 2rem */
     color: #0F172A;
     margin-top: 0;
     margin-bottom: 0.5rem;
@@ -72,7 +72,7 @@ h1 {
 /* Y para que en celulares muy pequeños no sea demasiado grande: */
 @media (max-width: 480px) {
     h1 {
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
 }
 
