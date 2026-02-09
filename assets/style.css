@@ -1,5 +1,5 @@
 /* ==================================================
-   MODERN ACADEMIC STYLE — Final Refined Version
+   MODERN ACADEMIC STYLE — Final Blue Unified
    ================================================== */
 
 body {
@@ -13,7 +13,7 @@ body {
     padding: 0 25px;
 }
 
-/* 1. NAVEGACIÓN (Arriba y Espaciada) */
+/* 1. NAVEGACIÓN (HOME, RESEARCH, etc.) */
 .main-nav {
     display: flex;
     justify-content: center; 
@@ -27,15 +27,15 @@ body {
     font-weight: 600;
     font-size: 0.9rem;
     letter-spacing: 1.5px;
-    color: #64748b;
+    color: #64748b; /* Gris suave en reposo */
     text-decoration: none;
     text-transform: uppercase;
     border: none !important; 
-    transition: color 0.2s ease;
+    transition: all 0.3s ease;
 }
 
 .main-nav a:hover {
-    color: #0D9488; /* Mantiene el teal para links de navegación */
+    color: #1a365d; /* Azul Marino Profundo solicitado */
 }
 
 /* 2. ESTRUCTURA INTRO */
@@ -63,7 +63,7 @@ body {
 
 h1 {
     font-family: 'DM Serif Display', serif;
-    font-weight: 400; /* Estilizado y fino */
+    font-weight: 400; 
     font-size: 2.2rem; 
     color: #0F172A;
     margin-top: 0;
@@ -76,58 +76,9 @@ strong {
     font-weight: 600;
 }
 
-/* 4. ICONOS SOCIALES — Azul Elegante Suave */
+/* 4. ICONOS SOCIALES — AZUL NOTORIO */
 .social-links {
     margin-top: 25px;
     display: flex;
     gap: 25px;
-    justify-content: center;
-}
-
-.social-links a {
-    text-decoration: none !important;
-    border: none !important;
-}
-
-.social-links a i {
-    font-size: 1.7rem;
-    color: #64748b !important; /* Azul grisáceo elegante y suave */
-    transition: all 0.3s ease;
-}
-
-.social-links a:hover i {
-    color: #1e40af !important; /* Azul real profundo al pasar el mouse */
-    transform: translateY(-3px);
-}
-
-/* 5. ENLACES EN EL TEXTO */
-a {
-    color: #0D9488;
-    text-decoration: none;
-    border-bottom: 1px solid rgba(13, 148, 136, 0.2);
-}
-
-/* 6. AJUSTES PARA COMPUTADOR (PC) */
-@media (min-width: 768px) {
-    .main-nav {
-        justify-content: flex-start;
-    }
-
-    .intro {
-        flex-direction: row;      
-        text-align: left;
-        align-items: flex-start;
-        gap: 60px;
-    }
-
-    .social-links {
-        justify-content: flex-start;
-    }
-}
-
-/* Ajuste de título para móviles muy pequeños */
-@media (max-width: 480px) {
-    h1 {
-        font-size: 1.8rem;
-    }
-}
+    justify-content:
