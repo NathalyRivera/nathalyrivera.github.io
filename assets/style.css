@@ -62,9 +62,18 @@ body {
 
 h1 {
     font-family: 'DM Serif Display', serif;
-    font-size: 3rem;
+    font-size: 2.2rem; /* Lo bajamos de 3rem a 2.2rem */
     color: #0F172A;
     margin-top: 0;
+    margin-bottom: 0.5rem;
+    line-height: 1.1;
+}
+
+/* Y para que en celulares muy pequeños no sea demasiado grande: */
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.8rem;
+    }
 }
 
 /* 4. ICONOS SOCIALES (Siempre debajo del texto) */

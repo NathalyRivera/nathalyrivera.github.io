@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -19,6 +18,7 @@
         <a href="cv.pdf" target="_blank">CV</a>
         <a href="research.html">RESEARCH</a>
         <a href="teaching.html">TEACHING</a>
+        <a href="officehours.html">OFFICE HOURS</a>        
     </nav>
 
     <section class="intro">
