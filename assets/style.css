@@ -1,118 +1,101 @@
 /* ==================================================
-   STYLE 2 — Modern Academic (White Background)
-   DM Serif Display + Source Sans 3
+   MODERN ACADEMIC STYLE — Optimized
    ================================================== */
 
 /* Base */
 body {
-  font-family: 'Source Sans 3', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  font-size: 17px;
-  line-height: 1.65;
-  color: #0F172A;          /* navy */
-  background-color: #ffffff;
-  max-width: 820px;
-  margin: 60px auto;
-  padding: 0 20px;
+    font-family: 'Source Sans 3', system-ui, -apple-system, sans-serif;
+    font-size: 18px; /* Un poco más grande para mejor lectura */
+    line-height: 1.65;
+    color: #0F172A;
+    background-color: #ffffff;
+    max-width: 850px; /* Ancho académico estándar */
+    margin: 40px auto;
+    padding: 0 20px;
 }
 
 /* Headings */
-h1, h2, h3, h4 {
-  font-family: 'DM Serif Display', serif;
-  font-weight: 400;
-  letter-spacing: 0.2px;
-  color: #0F172A;
+h1, h2, h3 {
+    font-family: 'DM Serif Display', serif;
+    font-weight: 400;
+    color: #0F172A;
+    line-height: 1.2;
 }
 
-h1 {
-  font-size: 2.6rem;
-  margin-bottom: 0.5rem;
-}
-
-h2 {
-  font-size: 1.8rem;
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
-}
-
-h3 {
-  font-size: 1.3rem;
-  margin-top: 1.8rem;
-}
-
-/* Text */
-p {
-  margin-bottom: 1.1rem;
-}
+h1 { font-size: 2.8rem; margin-bottom: 0.5rem; }
+h2 { font-size: 1.8rem; margin-top: 2.5rem; border-bottom: 1px solid #eee; padding-bottom: 0.5rem; }
 
 /* Links */
 a {
-  color: #0D9488; /* teal */
-  text-decoration: none;
-  border-bottom: 1px solid rgba(13, 148, 136, 0.35);
+    color: #0D9488;
+    text-decoration: none;
+    transition: all 0.2s ease;
 }
 
 a:hover {
-  color: #14B8A6;
-  border-bottom: 1px solid #14B8A6;
+    color: #14B8A6;
+    text-decoration: underline;
 }
 
-/* Navigation (if present) */
-nav a {
-  font-weight: 600;
-  margin-right: 1.2rem;
-  border-bottom: none;
-}
-
-nav a:hover {
-  color: #0D9488;
-}
-
-/* Home intro layout (optional) */
+/* Layout Responsivo para la Intro */
 .intro {
-  display: grid;
-  grid-template-columns: 180px 1fr;
-  gap: 2rem;
-  align-items: center;
-  margin-top: 2rem;
+    display: flex;
+    flex-wrap: wrap; /* Esto permite que la foto baje en el celular */
+    gap: 2.5rem;
+    align-items: center;
+    margin-top: 2rem;
 }
 
-.intro img {
-  width: 180px;
-  border-radius: 12px;
+/* Contenedor del texto dentro de la intro */
+.intro-text {
+    flex: 1;
+    min-width: 300px; /* Si el espacio es menor a 300px, saltará abajo */
 }
 
-/* Social links (icons) */
+/* Foto de Perfil */
+.foto-perfil {
+    width: 220px; /* Tamaño ideal para perfil académico */
+    height: auto;
+    border-radius: 12px;
+    object-fit: cover;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05); /* Sombra sutil */
+}
+
+/* Social links */
 .social-links {
-  margin-top: 1.5rem;
+    margin-top: 1.5rem;
+    display: flex;
+    gap: 20px;
 }
 
 .social-links a {
-  font-size: 1.6rem;
-  margin-right: 15px;
-  color: #0F172A;
-  border-bottom: none;
-  transition: color 0.2s ease;
+    font-size: 1.5rem;
+    color: #0F172A;
 }
 
 .social-links a:hover {
-  color: #0D9488;
+    color: #0D9488;
+    transform: translateY(-2px); /* Pequeña animación */
 }
 
-/* Esto hará que la foto no sea más ancha que su contenedor y se vea bien */
-.foto-perfil {
-    width: 100%;       /* Ocupará el ancho de su contenedor... */
-    max-width: 500px;  /* ...pero no crecerá más de 500 píxeles */
-    height: auto;      /* Mantiene la proporción para que no se deforme */
-    display: block;    /* Permite centrarla */
-    margin: 20px auto; /* La centra horizontalmente y da espacio arriba/abajo */
-    border-radius: 15px;
-}
+/* Ajustes para Celulares */
+@media (max-width: 600px) {
+    body {
+        margin: 20px auto;
+    }
+    
+    .intro {
+        flex-direction: column; /* Foto arriba, texto abajo */
+        text-align: center;
+    }
 
-/*SOBRE EL ANCHO DE LA PAGINA */
-.contenedor {
-    max-width: 800px;   /* Este es un ancho muy cómodo para lectura */
-    margin: 0 auto;     /* Centra todo el bloque en la pantalla */
-    padding: 20px;      /* Deja un pequeño margen interno para que el texto no toque los bordes en el celular */
-    font-family: Arial, sans-serif; /* Mejora la tipografía */
-    line-height: 1.6;   /* Da espacio entre líneas de texto */
+    .intro-text {
+        min-width: 100%;
+    }
+
+    .social-links {
+        justify-content: center;
+    }
+    
+    h1 { font-size: 2.2rem; }
 }
