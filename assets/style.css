@@ -91,4 +91,43 @@ strong {
 
 .social-links a i {
     font-size: 1.7rem;
-    color: #64748b !important;
+    color: #64748b !important; /* Azul grisáceo elegante y suave */
+    transition: all 0.3s ease;
+}
+
+.social-links a:hover i {
+    color: #1e40af !important; /* Azul real profundo al pasar el mouse */
+    transform: translateY(-3px);
+}
+
+/* 5. ENLACES EN EL TEXTO */
+a {
+    color: #0D9488;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(13, 148, 136, 0.2);
+}
+
+/* 6. AJUSTES PARA COMPUTADOR (PC) */
+@media (min-width: 768px) {
+    .main-nav {
+        justify-content: flex-start;
+    }
+
+    .intro {
+        flex-direction: row;      
+        text-align: left;
+        align-items: flex-start;
+        gap: 60px;
+    }
+
+    .social-links {
+        justify-content: flex-start;
+    }
+}
+
+/* Ajuste de título para móviles muy pequeños */
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.8rem;
+    }
+}
