@@ -1,101 +1,88 @@
 /* ==================================================
-   MODERN ACADEMIC STYLE — Optimized
+   MODERN ACADEMIC STYLE — Mobile First
    ================================================== */
 
 /* Base */
 body {
-    font-family: 'Source Sans 3', system-ui, -apple-system, sans-serif;
-    font-size: 18px; /* Un poco más grande para mejor lectura */
-    line-height: 1.65;
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
     color: #0F172A;
     background-color: #ffffff;
-    max-width: 850px; /* Ancho académico estándar */
+    max-width: 850px;
     margin: 40px auto;
     padding: 0 20px;
 }
 
 /* Headings */
-h1, h2, h3 {
+h1, h2 {
     font-family: 'DM Serif Display', serif;
     font-weight: 400;
     color: #0F172A;
-    line-height: 1.2;
 }
 
-h1 { font-size: 2.8rem; margin-bottom: 0.5rem; }
-h2 { font-size: 1.8rem; margin-top: 2.5rem; border-bottom: 1px solid #eee; padding-bottom: 0.5rem; }
+h1 { font-size: 2.5rem; margin-bottom: 0.5rem; }
 
-/* Links */
-a {
-    color: #0D9488;
-    text-decoration: none;
-    transition: all 0.2s ease;
-}
-
-a:hover {
-    color: #14B8A6;
-    text-decoration: underline;
-}
-
-/* Layout Responsivo para la Intro */
+/* --- CONTENEDOR PRINCIPAL (Intro) --- */
 .intro {
     display: flex;
-    flex-wrap: wrap; /* Esto permite que la foto baje en el celular */
-    gap: 2.5rem;
-    align-items: center;
+    flex-direction: column; /* POR DEFECTO: Foto arriba, texto abajo (Celular) */
+    align-items: center;    /* Centra los elementos */
+    text-align: center;     /* Centra el texto */
+    gap: 2rem;
     margin-top: 2rem;
 }
 
-/* Contenedor del texto dentro de la intro */
-.intro-text {
-    flex: 1;
-    min-width: 300px; /* Si el espacio es menor a 300px, saltará abajo */
-}
-
-/* Foto de Perfil */
 .foto-perfil {
-    width: 220px; /* Tamaño ideal para perfil académico */
+    width: 200px;
     height: auto;
     border-radius: 12px;
-    object-fit: cover;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.05); /* Sombra sutil */
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.intro-text {
+    flex: 1;
 }
 
 /* Social links */
 .social-links {
     margin-top: 1.5rem;
     display: flex;
+    justify-content: center;
     gap: 20px;
 }
 
 .social-links a {
     font-size: 1.5rem;
     color: #0F172A;
+    border: none;
 }
 
-.social-links a:hover {
-    color: #0D9488;
-    transform: translateY(-2px); /* Pequeña animación */
-}
-
-/* Ajustes para Celulares */
-@media (max-width: 600px) {
-    body {
-        margin: 20px auto;
-    }
-    
+/* --- AJUSTES PARA COMPUTADORA (Pantallas grandes) --- */
+@media (min-width: 768px) {
     .intro {
-        flex-direction: column; /* Foto arriba, texto abajo */
-        text-align: center;
-    }
-
-    .intro-text {
-        min-width: 100%;
+        flex-direction: row;    /* En PC: Foto a la izquierda, texto a la derecha */
+        text-align: left;       /* Texto alineado a la izquierda */
+        align-items: flex-start;
     }
 
     .social-links {
-        justify-content: center;
+        justify-content: flex-start; /* Iconos a la izquierda */
     }
-    
-    h1 { font-size: 2.2rem; }
+
+    .foto-perfil {
+        width: 240px; /* Un poco más grande en PC */
+    }
+}
+
+/* Links Generales */
+a {
+    color: #0D9488;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(13, 148, 136, 0.3);
+}
+
+a:hover {
+    color: #14B8A6;
+    border-bottom: 1px solid #14B8A6;
 }
