@@ -72,7 +72,7 @@ h1 {
 /* Y para que en celulares muy pequeños no sea demasiado grande: */
 @media (max-width: 480px) {
     h1 {
-        font-size: 1.2rem;
+        font-size: 1.5rem;
     }
 }
 
