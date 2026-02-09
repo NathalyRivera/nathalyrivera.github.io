@@ -7,7 +7,7 @@
 
 
 <section class="intro">
-  <img src="assets/img/nathaly_bw.jpg" alt="Nathaly M. Rivera" class="foto-perfil">
+  <img src="assets/img/nathaly_bw.JPG" alt="Nathaly M. Rivera" class="foto-perfil">
 
   <div>
     <h1>Nathaly M. Rivera</h1>
