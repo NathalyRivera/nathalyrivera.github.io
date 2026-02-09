@@ -15,7 +15,6 @@
 
     <nav class="main-nav">
         <a href="index.html">HOME</a>
-        <a href="cv.pdf" target="_blank">CV</a>
         <a href="research.html">RESEARCH</a>
         <a href="teaching.html">TEACHING</a>
         <a href="officehours.html">OFFICE HOURS</a>        
