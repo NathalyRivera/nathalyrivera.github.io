@@ -12,7 +12,14 @@
 
     <link rel="stylesheet" href="assets/style.css">
 </head>
+
 <body>
+<nav class="main-nav">
+    <a href="index.html">HOME</a>
+    <a href="cv.pdf" target="_blank">CV</a>
+    <a href="research.html">RESEARCH</a>
+    <a href="teaching.html">TEACHING</a>
+</nav>
 
 <section class="intro">
   <img src="assets/img/nathaly_bw.JPG" alt="Nathaly M. Rivera" class="foto-perfil">
