@@ -31,6 +31,8 @@
                 Economics at the University of Chile. My research and teaching interests 
                 are Environmental and Resource Economics, Energy Economics, and Applied 
                 Econometrics.
+                
+                Here is my CV. You can reach me at nmrivera[at]fen[.]uchile[.]cl
             </p>
 
             <div class="social-links">
