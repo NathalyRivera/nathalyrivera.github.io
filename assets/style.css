@@ -1,5 +1,5 @@
 /* ==================================================
-   MODERN ACADEMIC STYLE — Final Blue Unified
+   MODERN ACADEMIC STYLE — Final Refined Version
    ================================================== */
 
 body {
@@ -13,7 +13,7 @@ body {
     padding: 0 25px;
 }
 
-/* 1. NAVEGACIÓN (HOME, RESEARCH, etc.) */
+/* 1. NAVEGACIÓN (Arriba y Espaciada) */
 .main-nav {
     display: flex;
     justify-content: center; 
@@ -27,15 +27,15 @@ body {
     font-weight: 600;
     font-size: 0.9rem;
     letter-spacing: 1.5px;
-    color: #64748b; /* Gris suave en reposo */
+    color: #64748b;
     text-decoration: none;
     text-transform: uppercase;
     border: none !important; 
-    transition: all 0.3s ease;
+    transition: color 0.2s ease;
 }
 
 .main-nav a:hover {
-    color: #1a365d; /* Azul Marino Profundo solicitado */
+    color: #0D9488; /* Mantiene el teal para links de navegación */
 }
 
 /* 2. ESTRUCTURA INTRO */
@@ -63,7 +63,7 @@ body {
 
 h1 {
     font-family: 'DM Serif Display', serif;
-    font-weight: 400; 
+    font-weight: 400; /* Estilizado y fino */
     font-size: 2.2rem; 
     color: #0F172A;
     margin-top: 0;
@@ -76,9 +76,58 @@ strong {
     font-weight: 600;
 }
 
-/* 4. ICONOS SOCIALES — AZUL NOTORIO */
+/* 3. ICONOS SOCIALES (Azul sutil, no dominante) */
 .social-links {
     margin-top: 25px;
     display: flex;
     gap: 25px;
-    justify-content:
+    justify-content: center;
+}
+
+.social-links a i {
+    font-size: 1.6rem;
+    color: #64748b !important; /* Gris azulado suave */
+    transition: all 0.3s ease;
+}
+
+.social-links a:hover i {
+    color: #1e40af !important; /* Aquí sí aparece el azul como acento */
+    transform: translateY(-3px);
+}
+
+/* 4. ENLACES EN EL TEXTO */
+a {
+    color: #475569; /* Gris oscuro para links */
+    text-decoration: none;
+    border-bottom: 1px solid #cbd5e1;
+}
+
+a:hover {
+    color: #1e40af; /* El azul solo aparece en la interacción */
+    border-bottom: 1px solid #1e40af;
+}
+
+/* 6. AJUSTES PARA COMPUTADOR (PC) */
+@media (min-width: 768px) {
+    .main-nav {
+        justify-content: flex-start;
+    }
+
+    .intro {
+        flex-direction: row;      
+        text-align: left;
+        align-items: flex-start;
+        gap: 60px;
+    }
+
+    .social-links {
+        justify-content: flex-start;
+    }
+}
+
+/* Ajuste de título para móviles muy pequeños */
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.8rem;
+    }
+}
