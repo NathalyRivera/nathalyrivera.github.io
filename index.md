@@ -29,8 +29,8 @@
             <p>
                 Welcome to my website! I am an Assistant Professor in the Department of 
                 Economics at the <strong>University of Chile</strong>. My research and 
-                teaching interests are <strong>Environmental</strong> and <strong>Resource 
-                Economics</strong>, Energy Economics, and Applied Econometrics. Here is my 
+                teaching interests are Environmental and Resource 
+                Economics, Energy Economics, and Applied Econometrics. Here is my 
                 <strong>CV</strong>. 
             </p>
             <p>     
