@@ -100,7 +100,19 @@ nav a:hover {
 
 /* Esto hará que la foto no sea más ancha que su contenedor y se vea bien */
 .foto-perfil {
-    max-width: 300px; /* Puedes cambiar este número según prefieras */
-    height: auto;
-    border-radius: 10px; /* Esto le da bordes redondeados */
+    width: 100%;       /* Ocupará el ancho de su contenedor... */
+    max-width: 500px;  /* ...pero no crecerá más de 500 píxeles */
+    height: auto;      /* Mantiene la proporción para que no se deforme */
+    display: block;    /* Permite centrarla */
+    margin: 20px auto; /* La centra horizontalmente y da espacio arriba/abajo */
+    border-radius: 15px;
+}
+
+/*SOBRE EL ANCHO DE LA PAGINA */
+.contenedor {
+    max-width: 800px;   /* Este es un ancho muy cómodo para lectura */
+    margin: 0 auto;     /* Centra todo el bloque en la pantalla */
+    padding: 20px;      /* Deja un pequeño margen interno para que el texto no toque los bordes en el celular */
+    font-family: Arial, sans-serif; /* Mejora la tipografía */
+    line-height: 1.6;   /* Da espacio entre líneas de texto */
 }
