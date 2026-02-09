@@ -27,6 +27,7 @@
     </p>
 
     <p>
+      <a href="home.html">Home</a> ·  
       <a href="cv.pdf">CV</a> ·    
       <a href="research.html">Research</a> ·
       <a href="teaching.html">Teaching</a> ·
