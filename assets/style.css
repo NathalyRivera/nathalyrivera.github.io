@@ -97,3 +97,10 @@ nav a:hover {
 .social-links a:hover {
   color: #0D9488;
 }
+
+/* Esto hará que la foto no sea más ancha que su contenedor y se vea bien */
+.foto-perfil {
+    max-width: 300px; /* Puedes cambiar este número según prefieras */
+    height: auto;
+    border-radius: 10px; /* Esto le da bordes redondeados */
+}
