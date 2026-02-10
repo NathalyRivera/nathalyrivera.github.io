@@ -1,19 +1,19 @@
 /* ==================================================
-   MODERN ACADEMIC STYLE — Refined Slate Blue
+   MODERN ACADEMIC STYLE — Unified Blue & Soft Gray
    ================================================== */
 
 body {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 18px;
     line-height: 1.7;
-    color: #334155;
+    color: #4b5563;    /* Gris suave (Slate 600) para lectura descansada */
     background-color: #ffffff;
     max-width: 900px;
     margin: 60px auto;
     padding: 0 25px;
 }
 
-/* 1. NAVEGACIÓN (Gris oscuro al pasar el mouse) */
+/* 1. NAVEGACIÓN (Corregida a Azul en Hover) */
 .main-nav {
     display: flex;
     justify-content: center; 
@@ -27,14 +27,14 @@ body {
     font-weight: 600;
     font-size: 0.85rem;
     letter-spacing: 1.2px;
-    color: #94a3b8; /* Gris claro */
+    color: #94a3b8; /* Gris claro en reposo */
     text-decoration: none;
     text-transform: uppercase;
     transition: color 0.3s ease;
 }
 
 .main-nav a:hover {
-    color: #1e293b; /* Gris Oxford casi negro */
+    color: #2563eb; /* AHORA ES AZUL (Blue 600) al pasar el mouse */
 }
 
 /* 2. ESTRUCTURA INTRO */
@@ -57,12 +57,18 @@ h1 {
     font-family: 'DM Serif Display', serif;
     font-weight: 400; 
     font-size: 2.2rem; 
-    color: #0f172a;
+    color: #111827; /* Nombre en gris casi negro (fino) */
     margin-top: 0;
     margin-bottom: 1rem;
 }
 
-/* 3. ICONOS SOCIALES (Azul Pizarra / Slate Blue) */
+/* 3. RESALTADOS SUAVES (Menos fuertes) */
+strong {
+    color: #1f2937; /* Gris oscuro, no negro puro */
+    font-weight: 600; /* Semi-negrita elegante */
+}
+
+/* 4. ICONOS SOCIALES */
 .social-links {
     margin-top: 25px;
     display: flex;
@@ -72,31 +78,29 @@ h1 {
 
 .social-links a i {
     font-size: 1.6rem;
-    /* Este es el color clave: azul con fuerte base gris */
-    color: #475569 !important; 
+    color: #475569 !important; /* Azul-grisáceo suave */
     transition: all 0.3s ease;
 }
 
 .social-links a:hover i {
-    /* Al pasar el mouse, se vuelve un azul más profundo y vivo */
-    color: #2563eb !important; 
+    color: #2563eb !important; /* Azul en interacción */
     transform: translateY(-3px);
 }
 
-/* 4. ENLACES EN EL TEXTO */
+/* 5. ENLACES EN EL TEXTO */
 a {
-    color: #334155;
+    color: #4b5563; /* Siguen el color del texto para no distraer */
     text-decoration: none;
-    border-bottom: 1px solid #cbd5e1;
+    border-bottom: 1px solid #d1d5db;
     transition: all 0.2s ease;
 }
 
 a:hover {
-    color: #2563eb;
+    color: #2563eb; /* Cambian a azul al interactuar */
     border-bottom: 1px solid #2563eb;
 }
 
-/* 5. AJUSTES PC */
+/* 6. AJUSTES PC */
 @media (min-width: 768px) {
     .main-nav { justify-content: flex-start; }
     .intro {
