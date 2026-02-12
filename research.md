@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -45,7 +44,7 @@
                 <li class="pub-item">
                     <p class="pub-title">Air Pollution in the Global South: An Overview of its Sources and Impacts</p>
                     <p class="pub-authors">with <a href="https://www.sandraaguilargomez.com/" target="_blank" class="coauthor-link">Sandra Aguilar-Gomez</a></p>
-                    <p class="pub-journal"><em>Oxford Research Encyclopedia of Economics and Finance</em>, 2025</p>
+                    <p class="pub-journal"><em><strong>Oxford Research Encyclopedia of Economics and Finance</em></strong>, 2025</p>
                     <div class="pub-links">
                         <a href="https://doi.org/10.1093/acrefore/9780190625979.013.911" target="_blank">[View]</a>
                         <a href="javascript:void(0)" onclick="toggleAbstract('abs2')">[Abstract]</a>
