@@ -27,12 +27,12 @@
             <div class="teaching-category">
                 <h3>Instructor</h3>
                 <ul>
-                    <li><strong>2026:</strong> Introduction to Economics, <strong>University of Chile</strong></li>                
-                    <li><strong>2025:</strong> Environmental and Resource Economics (Msc Level), <strong>University of Chile</strong></li>
-                    <li><strong>2025:</strong> Introduction to Microeconomics, <strong>University of Chile</strong></li>
-                    <li><strong>2025:</strong> Introduction to Economics, <strong>University of Chile</strong></li>
-                    <li><strong>2024:</strong> Introduction to Environmental Economics, <strong>University of Chile</strong> (Rated 6.7/7)</li>
-                    <li><strong>2024:</strong> Introduction to Economics, <strong>University of Chile</strong></li>
+                    <li><strong>2026:</strong> Introduction to Economics, University of Chile </li>                
+                    <li><strong>2025:</strong> Environmental and Resource Economics (Msc Level), University of Chile (Rated 6.7/7)</li>
+                    <li><strong>2025:</strong> Introduction to Microeconomics, University of Chile (Rated 6.4/7)</li>
+                    <li><strong>2025:</strong> Introduction to Economics, University of Chile (Rated 6.3/7)</li>
+                    <li><strong>2024:</strong> Introduction to Environmental Economics, University of Chile (Rated 6/7)</li>
+                    <li><strong>2024:</strong> Introduction to Economics, University of Chile (Rated 5/7)</li>
                     <li><strong>2023:</strong> Introduction to Environmental Economics, <strong>University of Chile</strong> (Rated 6.7/7)</li>
                     <li><strong>2018-2020:</strong> Principles of Microeconomics, <strong>U. Alaska Anchorage</strong> (Rated 4.6/5)</li>
                     <li><strong>2017:</strong> Ecological (Environmental) Economics, <strong>Michigan State University</strong></li>
