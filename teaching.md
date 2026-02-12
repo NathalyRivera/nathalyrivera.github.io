@@ -33,17 +33,16 @@
                     <li><strong>2025:</strong> Introduction to Economics, University of Chile (Rated 6.3/7)</li>
                     <li><strong>2024:</strong> Introduction to Environmental Economics, University of Chile (Rated 6/7)</li>
                     <li><strong>2024:</strong> Introduction to Economics, University of Chile (Rated 5/7)</li>
-                    <li><strong>2023:</strong> Introduction to Environmental Economics, <strong>University of Chile</strong> (Rated 6.7/7)</li>
-                    <li><strong>2018-2020:</strong> Principles of Microeconomics, <strong>U. Alaska Anchorage</strong> (Rated 4.6/5)</li>
-                    <li><strong>2017:</strong> Ecological (Environmental) Economics, <strong>Michigan State University</strong></li>
+                    <li><strong>2023:</strong> Introduction to Environmental Economics, University of Chile (Rated 6.7/7)</li>
+                    <li><strong>2018-2020:</strong> Principles of Microeconomics, U. Alaska Anchorage (Rated 4.6/5)</li>
+                    <li><strong>2017:</strong> Ecological (Environmental) Economics, Michigan State University </li>
                 </ul>
             </div>
-
             <div class="teaching-category">
                 <h3>Teaching Assistant</h3>
                 <ul>
-                    <li><strong>2016:</strong> Ecological (Environmental) Economics (<a href="https://www.cloegarnache.com/" target="_blank">Professor Cloé Garnache</a>), <strong>Michigan State University</strong></li>
-                    <li><strong>2016:</strong> World Food Population & Poverty (<a href="https://www.kellogg.northwestern.edu/faculty/directory/dillon_andrew.aspx" target="_blank">Professor Andrew Dillon</a>), <strong>Michigan State University</strong></li>
+                    <li><strong>2016:</strong> Ecological (Environmental) Economics (<a href="https://www.cloegarnache.com/" target="_blank">Professor Cloé Garnache</a>), Michigan State University</li>
+                    <li><strong>2016:</strong> World Food Population & Poverty (<a href="https://www.kellogg.northwestern.edu/faculty/directory/dillon_andrew.aspx" target="_blank">Professor Andrew Dillon</a>), Michigan State University</li>
                 </ul>
             </div>
         </div>

@@ -128,7 +128,7 @@ a:hover {
     margin-bottom: 5px; /* Reduce espacio bajo el título principal */
 }
 
-.teaching-category h4 {
+.teaching-category h3 {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 1.1rem;
     color: #4b5563;
