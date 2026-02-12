@@ -83,7 +83,6 @@
                 </div>
             </li>
         </ol>                
-            </ol>
         </div> </section>
 
     <footer class="site-footer">
