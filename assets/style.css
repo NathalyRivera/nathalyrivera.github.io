@@ -120,7 +120,8 @@ a:hover {
 .intro-text {
     display: flex;
     flex-direction: column;
-    padding-top: 0; /* Sube todo el bloque de texto */
+    margin-top: 0 !important;
+    padding-top: 0 !important;
 }
 
 /* 2. Mueve el Instructor Head hacia arriba */
@@ -128,14 +129,16 @@ a:hover {
     margin-bottom: 5px; /* Reduce espacio bajo el título principal */
 }
 
+/* Esto elimina el espacio fantasma arriba de "Instructor" */
 .teaching-category h3 {
+    margin-top: 0 !important; /* Mueve el encabezado al nivel superior */
+    padding-top: 0 !important;
     font-family: 'Source Sans 3', sans-serif;
     font-size: 1.1rem;
     color: #4b5563;
     text-transform: uppercase;
     letter-spacing: 0.5px;
-    margin-top: 0; /* Elimina el espacio arriba de Instructor */
-    margin-bottom: 15px;
+    margin-bottom: 15px; /* Solo espacio hacia abajo */
 }
 
 /* Estilo para los links de los profesores dentro de la lista */
@@ -148,4 +151,9 @@ a:hover {
 .teaching-category a:hover {
     color: #2563eb;
     border-bottom: 1px solid #2563eb;
+}
+
+/* Alineación de la sección principal */
+.intro {
+    align-items: flex-start !important; /* Fuerza a que ambos (foto y texto) empiecen arriba */
 }
