@@ -36,26 +36,36 @@ body {
 }
 
 .main-nav a:hover {
-    color: #2563eb; /* Azul al pasar el mouse */
+    color: #2563eb; /* Azul elegante al pasar el mouse */
 }
 
-/* 3. ESTRUCTURA GENERAL (LAYOUT) */
+/* 3. ESTRUCTURA DE DOS COLUMNAS (Intro) */
 .intro {
     display: flex;
-    flex-direction: column; /* Una sola columna por defecto */
-    align-items: center;
-    gap: 30px;
+    flex-direction: row;      /* Lado a lado */
+    align-items: flex-start;  /* Alineación al techo */
+    gap: 50px;                /* Espacio entre foto y texto */
+    margin-top: 20px;
 }
 
 .intro-text {
-    width: 100%;
+    flex: 1;                  /* Toma el resto del espacio */
     display: flex;
-    flex-direction: column;
+    flex-direction: column;   /* El texto fluye hacia abajo */
     margin-top: 0 !important;
     padding-top: 0 !important;
 }
 
-/* 4. TIPOGRAFÍA Y RESALTADOS */
+/* 4. FOTOS DE PERFIL */
+.foto-perfil {
+    width: 200px !important;  /* Tamaño controlado para que no sea gigante */
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+    flex-shrink: 0;           /* Evita que la foto se aplaste */
+}
+
+/* 5. TIPOGRAFÍA Y TÍTULOS */
 h1 {
     font-family: 'DM Serif Display', serif;
     font-weight: 400; 
@@ -65,12 +75,25 @@ h1 {
     margin-bottom: 1rem;
 }
 
+/* Título secundario (Instructor / TA) */
+.teaching-category h3 {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 1.1rem;
+    color: #1f2937;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #f1f5f9;
+}
+
 strong {
     color: #1f2937;
     font-weight: 600;
 }
 
-/* 5. ENLACES DEL CUERPO */
+/* 6. ENLACES Y LISTAS */
 a {
     color: #4b5563;
     text-decoration: none !important;
@@ -83,12 +106,17 @@ a:hover {
     border-bottom: 1px solid #2563eb;
 }
 
-/* 6. FOTOS DE PERFIL */
-.foto-perfil {
-    width: 220px;
-    height: auto;
-    border-radius: 12px;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+.teaching-category ul {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 30px;
+}
+
+.teaching-category li {
+    margin-bottom: 10px;
+    font-size: 0.85rem !important; /* Fuente pequeña para los cursos */
+    color: #4b5563;
+    line-height: 1.6;
 }
 
 /* 7. ICONOS SOCIALES */
@@ -96,7 +124,7 @@ a:hover {
     margin-top: 25px;
     display: flex;
     gap: 25px;
-    justify-content: center;
+    justify-content: flex-start;
 }
 
 .social-links a i {
@@ -110,38 +138,7 @@ a:hover {
     transform: translateY(-3px);
 }
 
-/* 8. PÁGINA DE TEACHING (Una sola columna) */
-.teaching-category h3 {
-    margin-top: 0 !important;
-    padding-top: 0 !important;
-    font-family: 'Source Sans 3', sans-serif;
-    font-size: 1.1rem;
-    color: #4b5563;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    margin-bottom: 15px;
-    border-bottom: 1px solid #f1f5f9;
-}
-
-.teaching-category ul {
-    list-style: none;
-    padding: 0;
-    margin-bottom: 30px;
-}
-
-.teaching-category li {
-    margin-bottom: 10px;
-    font-size: 0.85rem !important; /* Fuente pequeña solicitada */
-    color: #4b5563;
-    line-height: 1.6;
-}
-
-.teaching-category li strong {
-    font-weight: 600;
-    color: #1f2937;
-}
-
-/* 9. BOTÓN CALENDLY (OFFICE HOURS) */
+/* 8. BOTÓN CALENDLY (OFFICE HOURS) */
 .btn-calendly {
     display: inline-flex;
     align-items: center;
@@ -165,19 +162,22 @@ a:hover {
     box-shadow: 0 4px 12px rgba(37, 99, 235, 0.2);
 }
 
-/* 10. AJUSTES RESPONSIVOS (Solo para Index/Home si quieres dos columnas ahí) */
-@media (min-width: 768px) {
-    .main-nav { justify-content: flex-start; }
-    
-    /* Si el Home usa la clase .intro-home, este se verá en dos columnas */
-    .intro-home {
-        flex-direction: row;      
-        text-align: left;
-        align-items: flex-start;
-        gap: 60px;
+/* 9. AJUSTES PARA MÓVIL */
+@media (max-width: 768px) {
+    .main-nav { 
+        gap: 20px;
+        flex-wrap: wrap;
     }
-}
+    
+    .intro {
+        flex-direction: column;   /* Foto arriba, texto abajo */
+        align-items: center;
+        text-align: center;
+    }
 
-@media (max-width: 480px) {
+    .social-links {
+        justify-content: center;
+    }
+
     h1 { font-size: 1.8rem; }
 }

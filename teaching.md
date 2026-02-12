@@ -20,17 +20,16 @@
         <a href="officehours.html">OFFICE HOURS</a> 
     </nav>
 
-    <section class="teaching-container">
+    <section class="intro">
         
-        <div class="teaching-header">
-            <img src="assets/img/nathaly_bw.JPG" alt="Teaching" class="foto-perfil-centered">
-        </div>
+        <img src="assets/img/nathaly_bw.JPG" alt="Nathaly M. Rivera" class="foto-perfil">    
         
-        <div class="teaching-content">
+        <div class="intro-text">
+            
             <div class="teaching-category">
-                <h3>Instructor</h3>
+                <h3 style="margin-top: 0 !important;">Instructor</h3>
                 <ul>
-                    <li><strong>2026:</strong> Introduction to Economics, University of Chile </li>                
+                    <li><strong>2026:</strong> Introduction to Economics, University of Chile</li>                
                     <li><strong>2025:</strong> Environmental and Resource Economics (Msc Level), University of Chile (Rated 6.7/7)</li>
                     <li><strong>2025:</strong> Introduction to Microeconomics, University of Chile (Rated 6.4/7)</li>
                     <li><strong>2025:</strong> Introduction to Economics, University of Chile (Rated 6.3/7)</li>
@@ -38,7 +37,7 @@
                     <li><strong>2024:</strong> Introduction to Economics, University of Chile (Rated 5/7)</li>
                     <li><strong>2023:</strong> Introduction to Environmental Economics, University of Chile (Rated 6.7/7)</li>
                     <li><strong>2018-2020:</strong> Principles of Microeconomics, U. Alaska Anchorage (Rated 4.6/5)</li>
-                    <li><strong>2017:</strong> Ecological (Environmental) Economics, Michigan State University </li>
+                    <li><strong>2017:</strong> Ecological (Environmental) Economics, Michigan State University</li>
                 </ul>
             </div>
 
@@ -49,8 +48,8 @@
                     <li><strong>2016:</strong> World Food Population & Poverty (<a href="https://www.kellogg.northwestern.edu/faculty/directory/dillon_andrew.aspx" target="_blank">Professor Andrew Dillon</a>), Michigan State University</li>
                 </ul>
             </div>
-        </div>
-    </section>
+
+        </div> </section>
 
 </body>
 </html>
