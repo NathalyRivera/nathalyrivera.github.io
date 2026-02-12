@@ -118,5 +118,8 @@
         }
     </script>
 
+<footer class="site-footer">
+    <p>&copy; 2026 Nathaly M. Rivera. All rights reserved.</p>
+</footer>
 </body>
 </html>
