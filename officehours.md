@@ -31,7 +31,7 @@
                 an available time slot that works for you.
             </p>
 
-            <a href="https://calendly.com/TU_USUARIO" target="_blank" class="btn-calendly">
+            <a href="https://calendly.com/nmrivera-fen" target="_blank" class="btn-calendly">
                 <i class="fa-regular fa-calendar-check"></i> Schedule a Meeting
             </a>
             
