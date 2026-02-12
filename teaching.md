@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -25,14 +24,13 @@
         <img src="assets/img/nathaly_bw.JPG" alt="Teaching" class="foto-perfil">    
         
         <div class="intro-text">
-            <h1 class="teaching-title">Teaching</h1>
-
             <div class="teaching-category">
                 <h4>Instructor</h4>
                 <ul>
+                    <li><strong>2026:</strong> Introduction to Economics, <strong>University of Chile</strong></li>                
                     <li><strong>2025:</strong> Environmental and Resource Economics (Msc Level), <strong>University of Chile</strong></li>
-                    <li><strong>2025:</strong> Introduction to Economics, <strong>University of Chile</strong></li>
                     <li><strong>2025:</strong> Introduction to Microeconomics, <strong>University of Chile</strong></li>
+                    <li><strong>2025:</strong> Introduction to Economics, <strong>University of Chile</strong></li>
                     <li><strong>2024:</strong> Introduction to Environmental Economics, <strong>University of Chile</strong> (Rated 6.7/7)</li>
                     <li><strong>2024:</strong> Introduction to Economics, <strong>University of Chile</strong></li>
                     <li><strong>2023:</strong> Introduction to Environmental Economics, <strong>University of Chile</strong> (Rated 6.7/7)</li>

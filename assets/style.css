@@ -115,3 +115,37 @@ a:hover {
 @media (max-width: 480px) {
     h1 { font-size: 1.8rem; }
 }
+
+/* Asegura que el contenedor de texto no tenga margen superior extra */
+.intro-text {
+    display: flex;
+    flex-direction: column;
+    padding-top: 0; /* Sube todo el bloque de texto */
+}
+
+/* 2. Mueve el Instructor Head hacia arriba */
+.teaching-title {
+    margin-bottom: 5px; /* Reduce espacio bajo el título principal */
+}
+
+.teaching-category h4 {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 1.1rem;
+    color: #4b5563;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-top: 0; /* Elimina el espacio arriba de Instructor */
+    margin-bottom: 15px;
+}
+
+/* Estilo para los links de los profesores dentro de la lista */
+.teaching-category a {
+    color: #475569; 
+    text-decoration: none;
+    border-bottom: 1px solid #cbd5e1;
+}
+
+.teaching-category a:hover {
+    color: #2563eb;
+    border-bottom: 1px solid #2563eb;
+}
