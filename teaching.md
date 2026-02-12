@@ -20,11 +20,15 @@
         <a href="officehours.html">OFFICE HOURS</a> 
     </nav>
 
-    <section class="intro">
-        <img src="assets/img/nathaly_bw.JPG" alt="Teaching" class="foto-perfil">    
+    <section class="teaching-container">
         
-        <div class="intro-text">
-            <h3 style="margin-top: 0;">Instructor</h3>
+        <div class="teaching-header">
+            <img src="assets/img/nathaly_bw.JPG" alt="Teaching" class="foto-perfil-centered">
+        </div>
+        
+        <div class="teaching-content">
+            <div class="teaching-category">
+                <h3>Instructor</h3>
                 <ul>
                     <li><strong>2026:</strong> Introduction to Economics, University of Chile </li>                
                     <li><strong>2025:</strong> Environmental and Resource Economics (Msc Level), University of Chile (Rated 6.7/7)</li>
@@ -37,6 +41,7 @@
                     <li><strong>2017:</strong> Ecological (Environmental) Economics, Michigan State University </li>
                 </ul>
             </div>
+
             <div class="teaching-category">
                 <h3>Teaching Assistant</h3>
                 <ul>
