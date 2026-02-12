@@ -140,7 +140,7 @@
             </div>
         </li>    
         
-<li class="pub-item">
+      <li class="pub-item">
             <p class="pub-title">Oil, Politics, and “Corrupt Bastards”</p>
             <p class="pub-authors">with <a href="https://www.alexandergjames.com" target="_blank" class="coauthor-link">Alex James</a></p>
             <p class="pub-journal"><em>Journal of Environmental Economics and Management</em>, 2022</p>
@@ -179,6 +179,64 @@
             </div>
         </li>        
         </ol>
+        
+        <h2 class="section-heading" style="margin-top: 50px;">Other Peer-Reviewed Publications</h2>
+            <ol class="pub-list" reversed>
+                <li class="pub-item">
+                    <p class="pub-title">Spatial Aggregation Bias in Implicit Prices of Environmental Amenities</p>
+                    <p class="pub-authors">Nathaly M. Rivera</p>
+                    <p class="pub-journal"><em>Economics Bulletin</em>, 2019</p>
+                    <div class="pub-links">
+                        <a href="#" target="_blank">[View]</a>
+                    </div>
+                </li>
+
+                <li class="pub-item">
+                    <p class="pub-title">Disaggregation of Sectors in Social Accounting Matrices Using a Customized Wolsky Method: A Comment on its Estimation Bias</p>
+                    <p class="pub-authors">Nathaly M. Rivera</p>
+                    <p class="pub-journal"><em>Applied Economics Letters</em>, 2016</p>
+                    <div class="pub-links">
+                        <a href="#" target="_blank">[View]</a>
+                    </div>
+                </li>
+
+                <li class="pub-item">
+                    <p class="pub-title">Scales of Production and Mining Economies: The Case of Chile in its Regional Dimension</p>
+                    <p class="pub-authors">with <a href="#" class="coauthor-link">Patricio Aroca</a> (In Spanish)</p>
+                    <p class="pub-journal"><em>EURE</em>, 2014</p>
+                    <div class="pub-links">
+                        <a href="#" target="_blank">[View]</a>
+                        <span class="media-links">— <a href="#" target="_blank">[Media Coverage]</a></span>
+                    </div>
+                </li>
+            </ol>
+
+            <h2 class="section-heading" style="margin-top: 50px;">Chapters in Books</h2>
+            <ol class="pub-list" reversed>
+                <li class="pub-item">
+                    <p class="pub-title">Project Analysis and the Regional Dimension</p>
+                    <p class="pub-authors">with <a href="#" class="coauthor-link">Patricio Aroca</a></p>
+                    <p class="pub-journal">in <em>Evaluación Social de Proyectos: Orientaciones para su Aplicación</em>. Aguilera, R. (Editor). Facultad de Ciencias Sociales, Universidad de la República, Uruguay. 2011</p>
+                </li>
+
+                <li class="pub-item">
+                    <p class="pub-title">Copper Mining in the Antofagasta Region</p>
+                    <p class="pub-authors">with <a href="#" class="coauthor-link">Patricio Aroca</a></p>
+                    <p class="pub-journal">in <em>Región de Antofagasta, Pasado, Presente y Futuro</em>. Llagostera, A. (Editor). Ediciones Universitarias, Universidad Católica del Norte, Chile. 2010</p>
+                </li>
+
+                <li class="pub-item">
+                    <p class="pub-title">Water Resources in a Dry Area</p>
+                    <p class="pub-authors">with <a href="#" class="coauthor-link">Marcelo Lufin</a> and <a href="#" class="coauthor-link">Marcos Hasewaga</a></p>
+                    <p class="pub-journal">in <em>Región de Antofagasta, Pasado, Presente y Futuro</em>. Llagostera, A. (Editor). Ediciones Universitarias, Universidad Católica del Norte, Chile. 2010</p>
+                </li>
+
+                <li class="pub-item">
+                    <p class="pub-title">La Experiencia del Instituto de Economía Aplicada Regional (IDEAR) de la Universidad Católica del Norte</p>
+                    <p class="pub-authors">with <a href="#" class="coauthor-link">Esteban Lopez Ochoa</a></p>
+                    <p class="pub-journal">in <em>Centros de pensamiento estratégico territorial: Instrumentos de la gobernanza regional en Chile</em>, Vergara, P. (Editor). Subsecretaría de Desarrollo Regional y Administrativo, Chile. 2010</p>
+                </li>
+            </ol>        
         </div> </section>
 
     <footer class="site-footer">

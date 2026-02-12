@@ -25,7 +25,7 @@
         <img src="assets/img/nathaly_bw.JPG" alt="Nathaly M. Rivera" class="foto-perfil">    
         
         <div class="intro-text">
-           <h2 class="section-heading" style="margin-top: 50px;">Work in Progress</h2>
+           <h2 class="section-heading" style="margin-top: 50px;">Selected Work in Progress</h2>
             <ol class="pub-list">
                 <li class="pub-item">
                     <p class="pub-title">Blasting Dust: The Pollution-Health Impact of Industrial Mining Developments</p>
@@ -48,6 +48,41 @@
                         This paper investigates how water scarcity affecting hydroelectric generation leads to an increase in fossil fuel-based electricity production, impacting local air quality and infant health in Chile...
                     </div>
                 </li>
+  
+            <li class="pub-item">
+                <p class="pub-title">Renewable Energies, Fossil Fuel Displacement and Academic Performance in Environmental Justice Communities</p>
+                <p class="pub-authors">Nathaly M. Rivera</p>
+                <p class="pub-journal">Winner of CAF Grant 2022-2023</p>
+                <div class="pub-links">
+                    <a href="javascript:void(0)" onclick="toggleAbstract('abs-wip1')">[Abstract]</a>
+                </div>
+                <div id="abs-wip1" class="abstract-box">
+                    This project investigates the nexus between renewable energy adoption and educational outcomes in vulnerable communities. By analyzing the displacement of fossil fuel generation, I estimate the potential gains in cognitive performance and school attendance resulting from improved local air quality...
+                </div>
+            </li>
+
+            <li class="pub-item">
+                <p class="pub-title">Environmental Enforcement in the Aftermath of Major Environmental Disasters</p>
+                <p class="pub-authors">with <a href="#" class="coauthor-link">Lenin Balza</a> and <a href="#" class="coauthor-link">Nicolás Gomez</a></p>
+                <div class="pub-links">
+                    <a href="javascript:void(0)" onclick="toggleAbstract('abs-wip2')">[Abstract]</a>
+                </div>
+                <div id="abs-wip2" class="abstract-box">
+                    We examine how environmental regulatory bodies adjust their enforcement stringency following large-scale ecological disasters. Using a panel of industrial facilities, we track changes in inspection frequencies and sanctioning behavior to understand the political and social drivers of regulatory responses...
+                </div>
+            </li>
+
+            <li class="pub-item">
+                <p class="pub-title">The Economics of Green Technology Adoption in Latin America</p>
+                <p class="pub-authors">with <a href="#" class="coauthor-link">Lenin Balza</a>, <a href="#" class="coauthor-link">Hernán Bejarano</a>, and <a href="#" class="coauthor-link">Nicolás Gomez</a></p>
+                <div class="pub-links">
+                    <a href="javascript:void(0)" onclick="toggleAbstract('abs-wip3')">[Abstract]</a>
+                </div>
+                <div id="abs-wip3" class="abstract-box">
+                    This research explores the barriers and incentives for green technology diffusion in developing economies. We focus on how institutional quality and credit constraints shape the adoption of sustainable practices across various industrial sectors in the region...
+                </div>
+            </li>
+        </ol>                
             </ol>
         </div> </section>
 
