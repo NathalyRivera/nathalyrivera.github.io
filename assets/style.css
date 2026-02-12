@@ -7,14 +7,14 @@ body {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 18px;
     line-height: 1.7;
-    color: #4b5563;    /* Gris suave (Slate 600) */
+    color: #4b5563;    
     background-color: #ffffff;
     max-width: 900px;
     margin: 60px auto;
     padding: 0 25px;
 }
 
-/* 2. NAVEGACIÓN (Limpia y sin subrayado) */
+/* 2. NAVEGACIÓN */
 .main-nav {
     display: flex;
     justify-content: center; 
@@ -36,36 +36,37 @@ body {
 }
 
 .main-nav a:hover {
-    color: #2563eb; /* Azul elegante al pasar el mouse */
+    color: #2563eb; 
 }
 
-/* 3. ESTRUCTURA DE DOS COLUMNAS (Intro) */
+/* 3. ESTRUCTURA DE COLUMNAS (Intro) */
 .intro {
     display: flex;
-    flex-direction: row;      /* Lado a lado */
-    align-items: flex-start;  /* Alineación al techo */
-    gap: 50px;                /* Espacio entre foto y texto */
+    flex-direction: row;      
+    align-items: flex-start;  
+    gap: 50px;                
     margin-top: 20px;
 }
 
 .intro-text {
-    flex: 1;                  /* Toma el resto del espacio */
+    flex: 1;                  
     display: flex;
-    flex-direction: column;   /* El texto fluye hacia abajo */
+    flex-direction: column;   
     margin-top: 0 !important;
     padding-top: 0 !important;
 }
 
-/* 4. FOTOS DE PERFIL */
+/* Foto a la derecha en PC */
 .foto-perfil {
-    width: 200px !important;  /* Tamaño controlado para que no sea gigante */
+    width: 200px !important;  
     height: auto;
     border-radius: 12px;
     box-shadow: 0 10px 30px rgba(0,0,0,0.05);
-    flex-shrink: 0;           /* Evita que la foto se aplaste */
+    flex-shrink: 0;           
+    order: 2; /* Mueve la foto a la derecha */
 }
 
-/* 5. TIPOGRAFÍA Y TÍTULOS */
+/* 4. TIPOGRAFÍA GENERAL */
 h1 {
     font-family: 'DM Serif Display', serif;
     font-weight: 400; 
@@ -75,51 +76,109 @@ h1 {
     margin-bottom: 1rem;
 }
 
-/* Título secundario (Instructor / TA) */
-.teaching-category h3 {
-    margin-top: 0 !important;
-    padding-top: 0 !important;
-    font-family: 'Source Sans 3', sans-serif;
-    font-size: 1.1rem;
-    color: #1f2937;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    margin-bottom: 15px;
-    border-bottom: 1px solid #f1f5f9;
-}
-
 strong {
     color: #1f2937;
     font-weight: 600;
 }
 
-/* 6. ENLACES Y LISTAS */
-a {
-    color: #4b5563;
+/* 5. SECCIÓN RESEARCH (Estilo Compacto) */
+.section-heading {
+    font-size: 1.35rem; 
+    color: #111827;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 0;
+    margin-bottom: 10px !important; /* Espacio reducido con la lista */
+    border-bottom: 1px solid #f1f5f9;
+    padding-bottom: 8px;
+}
+
+.pub-list {
+    padding-left: 20px;
+    margin-top: 0 !important; /* Pega la lista al título */
+    margin-bottom: 40px;
+}
+
+.pub-item {
+    margin-top: 0 !important;
+    margin-bottom: 30px; 
+    padding-top: 0 !important;
+}
+
+.pub-item::marker {
+    font-weight: 600;
+    color: #94a3b8; 
+}
+
+.pub-title {
+    font-weight: 600;
+    font-size: 1.05rem;
+    color: #111827;
+    margin-top: 0 !important;
+    margin-bottom: 4px !important;
+}
+
+/* Coautores más claros */
+.pub-authors {
+    font-size: 0.95rem;
+    color: #94a3b8 !important; 
+    margin: 0 !important;
+}
+
+.coauthor-link {
+    color: #94a3b8 !important;
     text-decoration: none !important;
-    border-bottom: 1px solid #d1d5db;
-    transition: all 0.2s ease;
+    border-bottom: 1px solid transparent !important;
 }
 
-a:hover {
-    color: #2563eb;
-    border-bottom: 1px solid #2563eb;
+.coauthor-link:hover {
+    color: #2563eb !important;
 }
 
-.teaching-category ul {
-    list-style: none;
-    padding: 0;
-    margin-bottom: 30px;
+.pub-journal {
+    font-size: 0.95rem;
+    margin: 2px 0 !important;
+    color: #64748b;
 }
 
-.teaching-category li {
-    margin-bottom: 10px;
-    font-size: 0.9rem !important; /* Fuente pequeña para los cursos */
-    color: #4b5563;
+/* Links y Featured In */
+.pub-links {
+    margin-top: 8px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.pub-links a {
+    font-size: 0.85rem;
+    color: #2563eb !important;
+    text-decoration: none !important;
+    border: none !important;
+}
+
+.pub-links a:hover {
+    text-decoration: underline !important;
+}
+
+.media-links {
+    font-size: 0.75rem !important; 
+    color: #94a3b8;
+    margin-left: 5px;
+}
+
+/* Abstract Box */
+.abstract-box {
+    display: none;
+    margin-top: 15px;
+    font-size: 0.88rem;
     line-height: 1.6;
+    color: #4b5563;
+    padding: 10px 0 10px 15px;
+    border-left: 1px solid #e5e7eb;
 }
 
-/* 7. ICONOS SOCIALES */
+/* 6. ICONOS SOCIALES Y BOTONES */
 .social-links {
     margin-top: 25px;
     display: flex;
@@ -130,181 +189,35 @@ a:hover {
 .social-links a i {
     font-size: 1.6rem;
     color: #475569 !important; 
-    transition: all 0.3s ease;
 }
 
-.social-links a:hover i {
-    color: #2563eb !important;
-    transform: translateY(-3px);
-}
-
-/* 8. BOTÓN CALENDLY (OFFICE HOURS) - Unificado con Social Media */
 .btn-calendly {
     display: inline-flex;
     align-items: center;
     gap: 10px;
-    background-color: #475569; /* Mismo azul-grisáceo de los iconos sociales */
+    background-color: #475569; 
     color: white !important;
     padding: 12px 24px;
     border-radius: 8px;
     text-decoration: none !important;
     font-weight: 600;
-    font-size: 0.9rem; /* Un poco más pequeño para ser elegante */
-    margin-top: 15px;
     transition: all 0.3s ease;
-    border: none !important;
-    width: fit-content;
 }
 
 .btn-calendly:hover {
-    background-color: #2563eb; /* El azul vibrante de interacción */
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.15);
+    background-color: #2563eb;
 }
 
-/* 9. AJUSTES PARA MÓVIL */
+/* 7. AJUSTES RESPONSIVOS */
 @media (max-width: 768px) {
-    .main-nav { 
-        gap: 20px;
-        flex-wrap: wrap;
-    }
-    
     .intro {
-        flex-direction: column;   /* Foto arriba, texto abajo */
+        flex-direction: column;   
         align-items: center;
         text-align: center;
     }
-
-    .social-links {
-        justify-content: center;
+    .foto-perfil {
+        order: -1; /* Foto arriba en móvil */
+        margin-bottom: 20px;
     }
-
-    h1 { font-size: 1.8rem; }
-}
-
-* --- RESEARCH (ESTILO MINIMALISTA) --- */
-
-.research-container {
-    max-width: 800px;
-    margin: 0 auto;
-}
-
-.section-heading {
-    font-size: 1.2rem;
-    color: #111827;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    margin-bottom: 40px;
-    border-bottom: 1px solid #f1f5f9;
-    padding-bottom: 10px;
-}
-
-.pub-item {
-    margin-bottom: 40px;
-}
-
-.pub-title {
-    font-weight: 600;
-    font-size: 1.05rem;
-    color: #111827;
-    margin-bottom: 4px !important;
-}
-
-.pub-authors {
-    font-size: 0.95rem;
-    margin: 0 !important;
-    color: #4b5563;
-}
-
-/* Link de coautor discreto */
-.coauthor-link {
-    color: #4b5563 !important;
-    border-bottom: 1px solid transparent !important;
-    transition: color 0.2s ease;
-}
-
-.coauthor-link:hover {
-    color: #2563eb !important;
-    border-bottom: 1px solid #2563eb !important;
-}
-
-.pub-journal {
-    font-size: 0.95rem;
-    margin: 2px 0 !important;
-    color: #64748b;
-}
-
-/* Enlaces de Paper/Abstract */
-.pub-links {
-    margin-top: 10px;
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    flex-wrap: wrap;
-}
-
-.pub-links a {
-    font-size: 0.85rem;
-    color: #2563eb !important;
-    border: none !important;
-    text-decoration: none !important;
-    font-weight: 400;
-}
-
-.pub-links a:hover {
-    text-decoration: underline !important;
-}
-
-/* Sección Featured In */
-.media-links {
-    font-size: 0.85rem;
-    color: #94a3b8;
-    margin-left: 5px;
-}
-
-.media-links a {
-    color: #64748b !important;
-    margin-left: 2px;
-}
-
-.media-links a:hover {
-    color: #2563eb !important;
-}
-
-/* Abstract Box */
-.abstract-box {
-    display: none;
-    margin-top: 15px;
-    font-size: 0.9rem;
-    line-height: 1.6;
-    color: #4b5563;
-    padding: 10px 0 10px 20px;
-    border-left: 1px solid #e5e7eb;
-    background-color: #fcfcfc;
-}
-
-/* Asegura que en pantallas grandes la foto se quede a la derecha con espacio */
-@media (min-width: 768px) {
-    .intro {
-        flex-direction: row; /* Mantiene el lado a lado */
-        align-items: flex-start;
-    }
-    
-    .intro img.foto-perfil {
-        order: 2; /* Fuerza que la foto sea el segundo elemento visual */
-        margin-left: 40px; /* Espacio entre el texto y la foto */
-        margin-right: 0;
-    }
-
-    .intro-text {
-        order: 1; /* Fuerza que el texto sea el primero */
-    }
-}
-
-/* Featured in: Más pequeño y discreto como pediste */
-.media-links {
-    font-size: 0.75rem !important; 
-    color: #94a3b8;
-    letter-spacing: 0.2px;
+    .pub-list { text-align: left; }
 }
