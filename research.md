@@ -27,6 +27,20 @@
             
             <h2 class="section-heading">Peer-Reviewed Publications</h2>
             <ol class="pub-list">
+               <li class="pub-item">
+                    <p class="pub-title">Digging Deep: Resource Exploitation and High-Level Education</p>
+                    <p class="pub-authors">with <a href="https://leninbalza.com" target="_blank" class="coauthor-link">Lenin Balza</a> and <a href="#" class="coauthor-link">Camilo de los Rios</a></p>
+                    <p class="pub-journal"><em>World Development</em>, 2026</p>
+                    <div class="pub-links">
+                        <a href="#" target="_blank">[View]</a>
+                        <a href="#" target="_blank">[Accepted Version]</a>
+                        <a href="javascript:void(0)" onclick="toggleAbstract('abs-world')">[Abstract]</a>
+                    </div>
+                    <div id="abs-world" class="abstract-box">
+                        This paper explores the relationship between natural resource exploitation and the demand for high-level education... [Puedes completar el abstract aquí].
+                    </div>
+                </li>
+            
                 <li class="pub-item">
                     <p class="pub-title">Wood-Burning Restrictions and Air Pollution: The Case of Air Quality Warnings in Southern Chile</p>
                     <p class="pub-authors">with <a href="https://sites.google.com/view/cristianconcha" target="_blank" class="coauthor-link">Cristian Concha</a></p>
@@ -54,6 +68,19 @@
                 </li>
             </ol>
 
+             <li class="pub-item">
+                    <p class="pub-title">Unconditional Cash Transfers and Voter Turnout</p>
+                    <p class="pub-authors">with <a href="https://sites.google.com/site/alexjameseconomics/" target="_blank" class="coauthor-link">Alex James</a> and <a href="https://www.brocksmith.net/" target="_blank" class="coauthor-link">Brock Smith</a></p>
+                    <p class="pub-journal"><em>Economic Inquiry</em>, 2025</p>
+                    <div class="pub-links">
+                        <a href="#" target="_blank">[View]</a>
+                        <a href="javascript:void(0)" onclick="toggleAbstract('abs-inquiry')">[Abstract]</a>
+                    </div>
+                    <div id="abs-inquiry" class="abstract-box">
+                        We examine how unconditional cash transfers affect democratic participation, specifically focusing on voter turnout... [Puedes completar el abstract aquí].
+                    </div>
+                </li>
+                
             <h2 class="section-heading" style="margin-top: 50px;">Working Papers</h2>
             <ol class="pub-list">
                 <li class="pub-item">
