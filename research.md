@@ -20,68 +20,47 @@
         <a href="officehours.html">OFFICE HOURS</a> 
     </nav>
 
-    <section class="research-container">
-        <h2 class="section-heading">Peer-Reviewed Publications</h2>
+    <section class="intro">
+        
+        <div class="intro-text">
+            <h2 class="section-heading">Peer-Reviewed Publications</h2>
 
-        <div class="pub-item">
-            <p class="pub-title">Wood-Burning Restrictions and Air Pollution: The Case of Air Quality Warnings in Southern Chile</p>
-            <p class="pub-authors">with <a href="https://sites.google.com/view/cristianconcha" target="_blank" class="coauthor-link">Cristian Concha</a></p>
-            <p class="pub-journal">Accepted at <em>Environment and Development Economics</em>, 2025</p>
-            
-            <div class="pub-links">
-                <a href="#">[Paper]</a>
-                <a href="javascript:void(0)" onclick="toggleAbstract('abs1')">[Abstract]</a>
-                <span class="media-links">— Featured in: <a href="#">[Universidad de Chile]</a> <a href="#">[La Tribuna]</a></span>
-            </div>
-            
-            <div id="abs1" class="abstract-box">
-                This paper examines the impact of wood-burning restrictions on air quality in Southern Chile. Using a regression discontinuity design, we evaluate how air quality warnings influence household behavior and local pollution levels...
-            </div>
+            <ol class="pub-list">
+                <li class="pub-item">
+                    <p class="pub-title">Wood-Burning Restrictions and Air Pollution: The Case of Air Quality Warnings in Southern Chile</p>
+                    <p class="pub-authors">with <a href="#" class="coauthor-link">Cristian Concha</a></p>
+                    <p class="pub-journal">Accepted at <em>Environment and Development Economics</em>, 2025</p>
+                    <div class="pub-links">
+                        <a href="#">[Paper]</a>
+                        <a href="javascript:void(0)" onclick="toggleAbstract('abs1')">[Abstract]</a>
+                        <span class="media-links">— Featured in: <a href="#">[Universidad de Chile]</a></span>
+                    </div>
+                    <div id="abs1" class="abstract-box">Texto del abstract...</div>
+                </li>
+                </ol>
+
+            <h2 class="section-heading" style="margin-top: 50px;">Working Papers</h2>
+            <ol class="pub-list">
+                <li class="pub-item">
+                    <p class="pub-title">Blasting Dust: The Pollution-Health Impact of Industrial Mining Developments</p>
+                    <p class="pub-authors">with <a href="#" class="coauthor-link">Gustavo Ahumada</a>, <a href="#" class="coauthor-link">Lenin Balza</a> and <a href="#" class="coauthor-link">Nicolás Gomez</a></p>
+                    <div class="pub-links">
+                        <a href="javascript:void(0)" onclick="toggleAbstract('abs3')">[Abstract]</a>
+                    </div>
+                    <div id="abs3" class="abstract-box">Texto del abstract...</div>
+                </li>
+            </ol>
         </div>
 
-        <div class="pub-item">
-            <p class="pub-title">Air Pollution in the Global South: An Overview of its Sources and Impacts</p>
-            <p class="pub-authors">with <a href="https://www.sandraagulargomez.com/" target="_blank" class="coauthor-link">Sandra Aguilar-Gomez</a></p>
-            <p class="pub-journal"><em>Oxford Research Encyclopedia of Economics and Finance</em>, 2025</p>
-            
-            <div class="pub-links">
-                <a href="#">[Paper]</a>
-                <a href="javascript:void(0)" onclick="toggleAbstract('abs2')">[Abstract]</a>
-            </div>
-            
-            <div id="abs2" class="abstract-box">
-                This overview provides a comprehensive analysis of the unique challenges regarding air pollution in developing nations. We synthesize recent evidence on the sources of pollution and the disproportionate health and economic impacts...
-            </div>
-        </div>
+        <img src="assets/img/nathaly_bw.JPG" alt="Nathaly M. Rivera" class="foto-perfil">    
 
-        <div class="pub-item">
-            <p class="pub-title">The Health Benefits of Solar Power Generation: Evidence from Chile</p>
-            <p class="pub-authors">with <a href="#" class="coauthor-link">Beia Spiller</a> and <a href="#" class="coauthor-link">J. Cristobal Ruiz-Tagle</a></p>
-            <p class="pub-journal"><em>Journal of Environmental Economics and Management</em>, 2024</p>
-            
-            <div class="pub-links">
-                <a href="#">[Paper]</a>
-                <a href="javascript:void(0)" onclick="toggleAbstract('abs3')">[Abstract]</a>
-                <span class="media-links">— Featured in: <a href="#">[EDF Blog Post]</a> <a href="#">[Foco Económico]</a> <a href="#">[La Tercera]</a></span>
-            </div>
-            
-            <div id="abs3" class="abstract-box">
-                We investigate the impact of large-scale solar entry into the Chilean electricity market on local air pollution and health outcomes...
-            </div>
-        </div>
-
-        </section>
+    </section>
 
     <script>
         function toggleAbstract(id) {
             var x = document.getElementById(id);
-            if (x.style.display === "block") {
-                x.style.display = "none";
-            } else {
-                x.style.display = "block";
-            }
+            x.style.display = (x.style.display === "block") ? "none" : "block";
         }
     </script>
-
 </body>
 </html>

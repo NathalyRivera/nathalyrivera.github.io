@@ -283,3 +283,28 @@ a:hover {
     border-left: 1px solid #e5e7eb;
     background-color: #fcfcfc;
 }
+
+/* Asegura que en pantallas grandes la foto se quede a la derecha con espacio */
+@media (min-width: 768px) {
+    .intro {
+        flex-direction: row; /* Mantiene el lado a lado */
+        align-items: flex-start;
+    }
+    
+    .intro img.foto-perfil {
+        order: 2; /* Fuerza que la foto sea el segundo elemento visual */
+        margin-left: 40px; /* Espacio entre el texto y la foto */
+        margin-right: 0;
+    }
+
+    .intro-text {
+        order: 1; /* Fuerza que el texto sea el primero */
+    }
+}
+
+/* Featured in: Más pequeño y discreto como pediste */
+.media-links {
+    font-size: 0.75rem !important; 
+    color: #94a3b8;
+    letter-spacing: 0.2px;
+}
