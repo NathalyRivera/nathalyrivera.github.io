@@ -24,8 +24,7 @@
         <img src="assets/img/nathaly_bw.JPG" alt="Teaching" class="foto-perfil">    
         
         <div class="intro-text">
-            <div class="teaching-category">
-                <h3>Instructor</h3>
+            <h3 style="margin-top: 0;">Instructor</h3>
                 <ul>
                     <li><strong>2026:</strong> Introduction to Economics, University of Chile </li>                
                     <li><strong>2025:</strong> Environmental and Resource Economics (Msc Level), University of Chile (Rated 6.7/7)</li>
