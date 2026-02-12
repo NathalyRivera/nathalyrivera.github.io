@@ -18,49 +18,43 @@
     </nav>
 
     <section class="research-container">
-        <h3 class="section-title">PEER-REVIEWED PUBLICATIONS</h3>
+        <h2 class="section-heading">Peer-Reviewed Publications</h2>
 
-        <ol class="publications-list">
-            <li>
-                <div class="paper-header">
-                    <span class="paper-title">Wood-Burning Restrictions and Air Pollution: The Case of Air Quality Warnings in Southern Chile</span>
-                    <span class="paper-authors">(with Cristian Concha)</span>
-                    <div class="inline-links">
-                        <a href="#" class="link-view">[View]</a>
-                        <button class="btn-abstract-link" onclick="toggleAbstract('abs1')">[Abstract]</button>
-                    </div>
-                </div>
-                <div class="paper-details">
-                    Accepted at <em>Environment and Development Economics</em>, 2025.
-                </div>
-                <div id="abs1" class="abstract-content">
-                    This paper examines the impact of wood-burning restrictions on air quality in Southern Chile. Using a regression discontinuity design, we evaluate how air quality warnings influence household behavior and local pollution levels...
-                </div>
-            </li>
+        <div class="pub-item">
+            <p class="pub-title">Wood-Burning Restrictions and Air Pollution: The Case of Air Quality Warnings in Southern Chile</p>
+            <p class="pub-authors">with Cristian Concha</p>
+            <p class="pub-journal">Accepted at <em>Environment and Development Economics</em>, 2025</p>
+            <div class="pub-links">
+                <a href="#">[Paper]</a>
+                <a href="javascript:void(0)" onclick="toggleAbstract('abs1')">[Abstract]</a>
+            </div>
+            <div id="abs1" class="abstract-box">
+                This paper examines the impact of wood-burning restrictions on air quality in Southern Chile. Using a regression discontinuity design, we evaluate how air quality warnings influence household behavior and local pollution levels...
+            </div>
+        </div>
 
-            <li>
-                <div class="paper-header">
-                    <span class="paper-title">Air Pollution in the Global South: An Overview of its Sources and Impacts</span>
-                    <span class="paper-authors">(with Sandra Aguilar-Gomez)</span>
-                    <div class="inline-links">
-                        <a href="#" class="link-view">[View]</a>
-                        <button class="btn-abstract-link" onclick="toggleAbstract('abs2')">[Abstract]</button>
-                    </div>
-                </div>
-                <div class="paper-details">
-                    <em>Oxford Research Encyclopedia of Economics and Finance</em>, 2025.
-                </div>
-                <div id="abs2" class="abstract-content">
-                    This overview provides a comprehensive analysis of the unique challenges regarding air pollution in developing nations. We synthesize recent evidence on the sources of pollution and the disproportionate health impacts...
-                </div>
-            </li>
-        </ol>
+        <div class="pub-item">
+            <p class="pub-title">Air Pollution in the Global South: An Overview of its Sources and Impacts</p>
+            <p class="pub-authors">with Sandra Aguilar-Gomez</p>
+            <p class="pub-journal"><em>Oxford Research Encyclopedia of Economics and Finance</em>, 2025</p>
+            <div class="pub-links">
+                <a href="#">[Paper]</a>
+                <a href="javascript:void(0)" onclick="toggleAbstract('abs2')">[Abstract]</a>
+            </div>
+            <div id="abs2" class="abstract-box">
+                This overview provides a comprehensive analysis of the unique challenges regarding air pollution in developing nations. We synthesize recent evidence on the sources of pollution and the disproportionate health and economic impacts...
+            </div>
+        </div>
     </section>
 
     <script>
         function toggleAbstract(id) {
-            var content = document.getElementById(id);
-            content.style.display = (content.style.display === "block") ? "none" : "block";
+            var x = document.getElementById(id);
+            if (x.style.display === "block") {
+                x.style.display = "none";
+            } else {
+                x.style.display = "block";
+            }
         }
     </script>
 </body>
