@@ -119,10 +119,16 @@ strong {
     width: 100%;
 }
 
+/* --- NÚMEROS DE LA LISTA: MÁS PEQUEÑOS Y DISCRETOS --- */
+.pub-list li::marker {
+    font-size: 0.85rem;    /* Tamaño reducido (estaba heredando el 18px del body) */
+    color: #cbd5e1;        /* Gris muy suave para que no compita con el título */
+    font-weight: 400;      /* Menos grosor */
+}
+
+/* Asegura que haya un espacio elegante entre el número y el texto */
 .pub-list {
-    padding-left: 20px;
-    margin-top: 0 !important;
-    margin-bottom: 40px;
+    padding-left: 25px;    /* Ajusta este valor si el número queda muy pegado o lejos */
 }
 
 .pub-item {
