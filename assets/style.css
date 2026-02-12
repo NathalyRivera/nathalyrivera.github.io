@@ -168,7 +168,7 @@ strong {
 .pub-journal {
     font-size: 0.95rem;
     /* Un azul grisáceo sutil que lo distingue del texto base */
-    color: #64748b !important; 
+    color: #475569 !important; /* Este es el azul-gris que lo diferencia */
     margin: 2px 0 !important;
     font-weight: 400;
 }
