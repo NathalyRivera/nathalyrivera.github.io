@@ -26,7 +26,7 @@
         <div class="intro-text">
             
             <h2 class="section-heading">Peer-Reviewed Publications</h2>
-            <ol class="pub-list">
+            <ol class="pub-list" reversed>
                <li class="pub-item">
                     <p class="pub-title">Digging Deep: Resource Exploitation and High-Level Education</p>
                     <p class="pub-authors">with <a href="https://scholar.google.com/citations?hl=en&user=1K-_JF0AAAAJ&view_op=list_works" target="_blank" class="coauthor-link">Lenin Balza</a> and <a href="https://sites.google.com/view/cdelosriosru" class="coauthor-link">Camilo de los Rios</a></p>
