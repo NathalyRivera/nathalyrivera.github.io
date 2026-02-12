@@ -113,7 +113,71 @@
                         Recent studies have shown a relationship between air pollution and increased vulnerability and mortality due to COVID-19. Most of these studies have looked at developed countries. This study examines the relationship between long-term exposure to air pollution and COVID-19-related deaths in four countries of Latin America that have been highly affected by the pandemic: Brazil, Chile, Colombia, and Mexico. Our results suggest that an increase in long-term exposure of 1 μg/m3 of fine particles is associated with a 2.7 percent increase in the COVID-19 mortality rate. This relationship is found primarily in municipalities of metropolitan areas, where urban air pollution sources dominate, and air quality guidelines are usually exceeded. By focusing the analysis on Latin America, we provide a first glimpse on the role of air pollution as a risk factor for COVID-19 mortality within a context characterized by weak environmental institutions, limited health care capacity and high levels of inequality.
                     </div>
                 </li> 
-            </ol>
+                
+        <li class="pub-item">
+            <p class="pub-title">Coal-to-Gas Fuel Switching and its Effects on Housing Prices</p>
+            <p class="pub-authors">with <a href="https://www.canr.msu.edu/people/scott_loveridge" target="_blank" class="coauthor-link">Scott Loveridge</a></p>
+            <p class="pub-journal"><em>Energy Economics</em>, 2022</p>
+            <div class="pub-links">
+                <a href="https://doi.org/10.1016/j.eneco.2022.106103" target="_blank">[View]</a>
+                <a href="javascript:void(0)" onclick="toggleAbstract('abs-coal')">[Abstract]</a>
+            </div>
+            <div id="abs-coal" class="abstract-box">
+                We examine the local economic impacts of fuel switching in the power sector, specifically the transition from coal to natural gas. Using a hedonic housing price approach, we find that retiring coal units and replacing them with natural gas leads to significant property value appreciation in nearby communities...
+            </div>
+        </li>
+
+        <li class="pub-item">
+            <p class="pub-title">Air Quality Warnings and Temporary Driving Bans: Evidence from Air Pollution, Car Trips, and Mass-Transit Ridership in Santiago</p>
+            <p class="pub-authors">Nathaly M. Rivera</p> <p class="pub-journal"><em>Journal of Environmental Economics and Management</em>, 2021</p>
+            <div class="pub-links">
+                <a href="https://doi.org/10.1016/j.jeem.2021.102434" target="_blank">[View]</a>
+                <a href="javascript:void(0)" onclick="toggleAbstract('abs-santiago')">[Abstract]</a>
+            </div>
+            <div id="abs-santiago" class="abstract-box">
+                This paper evaluates the effectiveness of temporary driving bans triggered by air quality warnings in Santiago, Chile. By combining high-frequency data on pollution, traffic flows, and public transport ridership, I show how commuters respond to short-term environmental regulations and the resulting impact on air quality...
+            </div>
+        </li>    
+        
+<li class="pub-item">
+            <p class="pub-title">Oil, Politics, and “Corrupt Bastards”</p>
+            <p class="pub-authors">with <a href="https://www.alexandergjames.com" target="_blank" class="coauthor-link">Alex James</a></p>
+            <p class="pub-journal"><em>Journal of Environmental Economics and Management</em>, 2022</p>
+            <div class="pub-links">
+                <a href="https://doi.org/10.1016/j.jeem.2022.102660" target="_blank">[View]</a>
+                <a href="javascript:void(0)" onclick="toggleAbstract('abs-oil')">[Abstract]</a>
+            </div>
+            <div id="abs-oil" class="abstract-box">
+                We investigate whether oil wealth influences political corruption and public perception of governance. Using a variety of identification strategies, we explore the "resource curse" from a political economy perspective, focusing on the quality of institutions...
+            </div>
+        </li>
+
+        <li class="pub-item">
+            <p class="pub-title">Is Mining and Environmental Disamenity? Evidence from Resource Extraction Site Openings</p>
+            <p class="pub-authors">Nathaly M. Rivera</p>
+            <p class="pub-journal"><em>Environmental and Resource Economics</em>, 2020</p>
+            <div class="pub-links">
+                <a href="https://doi.org/10.1007/s10640-020-00511-y" target="_blank">[View]</a>
+                <a href="javascript:void(0)" onclick="toggleAbstract('abs-disamenity')">[Abstract]</a>
+            </div>
+            <div id="abs-disamenity" class="abstract-box">
+                This paper examines the impact of industrial mining openings on local welfare, measured through housing prices. By analyzing property value fluctuations around new extraction sites, I provide evidence on how communities weigh the economic benefits against the environmental costs...
+            </div>
+        </li>
+
+        <li class="pub-item">
+            <p class="pub-title">Mineral Taxes and the Local Public Goods Provision in Mining Communities</p>
+            <p class="pub-authors">with <a href="https://scholar.google.com/citations?user=P_P_K_8AAAAJ&hl=en" target="_blank" class="coauthor-link">Dusan Paredes</a></p>
+            <p class="pub-journal"><em>Resources Policy</em>, 2017</p>
+            <div class="pub-links">
+                <a href="https://doi.org/10.1016/j.resourpol.2017.06.012" target="_blank">[View]</a>
+                <a href="javascript:void(0)" onclick="toggleAbstract('abs-taxes')">[Abstract]</a>
+            </div>
+            <div id="abs-taxes" class="abstract-box">
+                We analyze how the redistribution of mineral tax revenues affects the provision of local public goods. Using data from mining districts, we show the extent to which fiscal windfalls are translated into improvements in local infrastructure and services...
+            </div>
+        </li>        
+        </ol>
             
             <h2 class="section-heading" style="margin-top: 50px;">Work in Progress</h2>
             <ol class="pub-list">
