@@ -32,26 +32,25 @@
                     <p class="pub-authors">with <a href="https://sites.google.com/view/cristianconcha" target="_blank" class="coauthor-link">Cristian Concha</a></p>
                     <p class="pub-journal">Accepted at <em>Environment and Development Economics</em>, 2025</p>
                     <div class="pub-links">
-                        <a href="#">[Paper]</a>
+                        <a href="https://www.cambridge.org/core/journals/environment-and-development-economics/article/abs/woodburning-restrictions-and-air-pollution-the-case-of-air-quality-warnings-in-southern-chile/D5E8D3E03698146778DDF32786DA3FC7?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark" target="_blank">[View]</a>
                         <a href="javascript:void(0)" onclick="toggleAbstract('abs1')">[Abstract]</a>
-                        <span class="media-links">— Featured in: <a href="#">[Universidad de Chile]</a> <a href="#">[La Tribuna]</a></span>
+                        <span class="media-links">— Featured in: <a href="https://uchile.cl/noticias/230506/u-de-chile-evalua-plan-anticontaminacion-en-los-angeles-y-sus-limites">[Universidad de Chile]</a> <a href="#">[La Tribuna]</a></span>
                     </div>
                     <div id="abs1" class="abstract-box">
-                        This paper examines the impact of wood-burning restrictions on air quality in Southern Chile. Using a regression discontinuity design, we evaluate how air quality warnings influence household behavior and local pollution levels...
+                        Despite the substantial evidence linking particulate matter exposure to adverse health outcomes, a large portion of the global population, particularly in low-income countries, continues to rely on highly polluting fuels, such as wood, for cooking and heating. This study evaluates the immediate effects of wood-burning restrictions, which are triggered by air quality warnings, on levels of fine (PM2.5) and coarse (PM10) particulate matter in southern Chile. Using a difference-in-differences design that incorporates pre-policy data, we provide plausible causal estimates indicating that wood-burning restrictions lead to significant reductions in hourly PM10 and PM2.5 concentrations during the most severe air quality warning. Additional analyses, including a regression discontinuity design, further support these findings. While our analysis suggests that wood-burning restrictions are effective, they may not be sufficient to reduce air pollution concentrations to levels that are considered safe for public health.
                     </div>
                 </li>
 
                 <li class="pub-item">
                     <p class="pub-title">Air Pollution in the Global South: An Overview of its Sources and Impacts</p>
                     <p class="pub-authors">with <a href="https://www.sandraaguilargomez.com/" target="_blank" class="coauthor-link">Sandra Aguilar-Gomez</a></p>
-                    <p class="pub-journal"><strong>Oxford Research Encyclopedia of Economics and Finance</strong>, 2025</p>
+                    <p class="pub-journal"><em>Oxford Research Encyclopedia of Economics and Finance</em>, 2025</p>
                     <div class="pub-links">
                         <a href="https://doi.org/10.1093/acrefore/9780190625979.013.911" target="_blank">[View]</a>
                         <a href="javascript:void(0)" onclick="toggleAbstract('abs2')">[Abstract]</a>
                     </div>
                     <div id="abs2" class="abstract-box">
-                        This overview provides a comprehensive analysis of the unique challenges regarding air pollution in developing nations. We synthesize recent evidence on the sources of pollution and the disproportionate health and economic impacts...
-                    </div>
+                  The literature on the impacts of air pollution on both health and non-health outcomes in the Global South is examined, focusing on the growing body of causal evidence, and on the several pollution sources that are particularly relevant in the Global South, including indoor air pollution, particulate emissions from wildfires, and agricultural burning. The evidence consistently shows that, across different contexts, air pollution has severe health consequences, including high rates of respiratory and cardiovascular diseases, as well as premature mortality. Indoor air pollution, in particular, poses a significant burden, especially in rural areas. In addition to health impacts, air pollution also has non-health consequences, such as reduced productivity, impaired cognitive performance, pollution-induced migration, and associated economic impacts. The review highlights the growing body of scientific research documenting these impacts. Yet, notable regional disparities still remain.                    </div>
                 </li>
             </ol>
 
