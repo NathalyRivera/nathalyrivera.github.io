@@ -221,3 +221,39 @@ strong {
     }
     .pub-list { text-align: left; }
 }
+
+/* --- ELIMINACIÓN TOTAL DE ESPACIOS EN RESEARCH --- */
+
+.section-heading {
+    font-size: 1.35rem; 
+    color: #111827;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 0 !important;       /* Fuerza inicio arriba */
+    margin-bottom: 5px !important;  /* Casi pegado a la lista */
+    border-bottom: 1px solid #f1f5f9;
+    padding-bottom: 8px;
+}
+
+.pub-list {
+    padding-left: 20px;
+    margin-top: 0 !important;       /* Elimina el margen superior de la lista <ol> */
+    padding-top: 0 !important;
+    margin-bottom: 40px;
+}
+
+.pub-item {
+    margin-top: 0 !important;       /* Elimina el margen superior de cada <li> */
+    padding-top: 0 !important;
+    margin-bottom: 25px;            /* Espacio solo entre un artículo y otro */
+}
+
+.pub-title {
+    font-weight: 600;
+    font-size: 1.05rem;
+    color: #111827;
+    margin-top: 0 !important;       /* El culpable: los <p> traen margen arriba por defecto */
+    margin-bottom: 4px !important;
+    line-height: 1.3;
+}
