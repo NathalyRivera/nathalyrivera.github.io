@@ -167,17 +167,18 @@ strong {
     .pub-list { text-align: left; }
 }
 
-/* --- FOOTER / COPYRIGHT --- */
+/* --- FOOTER / COPYRIGHT ULTRA-MINIMALISTA --- */
 .site-footer {
-    margin-top: 80px;      /* Espacio después del contenido */
-    padding-top: 20px;
-    border-top: 1px solid #f1f5f9; /* Línea muy tenue superior */
+    margin-top: 100px;      /* Mucho espacio antes para que esté al fondo */
+    padding-bottom: 30px;   /* Espacio respecto al borde inferior del navegador */
     text-align: center;
 }
 
 .site-footer p {
-    font-size: 0.75rem;    /* Letra bien pequeña */
-    color: #94a3b8;        /* Gris claro (Slate 400) */
-    letter-spacing: 0.5px;
-    text-transform: uppercase; /* Opcional: le da un toque formal */
+    font-size: 0.65rem !important; /* Letra muy pequeña */
+    color: #cbd5e1 !important;    /* Gris muy suave (Slate 300) */
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+    margin: 0 !important;         /* Elimina cualquier espacio inflado */
+    font-weight: 300;
 }
