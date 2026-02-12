@@ -1,5 +1,5 @@
 /* ==================================================
-   MODERN ACADEMIC STYLE — Final Clean Version
+   MODERN ACADEMIC STYLE — Final Clean Version 2.0
    ================================================== */
 
 /* 1. ESTILOS BASE */
@@ -54,7 +54,7 @@ body {
     flex-direction: column;   
     margin-top: 0 !important;
     padding-top: 0 !important;
-    order: 2 !important; /* El texto va después de la foto */
+    order: 2 !important; 
 }
 
 /* Foto a la IZQUIERDA */
@@ -64,7 +64,7 @@ body {
     border-radius: 12px;
     box-shadow: 0 10px 30px rgba(0,0,0,0.05);
     flex-shrink: 0;           
-    order: 1 !important; /* Fuerza la foto al primer lugar (izquierda) */
+    order: 1 !important; 
 }
 
 /* 4. TIPOGRAFÍA GENERAL */
@@ -82,7 +82,33 @@ strong {
     font-weight: 600;
 }
 
-/* 5. SECCIÓN RESEARCH (Compacto y sin espacios extra) */
+/* 5. SECCIÓN TEACHING (Letra pequeña solicitada) */
+.teaching-category h3 {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 1.1rem;
+    color: #1f2937;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #f1f5f9;
+    padding-bottom: 5px;
+}
+
+.teaching-category ul {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 30px;
+}
+
+.teaching-category li {
+    font-size: 0.85rem !important; /* Letra pequeña para los cursos */
+    line-height: 1.6;
+    margin-bottom: 10px;
+    color: #4b5563;
+}
+
+/* 6. SECCIÓN RESEARCH (Compacto y sin espacios extra) */
 .section-heading {
     font-size: 1.35rem; 
     color: #111827;
@@ -113,7 +139,6 @@ strong {
     color: #94a3b8; 
 }
 
-/* Reset de párrafos para eliminar espacios fantasmas */
 .pub-item p {
     margin-top: 0 !important;
     margin-bottom: 4px !important;
@@ -126,7 +151,6 @@ strong {
     line-height: 1.3;
 }
 
-/* Coautores más claros */
 .pub-authors {
     font-size: 0.95rem;
     color: #94a3b8 !important; 
@@ -135,7 +159,6 @@ strong {
 .coauthor-link {
     color: #94a3b8 !important;
     text-decoration: none !important;
-    border-bottom: 1px solid transparent !important;
 }
 
 .coauthor-link:hover {
@@ -147,7 +170,6 @@ strong {
     color: #64748b;
 }
 
-/* Links y Featured In */
 .pub-links {
     margin-top: 8px;
     display: flex;
@@ -171,7 +193,6 @@ strong {
     margin-left: 5px;
 }
 
-/* Abstract Box */
 .abstract-box {
     display: none;
     margin-top: 15px;
@@ -182,7 +203,7 @@ strong {
     border-left: 1px solid #e5e7eb;
 }
 
-/* 6. ICONOS SOCIALES Y BOTONES */
+/* 7. ICONOS SOCIALES Y BOTONES */
 .social-links {
     margin-top: 25px;
     display: flex;
@@ -212,7 +233,7 @@ strong {
     background-color: #2563eb;
 }
 
-/* 7. AJUSTES RESPONSIVOS */
+/* 8. AJUSTES RESPONSIVOS */
 @media (max-width: 768px) {
     .intro {
         flex-direction: column;   
@@ -220,7 +241,7 @@ strong {
         text-align: center;
     }
     .foto-perfil {
-        order: -1 !important; /* Foto siempre arriba en móvil */
+        order: -1 !important; 
         margin-bottom: 20px;
     }
     .pub-list { text-align: left; }
