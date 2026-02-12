@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -21,69 +22,77 @@
     </nav>
 
     <section class="intro">
+        <img src="assets/img/nathaly_bw.JPG" alt="Nathaly M. Rivera" class="foto-perfil">    
         
         <div class="intro-text">
+            
             <h2 class="section-heading">Peer-Reviewed Publications</h2>
-
             <ol class="pub-list">
                 <li class="pub-item">
                     <p class="pub-title">Wood-Burning Restrictions and Air Pollution: The Case of Air Quality Warnings in Southern Chile</p>
-                    <p class="pub-authors">with <a href="#" class="coauthor-link">Cristian Concha</a></p>
+                    <p class="pub-authors">with <a href="https://sites.google.com/view/cristianconcha" target="_blank" class="coauthor-link">Cristian Concha</a></p>
                     <p class="pub-journal">Accepted at <em>Environment and Development Economics</em>, 2025</p>
                     <div class="pub-links">
                         <a href="#">[Paper]</a>
                         <a href="javascript:void(0)" onclick="toggleAbstract('abs1')">[Abstract]</a>
-                        <span class="media-links">— Featured in: <a href="#">[Universidad de Chile]</a></span>
+                        <span class="media-links">— Featured in: <a href="#">[Universidad de Chile]</a> <a href="#">[La Tribuna]</a></span>
                     </div>
-                    <div id="abs1" class="abstract-box">Texto del abstract...</div>
+                    <div id="abs1" class="abstract-box">
+                        This paper examines the impact of wood-burning restrictions on air quality in Southern Chile. Using a regression discontinuity design, we evaluate how air quality warnings influence household behavior and local pollution levels...
+                    </div>
                 </li>
-                
-              <li class="pub-item">
+
+                <li class="pub-item">
                     <p class="pub-title">Air Pollution in the Global South: An Overview of its Sources and Impacts</p>
                     <p class="pub-authors">with <a href="https://www.sandraaguilargomez.com/" target="_blank" class="coauthor-link">Sandra Aguilar-Gomez</a></p>
                     <p class="pub-journal"><em>Oxford Research Encyclopedia of Economics and Finance</em>, 2025</p>
                     <div class="pub-links">
                         <a href="https://doi.org/10.1093/acrefore/9780190625979.013.911" target="_blank">[View]</a>
-                        <a href="javascript:void(0)" onclick="toggleAbstract('abs5')">[Abstract]</a>
+                        <a href="javascript:void(0)" onclick="toggleAbstract('abs2')">[Abstract]</a>
                     </div>
-                    <div id="abs5" class="abstract-box">
+                    <div id="abs2" class="abstract-box">
                         This overview provides a comprehensive analysis of the unique challenges regarding air pollution in developing nations. We synthesize recent evidence on the sources of pollution and the disproportionate health and economic impacts...
                     </div>
-                </li>              
-                </ol>
-                
+                </li>
+            </ol>
+
             <h2 class="section-heading" style="margin-top: 50px;">Working Papers</h2>
             <ol class="pub-list">
                 <li class="pub-item">
                     <p class="pub-title">Blasting Dust: The Pollution-Health Impact of Industrial Mining Developments</p>
                     <p class="pub-authors">with <a href="#" class="coauthor-link">Gustavo Ahumada</a>, <a href="#" class="coauthor-link">Lenin Balza</a> and <a href="#" class="coauthor-link">Nicolás Gomez</a></p>
                     <div class="pub-links">
-                        <a href="javascript:void(0)" onclick="toggleAbstract('abs3')">[Abstract]</a>
+                        <a href="javascript:void(0)" onclick="toggleAbstract('abs-w1')">[Abstract]</a>
                     </div>
-                    <div id="abs3" class="abstract-box">Texto del abstract...</div>
+                    <div id="abs-w1" class="abstract-box">
+                        We study the pollution-health impact of industrial mining developments, specifically focusing on the effects of blasting dust...
+                    </div>
                 </li>
-              <li class="pub-item">
+
+                <li class="pub-item">
                     <p class="pub-title">Droughts, Dirty Energy, and Health</p>
                     <p class="pub-authors">with <a href="#" class="coauthor-link">Danae Hernandez-Cortes</a>, <a href="#" class="coauthor-link">Sophie Mathes</a>, and <a href="#" class="coauthor-link">Ricardo Ramos Fontes</a></p>
                     <div class="pub-links">
                         <a href="javascript:void(0)" onclick="toggleAbstract('abs-w2')">[Abstract]</a>
                     </div>
                     <div id="abs-w2" class="abstract-box">
-                        We study how water scarcity affecting hydroelectric generation leads to an increase in fossil fuel-based electricity production, impacting local air quality and infant health in Chile...
+                        This paper investigates how water scarcity affecting hydroelectric generation leads to an increase in fossil fuel-based electricity production, impacting local air quality and infant health in Chile...
                     </div>
-                </li>                
+                </li>
             </ol>
-        </div>
 
-        <img src="assets/img/nathaly_bw.JPG" alt="Nathaly M. Rivera" class="foto-perfil">    
-
-    </section>
+        </div> </section>
 
     <script>
         function toggleAbstract(id) {
             var x = document.getElementById(id);
-            x.style.display = (x.style.display === "block") ? "none" : "block";
+            if (x.style.display === "block") {
+                x.style.display = "none";
+            } else {
+                x.style.display = "block";
+            }
         }
     </script>
+
 </body>
 </html>
