@@ -24,25 +24,31 @@
         <img src="assets/img/nathaly_bw.JPG" alt="Nathaly M. Rivera" class="foto-perfil">    
         
         <div class="intro-text">
-            <h4 style="margin-top: 0;">OFFICE HOURS</h4>
-            <p>
-                Students are welcome to schedule a meeting to discuss coursework, 
-                research, or academic advising. Please use the link below to find 
-                an available time slot that works for you.
-            </p>
+            <div class="teaching-category">
+                <h3>Office Hours</h3>
+                
+                <p>
+                    Students are welcome to schedule a meeting to discuss coursework, 
+                    research, or academic advising. Please use the link below to find 
+                    an available time slot that works for you.
+                </p>
 
-            <a href="https://calendly.com/nmrivera-fen" target="_blank" class="btn-calendly">
-                <i class="fa-regular fa-calendar-check"></i> Schedule a Meeting
-            </a>
-            
-            <p style="margin-top: 20px; font-size: 0.9rem; color: #64748b;">
-                * Meetings are typically held via Zoom or at my office in the Department of Economics.
-            </p>
+                <div style="margin-top: 25px; margin-bottom: 25px;">
+                    <a href="https://calendly.com/nmrivera-fen" target="_blank" class="btn-calendly">
+                        <i class="fa-regular fa-calendar-check"></i> Schedule a Meeting
+                    </a>
+                </div>
+                
+                <p style="font-size: 0.85rem; color: #94a3b8; line-height: 1.5;">
+                    * Meetings are typically held via Zoom or at my office in the Department of Economics.
+                </p>
+            </div>
         </div>
     </section>
 
-<footer class="site-footer">
-    <p>&copy; 2026 Nathaly M. Rivera. All rights reserved.</p>
-</footer>
+    <footer class="site-footer">
+        <p>&copy; 2026 Nathaly M. Rivera. All rights reserved.</p>
+    </footer>
+
 </body>
 </html>
