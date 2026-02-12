@@ -121,9 +121,9 @@ strong {
 
 /* --- NÚMEROS DE LA LISTA: MÁS PEQUEÑOS Y DISCRETOS --- */
 .pub-list li::marker {
-    font-size: 0.85rem;    /* Tamaño reducido (estaba heredando el 18px del body) */
-    color: #cbd5e1;        /* Gris muy suave para que no compita con el título */
-    font-weight: 400;      /* Menos grosor */
+    font-size: 0.85rem;    
+    color: #334155 !important; /* El mismo color Slate 700 que definimos para el journal */
+    font-weight: 600;          /* Un poco más de peso para que el color luzca */
 }
 
 /* Asegura que haya un espacio elegante entre el número y el texto */
