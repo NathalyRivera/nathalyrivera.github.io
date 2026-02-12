@@ -15,9 +15,10 @@
 
     <nav class="main-nav">
         <a href="index.html">HOME</a>
-        <a href="research.html">RESEARCH</a>
+        <a href="research.html">PUBLICATIONS</a>
+        <a href="workinprogress.html">WORK IN PROGRESS</a>        
         <a href="teaching.html">TEACHING</a>
-        <a href="officehours.html">OFFICE HOURS</a>        
+        <a href="officehours.html">OFFICE HOURS</a>       
     </nav>
 
     <section class="intro">

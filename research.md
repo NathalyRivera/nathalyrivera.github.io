@@ -15,7 +15,8 @@
 
     <nav class="main-nav">
         <a href="index.html">HOME</a>
-        <a href="research.html">RESEARCH</a>
+        <a href="research.html">PUBLICATIONS</a>
+        <a href="workinprogress.html">WORK IN PROGRESS</a>        
         <a href="teaching.html">TEACHING</a>
         <a href="officehours.html">OFFICE HOURS</a> 
     </nav>
@@ -178,31 +179,6 @@
             </div>
         </li>        
         </ol>
-            
-            <h2 class="section-heading" style="margin-top: 50px;">Work in Progress</h2>
-            <ol class="pub-list">
-                <li class="pub-item">
-                    <p class="pub-title">Blasting Dust: The Pollution-Health Impact of Industrial Mining Developments</p>
-                    <p class="pub-authors">with <a href="#" class="coauthor-link">Gustavo Ahumada</a>, <a href="#" class="coauthor-link">Lenin Balza</a> and <a href="#" class="coauthor-link">Nicolás Gomez</a></p>
-                    <div class="pub-links">
-                        <a href="javascript:void(0)" onclick="toggleAbstract('abs-w1')">[Abstract]</a>
-                    </div>
-                    <div id="abs-w1" class="abstract-box">
-                        We study the pollution-health impact of industrial mining developments, specifically focusing on the effects of blasting dust...
-                    </div>
-                </li>
-
-                <li class="pub-item">
-                    <p class="pub-title">Droughts, Dirty Energy, and Health</p>
-                    <p class="pub-authors">with <a href="#" class="coauthor-link">Danae Hernandez-Cortes</a>, <a href="#" class="coauthor-link">Sophie Mathes</a>, and <a href="#" class="coauthor-link">Ricardo Ramos Fontes</a></p>
-                    <div class="pub-links">
-                        <a href="javascript:void(0)" onclick="toggleAbstract('abs-w2')">[Abstract]</a>
-                    </div>
-                    <div id="abs-w2" class="abstract-box">
-                        This paper investigates how water scarcity affecting hydroelectric generation leads to an increase in fossil fuel-based electricity production, impacting local air quality and infant health in Chile...
-                    </div>
-                </li>
-            </ol>
         </div> </section>
 
     <footer class="site-footer">
