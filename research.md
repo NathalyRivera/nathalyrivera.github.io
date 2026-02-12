@@ -78,9 +78,41 @@
                     <div id="abs-inquiry" class="abstract-box">
                   We estimate the effect of unconditional cash transfers on voter turnout, leveraging a large-scale natural experiment, the Alaska Permanent Fund Dividend (PFD) program, which has provided residents with a check of varying size 1 month before election day since 1982. We find that larger transfers cause people to vote, especially in gubernatorial elections in which a 10% increase in cash ($190) causes a 1.4 percentage point increase in turnout. Effects are concentrated among the young and poor. Survey data suggests the mechanism is reduced voter apathy. Implications are discussed.                    </div>
                 </li>
-            </ol>
+                
+        <li class="pub-item">
+            <p class="pub-title">The Health Benefits of Solar Power Generation: Evidence from Chile</p>
+            <p class="pub-authors">with <a href="https://sites.google.com/site/ebeiaspiller/home" class="coauthor-link">Beia Spiller</a> and <a href="https://sites.google.com/view/cristobalruiztagle/research?authuser=0" class="coauthor-link">J. Cristobal Ruiz-Tagle</a></p>
+            <p class="pub-journal"><em>Journal of Environmental Economics and Management</em>, 2024</p>
+            <div class="pub-links">
+                <a href="https://www.sciencedirect.com/science/article/abs/pii/S0095069624000731" target="_blank">[View]</a>
+                <a href="javascript:void(0)" onclick="toggleAbstract('abs-solar')">[Abstract]</a>
+                <span class="media-links">— Featured in: 
+                    <a href="#" target="_blank">[EDF Blog Post]</a> 
+                    <a href="#" target="_blank">[Foco Económico]</a> 
+                    <a href="#" target="_blank">[La Tercera]</a>
+                </span>
+            </div>
+            <div id="abs-solar" class="abstract-box">
+            Renewable energy can yield social benefits through local air quality improvements and their subsequent effects on human health. We estimate some of these benefits using data gathered during the rapid adoption of large-scale solar power generation in Chile over the last decade. Relying on exogenous variation from solar irradiation and incremental solar generation capacity over time, we find that solar energy displaces coal generation and curtails hospital admissions due to respiratory diseases. These effects are largely manifested in cities downwind of and near coal plants that are displaced by the introduction of new solar. The reduction in exposure to air pollution from these displaced coal plants seems to be driving this relationship. Our results help quantify the health benefits that can be achieved through greater renewable energy investments.
+        </div>
+        </li>
+
+        <li class="pub-item">
+            <p class="pub-title">Association Between Long-Term Air Pollution Exposure and COVID-19 Mortality in Latin America</p>
+            <p class="pub-authors">with <a href="#" class="coauthor-link">Jorge Bonilla</a>, <a href="#" class="coauthor-link">Alejandro Lopez-Feldman</a>, <a href="#" class="coauthor-link">Paula Pereda</a>, and <a href="#" class="coauthor-link">Cristobal Ruiz-Tagle</a></p>
+            <p class="pub-journal"><em>PLOS One</em>, 2023</p>
+            <div class="pub-links">
+                <a href="#" target="_blank">[View]</a>
+                <a href="javascript:void(0)" onclick="toggleAbstract('abs-covid')">[Abstract]</a>
+                <span class="media-links">— Featured in: <a href="#" target="_blank">[EfD Blog Post]</a></span>
+            </div>
+            <div id="abs-covid" class="abstract-box">
+                This study explores the relationship between long-term exposure to ambient air pollution and COVID-19 mortality rates across several Latin American cities, highlighting environmental health inequalities...
+            </div>
+        </li>                
+        </ol>
               
-            <h2 class="section-heading" style="margin-top: 50px;">Working Papers</h2>
+            <h2 class="section-heading" style="margin-top: 50px;">Work in Progress</h2>
             <ol class="pub-list">
                 <li class="pub-item">
                     <p class="pub-title">Blasting Dust: The Pollution-Health Impact of Industrial Mining Developments</p>
