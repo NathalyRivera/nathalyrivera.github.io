@@ -70,10 +70,10 @@ body {
 h1 {
     font-family: 'Source Sans 3', sans-serif; /* Cambiamos de Serif a Sans para igualar los headers */
     font-weight: 600; 
-    font-size: 1.8rem;          /* Un poco más grande que los headers de sección */
+    font-size: 1.6rem;          /* Un poco más grande que los headers de sección */
     color: #111827;           /* El mismo tono oscuro profesional */
-    text-transform: none; /*uppercase;*/
-    letter-spacing: 1.5px;    /* Espaciado consistente */
+    text-transform: uppercase;
+    letter-spacing: 1.3px;    /* Espaciado consistente */
     margin-top: 0;
     margin-bottom: 1.5rem;
     line-height: 1.2;
