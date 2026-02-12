@@ -169,8 +169,10 @@ strong {
 
 /* --- FOOTER / COPYRIGHT ULTRA-MINIMALISTA --- */
 .site-footer {
-    margin-top: 100px;      /* Mucho espacio antes para que esté al fondo */
-    padding-bottom: 30px;   /* Espacio respecto al borde inferior del navegador */
+    clear: both;            /* Evita que elementos flotantes lo afecten */
+    width: 100%;            /* Asegura que ocupe todo el ancho */
+    margin-top: 100px;
+    padding-bottom: 30px;
     text-align: center;
 }
 
