@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -20,28 +21,34 @@
         <a href="officehours.html">OFFICE HOURS</a> 
     </nav>
 
-    <section class="intro teaching-reverse">
-    <div class="intro-text">
+    <section class="intro">
+        <img src="assets/img/nathaly_bw.JPG" alt="Teaching" class="foto-perfil">    
+        
+        <div class="intro-text">
+            <h1 class="teaching-title">Teaching</h1>
+
             <div class="teaching-category">
-                <h2>Instructor</h2>
+                <h4>Instructor</h4>
                 <ul>
+                    <li><strong>2025:</strong> Environmental and Resource Economics (Msc Level), <strong>University of Chile</strong></li>
+                    <li><strong>2025:</strong> Introduction to Economics, <strong>University of Chile</strong></li>
+                    <li><strong>2025:</strong> Introduction to Microeconomics, <strong>University of Chile</strong></li>
+                    <li><strong>2024:</strong> Introduction to Environmental Economics, <strong>University of Chile</strong> (Rated 6.7/7)</li>
                     <li><strong>2024:</strong> Introduction to Economics, <strong>University of Chile</strong></li>
                     <li><strong>2023:</strong> Introduction to Environmental Economics, <strong>University of Chile</strong> (Rated 6.7/7)</li>
                     <li><strong>2018-2020:</strong> Principles of Microeconomics, <strong>U. Alaska Anchorage</strong> (Rated 4.6/5)</li>
-                    <li><strong>2017:</strong> Ecological Economics, <strong>Michigan State University</strong></li>
+                    <li><strong>2017:</strong> Ecological (Environmental) Economics, <strong>Michigan State University</strong></li>
                 </ul>
-      </div>
-      <div class="teaching-category">
-                <h3>Teaching Assistant</h3>
+            </div>
+
+            <div class="teaching-category">
+                <h4>Teaching Assistant</h4>
                 <ul>
-                    <li><strong>2016:</strong> Ecological Economics, <strong>MSU</strong></li>
-                    <li><strong>2016:</strong> World Food Population & Poverty, <strong>MSU</strong></li>
-                    <li><strong>2008-2007:</strong> Econometrics, <strong>U. Santo Tomás</strong></li>
-                    <li><strong>2007:</strong> Econometrics, <strong>U. Católica del Norte</strong></li>
+                    <li><strong>2016:</strong> Ecological (Environmental) Economics (<a href="https://www.cloegarnache.com/" target="_blank">Professor Cloé Garnache</a>), <strong>Michigan State University</strong></li>
+                    <li><strong>2016:</strong> World Food Population & Poverty (<a href="https://www.kellogg.northwestern.edu/faculty/directory/dillon_andrew.aspx" target="_blank">Professor Andrew Dillon</a>), <strong>Michigan State University</strong></li>
                 </ul>
             </div>
         </div>
-        <img src="assets/img/nathaly_bw.JPG" alt="Teaching" class="foto-perfil">
     </section>
 
 </body>
