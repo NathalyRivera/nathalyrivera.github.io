@@ -157,3 +157,44 @@ a:hover {
 .intro {
     align-items: flex-start !important; /* Fuerza a que ambos (foto y texto) empiecen arriba */
 }
+
+.teaching-category li {
+    margin-bottom: 10px;    /* Espacio entre cada curso */
+    font-size: 0.9rem;      /* Antes era 18px o 1rem, ahora es más pequeño */
+    line-height: 1.5;       /* Mantiene el texto compacto pero legible */
+    color: #4b5563;         /* Gris suave */
+}
+
+/* Si quieres que los años (2026, 2025...) también se vean un poco más finos */
+.teaching-category li strong {
+    font-weight: 600;
+    color: #1f2937;
+}
+
+/* Botón de Calendly */
+.btn-calendly {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background-color: #2563eb; /* El azul que estamos usando */
+    color: white !important;
+    padding: 12px 24px;
+    border-radius: 8px;
+    text-decoration: none !important;
+    font-weight: 600;
+    font-size: 1rem;
+    margin-top: 15px;
+    transition: all 0.3s ease;
+    border: none !important;
+    width: fit-content;
+}
+
+.btn-calendly:hover {
+    background-color: #1e40af; /* Azul más profundo al pasar el mouse */
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.2);
+}
+
+.btn-calendly i {
+    font-size: 1.2rem;
+}
