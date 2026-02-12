@@ -15,27 +15,23 @@
 
     <nav class="main-nav">
         <a href="index.html">HOME</a>
-        <a href="cv.pdf" target="_blank">CV</a>
         <a href="research.html">RESEARCH</a>
         <a href="teaching.html">TEACHING</a>
+        <a href="officehours.html">OFFICE HOURS</a> 
     </nav>
 
     <section class="intro teaching-reverse">
-        
-        <div class="intro-text">
-            <h1 class="teaching-title">Teaching</h1>
-
+    <div class="intro-text">
             <div class="teaching-category">
-                <h3>Instructor</h3>
+                <h2>Instructor</h2>
                 <ul>
                     <li><strong>2024:</strong> Introduction to Economics, <strong>University of Chile</strong></li>
                     <li><strong>2023:</strong> Introduction to Environmental Economics, <strong>University of Chile</strong> (Rated 6.7/7)</li>
                     <li><strong>2018-2020:</strong> Principles of Microeconomics, <strong>U. Alaska Anchorage</strong> (Rated 4.6/5)</li>
                     <li><strong>2017:</strong> Ecological Economics, <strong>Michigan State University</strong></li>
                 </ul>
-            </div>
-
-            <div class="teaching-category">
+      </div>
+      <div class="teaching-category">
                 <h3>Teaching Assistant</h3>
                 <ul>
                     <li><strong>2016:</strong> Ecological Economics, <strong>MSU</strong></li>
@@ -45,9 +41,7 @@
                 </ul>
             </div>
         </div>
-
         <img src="assets/img/nathaly_bw.JPG" alt="Teaching" class="foto-perfil">
-
     </section>
 
 </body>
