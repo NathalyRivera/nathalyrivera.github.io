@@ -14,6 +14,7 @@ body {
     padding: 0 25px;
 }
 
+
 /* 2. NAVEGACIÓN */
 .main-nav {
     display: flex;
@@ -65,14 +66,19 @@ body {
 }
 
 /* 4. TIPOGRAFÍA GENERAL */
+/* --- NOMBRE EN HOME (Consistente con Headers) --- */
 h1 {
-    font-family: 'DM Serif Display', serif;
-    font-weight: 400; 
-    font-size: 2.2rem; 
-    color: #111827;
+    font-family: 'Source Sans 3', sans-serif; /* Cambiamos de Serif a Sans para igualar los headers */
+    font-weight: 600; 
+    font-size: 2rem;          /* Un poco más grande que los headers de sección */
+    color: #111827;           /* El mismo tono oscuro profesional */
+    text-transform: uppercase;
+    letter-spacing: 1.5px;    /* Espaciado consistente */
     margin-top: 0;
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.2;
 }
+
 
 strong {
     color: #1f2937;
