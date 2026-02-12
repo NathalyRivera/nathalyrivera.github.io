@@ -32,6 +32,7 @@ body {
     text-decoration: none !important; 
     text-transform: uppercase;
     transition: color 0.3s ease;
+    border: none !important;
 }
 
 .main-nav a:hover {
@@ -73,7 +74,30 @@ h1 {
     margin-bottom: 1rem;
 }
 
+strong {
+    color: #1f2937;
+    font-weight: 600;
+}
+
 /* 5. SECCIÓN TEACHING */
+.teaching-category h3 {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 1.1rem;
+    color: #1f2937;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #f1f5f9;
+    padding-bottom: 5px;
+}
+
+.teaching-category ul {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 30px;
+}
+
 .teaching-category li {
     font-size: 0.85rem !important; 
     line-height: 1.6;
@@ -81,7 +105,7 @@ h1 {
     color: #4b5563;
 }
 
-/* 6. SECCIÓN RESEARCH (Ajustes de Formato) */
+/* 6. SECCIÓN RESEARCH */
 .section-heading {
     font-size: 1.35rem; 
     color: #111827;
@@ -117,26 +141,24 @@ h1 {
     line-height: 1.4;
 }
 
-/* --- REGRESO AL GRIS CLARO PARA COAUTORES --- */
 .pub-authors {
     font-size: 0.95rem;
-    color: #94a3b8 !important; /* El gris claro original */
+    color: #94a3b8 !important; 
     margin: 0 !important;
 }
 
 .coauthor-link {
-    color: #94a3b8 !important; /* Enlace en el mismo gris */
+    color: #94a3b8 !important;
     text-decoration: none !important;
     border-bottom: 1px solid transparent;
     transition: all 0.3s ease;
 }
 
 .coauthor-link:hover {
-    color: #2563eb !important; /* Solo cambia a azul al pasar el mouse */
+    color: #2563eb !important;
     text-decoration: underline !important;
 }
 
-/* El Journal se mantiene en el azul-grisáceo oscuro para contraste */
 .pub-journal {
     font-size: 0.95rem;
     color: #334155 !important; 
@@ -157,6 +179,28 @@ h1 {
     text-decoration: none !important;
 }
 
+.pub-links a:hover {
+    text-decoration: underline !important;
+}
+
+/* Featured In: Estilo Mini solicitado */
+.media-links {
+    font-size: 0.72rem !important; 
+    color: #94a3b8 !important;
+    margin-left: 8px;
+    font-weight: 400;
+}
+
+.media-links a {
+    font-size: 0.72rem !important;
+    color: #64748b !important;
+    text-decoration: none !important;
+}
+
+.media-links a:hover {
+    color: #2563eb !important;
+}
+
 .abstract-box {
     display: none;
     margin-top: 15px;
@@ -166,7 +210,6 @@ h1 {
     padding: 10px 0 10px 15px;
     border-left: 1px solid #e5e7eb;
 }
-
 
 /* 7. ICONOS SOCIALES Y BOTONES */
 .social-links {
