@@ -161,7 +161,6 @@ a:hover {
 .teaching-category li {
     margin-bottom: 10px;    /* Espacio entre cada curso */
     font-size: 0.9rem;      /* Antes era 18px o 1rem, ahora es más pequeño */
-    line-height: 1.5;       /* Mantiene el texto compacto pero legible */
     color: #4b5563;         /* Gris suave */
 }
 
