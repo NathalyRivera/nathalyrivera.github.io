@@ -25,7 +25,7 @@
         
         <div class="intro-text">
             <div class="teaching-category">
-                <h4>Instructor</h4>
+                <h3>Instructor</h3>
                 <ul>
                     <li><strong>2026:</strong> Introduction to Economics, <strong>University of Chile</strong></li>                
                     <li><strong>2025:</strong> Environmental and Resource Economics (Msc Level), <strong>University of Chile</strong></li>
@@ -40,7 +40,7 @@
             </div>
 
             <div class="teaching-category">
-                <h4>Teaching Assistant</h4>
+                <h3>Teaching Assistant</h3>
                 <ul>
                     <li><strong>2016:</strong> Ecological (Environmental) Economics (<a href="https://www.cloegarnache.com/" target="_blank">Professor Cloé Garnache</a>), <strong>Michigan State University</strong></li>
                     <li><strong>2016:</strong> World Food Population & Poverty (<a href="https://www.kellogg.northwestern.edu/faculty/directory/dillon_andrew.aspx" target="_blank">Professor Andrew Dillon</a>), <strong>Michigan State University</strong></li>
