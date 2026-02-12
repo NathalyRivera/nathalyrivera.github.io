@@ -114,7 +114,7 @@ a:hover {
 
 .teaching-category li {
     margin-bottom: 10px;
-    font-size: 0.85rem !important; /* Fuente pequeña para los cursos */
+    font-size: 0.9rem !important; /* Fuente pequeña para los cursos */
     color: #4b5563;
     line-height: 1.6;
 }
