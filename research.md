@@ -29,22 +29,22 @@
             <ol class="pub-list">
                <li class="pub-item">
                     <p class="pub-title">Digging Deep: Resource Exploitation and High-Level Education</p>
-                    <p class="pub-authors">with <a href="https://leninbalza.com" target="_blank" class="coauthor-link">Lenin Balza</a> and <a href="#" class="coauthor-link">Camilo de los Rios</a></p>
+                    <p class="pub-authors">with <a href="https://scholar.google.com/citations?hl=en&user=1K-_JF0AAAAJ&view_op=list_works" target="_blank" class="coauthor-link">Lenin Balza</a> and <a href="https://sites.google.com/view/cdelosriosru" class="coauthor-link">Camilo de los Rios</a></p>
                     <p class="pub-journal"><em>World Development</em>, 2026</p>
                     <div class="pub-links">
-                        <a href="#" target="_blank">[View]</a>
+                        <a href="https://www.sciencedirect.com/science/article/abs/pii/S0305750X25003973?dgcid=author" target="_blank">[View]</a>
                         <a href="#" target="_blank">[Accepted Version]</a>
                         <a href="javascript:void(0)" onclick="toggleAbstract('abs-world')">[Abstract]</a>
                     </div>
                     <div id="abs-world" class="abstract-box">
-                        This paper explores the relationship between natural resource exploitation and the demand for high-level education... [Puedes completar el abstract aquí].
+                        Do resource-extraction booms deter postsecondary education? We explore this question by examining the higher education-related decisions of Chilean high school graduates during the 2000s commodities boom. Mineral extraction boosts enrollment in technical education but lowers completion rates for four-year professional degrees. Effects vary by economic background, with dropout rates higher among public high school graduates, who typically serve low-income groups. Our study highlights the unequal impact of natural resources on human capital accumulation across income groups within resource-rich developing economies.
                     </div>
                 </li>
             
                 <li class="pub-item">
                     <p class="pub-title">Wood-Burning Restrictions and Air Pollution: The Case of Air Quality Warnings in Southern Chile</p>
-                    <p class="pub-authors">with <a href="https://sites.google.com/view/cristianconcha" target="_blank" class="coauthor-link">Cristian Concha</a></p>
-                    <p class="pub-journal">Accepted at <em>Environment and Development Economics</em>, 2025</p>
+                    <p class="pub-authors">with <a href="https://www.linkedin.com/in/cristian-concha-faúndez-9511551b5/" target="_blank" class="coauthor-link">Cristian Concha</a></p>
+                    <p class="pub-journal">Forthcoming in <em>Environment and Development Economics</em>, 2026</p>
                     <div class="pub-links">
                         <a href="https://www.cambridge.org/core/journals/environment-and-development-economics/article/abs/woodburning-restrictions-and-air-pollution-the-case-of-air-quality-warnings-in-southern-chile/D5E8D3E03698146778DDF32786DA3FC7?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark" target="_blank">[View]</a>
                         <a href="javascript:void(0)" onclick="toggleAbstract('abs1')">[Abstract]</a>
@@ -66,21 +66,20 @@
                     <div id="abs2" class="abstract-box">
                   The literature on the impacts of air pollution on both health and non-health outcomes in the Global South is examined, focusing on the growing body of causal evidence, and on the several pollution sources that are particularly relevant in the Global South, including indoor air pollution, particulate emissions from wildfires, and agricultural burning. The evidence consistently shows that, across different contexts, air pollution has severe health consequences, including high rates of respiratory and cardiovascular diseases, as well as premature mortality. Indoor air pollution, in particular, poses a significant burden, especially in rural areas. In addition to health impacts, air pollution also has non-health consequences, such as reduced productivity, impaired cognitive performance, pollution-induced migration, and associated economic impacts. The review highlights the growing body of scientific research documenting these impacts. Yet, notable regional disparities still remain.                    </div>
                 </li>
-            </ol>
 
              <li class="pub-item">
                     <p class="pub-title">Unconditional Cash Transfers and Voter Turnout</p>
-                    <p class="pub-authors">with <a href="https://sites.google.com/site/alexjameseconomics/" target="_blank" class="coauthor-link">Alex James</a> and <a href="https://www.brocksmith.net/" target="_blank" class="coauthor-link">Brock Smith</a></p>
+                    <p class="pub-authors">with <a href="https://www.alexandergjames.com" target="_blank" class="coauthor-link">Alex James</a> and <a href="http://www.brockdsmith.com" target="_blank" class="coauthor-link">Brock Smith</a></p>
                     <p class="pub-journal"><em>Economic Inquiry</em>, 2025</p>
                     <div class="pub-links">
-                        <a href="#" target="_blank">[View]</a>
+                        <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ecin.13287" target="_blank">[View]</a>
                         <a href="javascript:void(0)" onclick="toggleAbstract('abs-inquiry')">[Abstract]</a>
                     </div>
                     <div id="abs-inquiry" class="abstract-box">
-                        We examine how unconditional cash transfers affect democratic participation, specifically focusing on voter turnout... [Puedes completar el abstract aquí].
-                    </div>
+                  We estimate the effect of unconditional cash transfers on voter turnout, leveraging a large-scale natural experiment, the Alaska Permanent Fund Dividend (PFD) program, which has provided residents with a check of varying size 1 month before election day since 1982. We find that larger transfers cause people to vote, especially in gubernatorial elections in which a 10% increase in cash ($190) causes a 1.4 percentage point increase in turnout. Effects are concentrated among the young and poor. Survey data suggests the mechanism is reduced voter apathy. Implications are discussed.                    </div>
                 </li>
-                
+            </ol>
+              
             <h2 class="section-heading" style="margin-top: 50px;">Working Papers</h2>
             <ol class="pub-list">
                 <li class="pub-item">
