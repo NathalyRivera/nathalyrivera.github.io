@@ -24,7 +24,7 @@
         <img src="assets/img/nathaly_bw.JPG" alt="Nathaly M. Rivera" class="foto-perfil">    
         
         <div class="intro-text">
-            <h4 style="margin-top: 0;">Office Hours</h4>
+            <h4 style="margin-top: 0;">OFFICE HOURS</h4>
             <p>
                 Students are welcome to schedule a meeting to discuss coursework, 
                 research, or academic advising. Please use the link below to find 

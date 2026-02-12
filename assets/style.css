@@ -138,18 +138,18 @@ a:hover {
     transform: translateY(-3px);
 }
 
-/* 8. BOTÓN CALENDLY (OFFICE HOURS) */
+/* 8. BOTÓN CALENDLY (OFFICE HOURS) - Unificado con Social Media */
 .btn-calendly {
     display: inline-flex;
     align-items: center;
     gap: 10px;
-    background-color: #2563eb;
+    background-color: #475569; /* Mismo azul-grisáceo de los iconos sociales */
     color: white !important;
     padding: 12px 24px;
     border-radius: 8px;
     text-decoration: none !important;
     font-weight: 600;
-    font-size: 1rem;
+    font-size: 0.9rem; /* Un poco más pequeño para ser elegante */
     margin-top: 15px;
     transition: all 0.3s ease;
     border: none !important;
@@ -157,9 +157,9 @@ a:hover {
 }
 
 .btn-calendly:hover {
-    background-color: #1e40af;
+    background-color: #2563eb; /* El azul vibrante de interacción */
     transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.2);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.15);
 }
 
 /* 9. AJUSTES PARA MÓVIL */
