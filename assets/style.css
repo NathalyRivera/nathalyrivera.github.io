@@ -1,19 +1,20 @@
 /* ==================================================
-   MODERN ACADEMIC STYLE — Unified Blue & Soft Gray
+   MODERN ACADEMIC STYLE — Final Consolidated Version
    ================================================== */
 
+/* 1. ESTILOS BASE */
 body {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 18px;
     line-height: 1.7;
-    color: #4b5563;    /* Gris suave (Slate 600) para lectura descansada */
+    color: #4b5563;    /* Gris suave (Slate 600) */
     background-color: #ffffff;
     max-width: 900px;
     margin: 60px auto;
     padding: 0 25px;
 }
 
-/* 1. NAVEGACIÓN (Corregida a Azul en Hover) */
+/* 2. NAVEGACIÓN (Limpia y sin subrayado) */
 .main-nav {
     display: flex;
     justify-content: center; 
@@ -27,48 +28,70 @@ body {
     font-weight: 600;
     font-size: 0.85rem;
     letter-spacing: 1.2px;
-    color: #94a3b8; /* Gris claro en reposo */
-    text-decoration: none !important; /* ESTO QUITA EL SUBRAYADO */
+    color: #94a3b8; 
+    text-decoration: none !important; 
     text-transform: uppercase;
     transition: color 0.3s ease;
+    border: none !important;
 }
 
 .main-nav a:hover {
-    color: #2563eb; /* AHORA ES AZUL (Blue 600) al pasar el mouse */
+    color: #2563eb; /* Azul al pasar el mouse */
 }
 
-/* 2. ESTRUCTURA INTRO */
+/* 3. ESTRUCTURA GENERAL (LAYOUT) */
 .intro {
     display: flex;
-    flex-direction: column; 
+    flex-direction: column; /* Una sola columna por defecto */
     align-items: center;
-    text-align: center;
     gap: 30px;
 }
 
+.intro-text {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+/* 4. TIPOGRAFÍA Y RESALTADOS */
+h1 {
+    font-family: 'DM Serif Display', serif;
+    font-weight: 400; 
+    font-size: 2.2rem; 
+    color: #111827;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+strong {
+    color: #1f2937;
+    font-weight: 600;
+}
+
+/* 5. ENLACES DEL CUERPO */
+a {
+    color: #4b5563;
+    text-decoration: none !important;
+    border-bottom: 1px solid #d1d5db;
+    transition: all 0.2s ease;
+}
+
+a:hover {
+    color: #2563eb;
+    border-bottom: 1px solid #2563eb;
+}
+
+/* 6. FOTOS DE PERFIL */
 .foto-perfil {
-    width: 250px;
+    width: 220px;
     height: auto;
     border-radius: 12px;
     box-shadow: 0 10px 30px rgba(0,0,0,0.05);
 }
 
-h1 {
-    font-family: 'DM Serif Display', serif;
-    font-weight: 400; 
-    font-size: 2.2rem; 
-    color: #111827; /* Nombre en gris casi negro (fino) */
-    margin-top: 0;
-    margin-bottom: 1rem;
-}
-
-/* 3. RESALTADOS SUAVES (Menos fuertes) */
-strong {
-    color: #1f2937; /* Gris oscuro, no negro puro */
-    font-weight: 600; /* Semi-negrita elegante */
-}
-
-/* 4. ICONOS SOCIALES */
+/* 7. ICONOS SOCIALES */
 .social-links {
     margin-top: 25px;
     display: flex;
@@ -78,104 +101,52 @@ strong {
 
 .social-links a i {
     font-size: 1.6rem;
-    color: #475569 !important; /* Azul-grisáceo suave */
+    color: #475569 !important; 
     transition: all 0.3s ease;
 }
 
 .social-links a:hover i {
-    color: #2563eb !important; /* Azul en interacción */
+    color: #2563eb !important;
     transform: translateY(-3px);
 }
 
-/* 5. ENLACES EN EL TEXTO */
-a {
-    color: #4b5563; /* Siguen el color del texto para no distraer */
-    text-decoration: none !important; /* ESTO QUITA EL SUBRAYADO */
-    border-bottom: 1px solid #d1d5db;
-    transition: all 0.2s ease;
-}
-
-a:hover {
-    color: #2563eb; /* Cambian a azul al interactuar */
-    border-bottom: 1px solid #2563eb;
-}
-
-/* 6. AJUSTES PC */
-@media (min-width: 768px) {
-    .main-nav { justify-content: flex-start; }
-    .intro {
-        flex-direction: row;      
-        text-align: left;
-        align-items: flex-start;
-        gap: 60px;
-    }
-    .social-links { justify-content: flex-start; }
-}
-
-@media (max-width: 480px) {
-    h1 { font-size: 1.8rem; }
-}
-
-/* Asegura que el contenedor de texto no tenga margen superior extra */
-.intro-text {
-    display: flex;
-    flex-direction: column;
-    margin-top: 0 !important;
-    padding-top: 0 !important;
-}
-
-/* 2. Mueve el Instructor Head hacia arriba */
-.teaching-title {
-    margin-bottom: 5px; /* Reduce espacio bajo el título principal */
-}
-
-/* Esto elimina el espacio fantasma arriba de "Instructor" */
+/* 8. PÁGINA DE TEACHING (Una sola columna) */
 .teaching-category h3 {
-    margin-top: 0 !important; /* Mueve el encabezado al nivel superior */
+    margin-top: 0 !important;
     padding-top: 0 !important;
     font-family: 'Source Sans 3', sans-serif;
     font-size: 1.1rem;
     color: #4b5563;
     text-transform: uppercase;
     letter-spacing: 0.5px;
-    margin-bottom: 15px; /* Solo espacio hacia abajo */
+    margin-bottom: 15px;
+    border-bottom: 1px solid #f1f5f9;
 }
 
-/* Estilo para los links de los profesores dentro de la lista */
-.teaching-category a {
-    color: #475569; 
-    text-decoration: none;
-    border-bottom: 1px solid #cbd5e1;
-}
-
-.teaching-category a:hover {
-    color: #2563eb;
-    border-bottom: 1px solid #2563eb;
-}
-
-/* Alineación de la sección principal */
-.intro {
-    align-items: flex-start !important; /* Fuerza a que ambos (foto y texto) empiecen arriba */
+.teaching-category ul {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 30px;
 }
 
 .teaching-category li {
-    margin-bottom: 10px;    /* Espacio entre cada curso */
-    font-size: 0.9rem;      /* Antes era 18px o 1rem, ahora es más pequeño */
-    color: #4b5563;         /* Gris suave */
+    margin-bottom: 10px;
+    font-size: 0.85rem !important; /* Fuente pequeña solicitada */
+    color: #4b5563;
+    line-height: 1.6;
 }
 
-/* Si quieres que los años (2026, 2025...) también se vean un poco más finos */
 .teaching-category li strong {
     font-weight: 600;
     color: #1f2937;
 }
 
-/* Botón de Calendly */
+/* 9. BOTÓN CALENDLY (OFFICE HOURS) */
 .btn-calendly {
     display: inline-flex;
     align-items: center;
     gap: 10px;
-    background-color: #2563eb; /* El azul que estamos usando */
+    background-color: #2563eb;
     color: white !important;
     padding: 12px 24px;
     border-radius: 8px;
@@ -189,11 +160,24 @@ a:hover {
 }
 
 .btn-calendly:hover {
-    background-color: #1e40af; /* Azul más profundo al pasar el mouse */
+    background-color: #1e40af;
     transform: translateY(-2px);
     box-shadow: 0 4px 12px rgba(37, 99, 235, 0.2);
 }
 
-.btn-calendly i {
-    font-size: 1.2rem;
+/* 10. AJUSTES RESPONSIVOS (Solo para Index/Home si quieres dos columnas ahí) */
+@media (min-width: 768px) {
+    .main-nav { justify-content: flex-start; }
+    
+    /* Si el Home usa la clase .intro-home, este se verá en dos columnas */
+    .intro-home {
+        flex-direction: row;      
+        text-align: left;
+        align-items: flex-start;
+        gap: 60px;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 { font-size: 1.8rem; }
 }
