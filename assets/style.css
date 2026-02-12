@@ -117,11 +117,26 @@ h1 {
     line-height: 1.4;
 }
 
+/* --- REGRESO AL GRIS CLARO PARA COAUTORES --- */
 .pub-authors {
     font-size: 0.95rem;
-    color: #94a3b8 !important; 
+    color: #94a3b8 !important; /* El gris claro original */
+    margin: 0 !important;
 }
 
+.coauthor-link {
+    color: #94a3b8 !important; /* Enlace en el mismo gris */
+    text-decoration: none !important;
+    border-bottom: 1px solid transparent;
+    transition: all 0.3s ease;
+}
+
+.coauthor-link:hover {
+    color: #2563eb !important; /* Solo cambia a azul al pasar el mouse */
+    text-decoration: underline !important;
+}
+
+/* El Journal se mantiene en el azul-grisáceo oscuro para contraste */
 .pub-journal {
     font-size: 0.95rem;
     color: #334155 !important; 
@@ -151,6 +166,7 @@ h1 {
     padding: 10px 0 10px 15px;
     border-left: 1px solid #e5e7eb;
 }
+
 
 /* 7. ICONOS SOCIALES Y BOTONES */
 .social-links {
