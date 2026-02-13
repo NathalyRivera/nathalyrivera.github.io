@@ -114,7 +114,20 @@
                         Recent studies have shown a relationship between air pollution and increased vulnerability and mortality due to COVID-19. Most of these studies have looked at developed countries. This study examines the relationship between long-term exposure to air pollution and COVID-19-related deaths in four countries of Latin America that have been highly affected by the pandemic: Brazil, Chile, Colombia, and Mexico. Our results suggest that an increase in long-term exposure of 1 μg/m3 of fine particles is associated with a 2.7 percent increase in the COVID-19 mortality rate. This relationship is found primarily in municipalities of metropolitan areas, where urban air pollution sources dominate, and air quality guidelines are usually exceeded. By focusing the analysis on Latin America, we provide a first glimpse on the role of air pollution as a risk factor for COVID-19 mortality within a context characterized by weak environmental institutions, limited health care capacity and high levels of inequality.
                     </div>
                 </li> 
-                
+       
+      <li class="pub-item">
+            <p class="pub-title">Oil, Politics, and “Corrupt Bastards”</p>
+            <p class="pub-authors">with <a href="https://www.alexandergjames.com" target="_blank" class="coauthor-link">Alex James</a></p>
+            <p class="pub-journal"><em>Journal of Environmental Economics and Management</em>, 2022</p>
+            <div class="pub-links">
+                <a href="https://www.sciencedirect.com/science/article/abs/pii/S009506962100139X" target="_blank">[View]</a>
+                <a href="javascript:void(0)" onclick="toggleAbstract('abs-oil')">[Abstract]</a>
+            </div>
+            <div id="abs-oil" class="abstract-box">
+            Does oil corrupt? We test this theory using forty years of U.S. state-level data measuring corruption as both convictions of corruption and the frequency that words like “corrupt”, “fraud”, and “bribe”—and their iterations—appear in newspapers. We find that oil-rich U.S. states experience more corruption than their oil-poor counterparts, but only during periods of high oil prices, suggesting a causal relationship. Results are robust to a variety of modeling assumptions and specifications. Implications and mechanisms are discussed.
+            </div>
+        </li>
+        
         <li class="pub-item">
             <p class="pub-title">Coal-to-Gas Fuel Switching and its Effects on Housing Prices</p>
             <p class="pub-authors">with <a href="https://scholar.google.com/citations?user=Me9oDVQAAAAJ&hl=es" target="_blank" class="coauthor-link">Scott Loveridge</a></p>
@@ -139,19 +152,6 @@
             Driving restrictions are a common governmental strategy to reduce airborne pollution and traffic congestion in many cities of the world. Using high-frequency data on air pollution, car trips, and mass-transit systems ridership, I evaluate the effectiveness of temporary driving bans triggered by air quality warnings in Santiago, Chile. I employ a fuzzy regression discontinuity design that uses the thresholds in the air quality index used to announce these warnings as instruments for their announcement. Results show that these temporary bans reduce car trips by 6–9% during peak hours, and by 7–8% during off-peak hours. This is consistent with air pollution reductions during peak hours, and with increases in the use of Santiago's mass-transit systems during hours the systems run with excess capacity. Increments in mass-transit ridership uncover the importance of alternative modes of transportation in securing the effectiveness of temporary driving bans.
             </div>
         </li>    
-        
-      <li class="pub-item">
-            <p class="pub-title">Oil, Politics, and “Corrupt Bastards”</p>
-            <p class="pub-authors">with <a href="https://www.alexandergjames.com" target="_blank" class="coauthor-link">Alex James</a></p>
-            <p class="pub-journal"><em>Journal of Environmental Economics and Management</em>, 2022</p>
-            <div class="pub-links">
-                <a href="https://www.sciencedirect.com/science/article/abs/pii/S009506962100139X" target="_blank">[View]</a>
-                <a href="javascript:void(0)" onclick="toggleAbstract('abs-oil')">[Abstract]</a>
-            </div>
-            <div id="abs-oil" class="abstract-box">
-            Does oil corrupt? We test this theory using forty years of U.S. state-level data measuring corruption as both convictions of corruption and the frequency that words like “corrupt”, “fraud”, and “bribe”—and their iterations—appear in newspapers. We find that oil-rich U.S. states experience more corruption than their oil-poor counterparts, but only during periods of high oil prices, suggesting a causal relationship. Results are robust to a variety of modeling assumptions and specifications. Implications and mechanisms are discussed.
-            </div>
-        </li>
 
         <li class="pub-item">
             <p class="pub-title">Is Mining and Environmental Disamenity? Evidence from Resource Extraction Site Openings</p>
