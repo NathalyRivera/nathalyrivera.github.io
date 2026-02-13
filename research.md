@@ -52,7 +52,7 @@
                         <a href="javascript:void(0)" onclick="toggleAbstract('abs1')">[Abstract]</a>
                         <span class="media-links">— Featured in: <a href="https://uchile.cl/noticias/230506/u-de-chile-evalua-plan-anticontaminacion-en-los-angeles-y-sus-limites" target="_blank">[Universidad de Chile]</a> <a href="#">[La Tribuna]</a></span>
                     </div>
-                    <div id="abs1" class="abstract-box">
+                    <div id="abs-woodburning" class="abstract-box">
                         Despite the substantial evidence linking particulate matter exposure to adverse health outcomes, a large portion of the global population, particularly in low-income countries, continues to rely on highly polluting fuels, such as wood, for cooking and heating. This study evaluates the immediate effects of wood-burning restrictions, which are triggered by air quality warnings, on levels of fine (PM2.5) and coarse (PM10) particulate matter in southern Chile. Using a difference-in-differences design that incorporates pre-policy data, we provide plausible causal estimates indicating that wood-burning restrictions lead to significant reductions in hourly PM10 and PM2.5 concentrations during the most severe air quality warning. Additional analyses, including a regression discontinuity design, further support these findings. While our analysis suggests that wood-burning restrictions are effective, they may not be sufficient to reduce air pollution concentrations to levels that are considered safe for public health.
                     </div>
                 </li>
@@ -65,7 +65,7 @@
                         <a href="https://doi.org/10.1093/acrefore/9780190625979.013.911" target="_blank">[View]</a>
                         <a href="javascript:void(0)" onclick="toggleAbstract('abs2')">[Abstract]</a>
                     </div>
-                    <div id="abs2" class="abstract-box">
+                    <div id="abs-globalsouth" class="abstract-box">
                         The literature on the impacts of air pollution on both health and non-health outcomes in the Global South is examined, focusing on the growing body of causal evidence, and on the several pollution sources that are particularly relevant in the Global South, including indoor air pollution, particulate emissions from wildfires, and agricultural burning. The evidence consistently shows that, across different contexts, air pollution has severe health consequences, including high rates of respiratory and cardiovascular diseases, as well as premature mortality. Indoor air pollution, in particular, poses a significant burden, especially in rural areas. In addition to health impacts, air pollution also has non-health consequences, such as reduced productivity, impaired cognitive performance, pollution-induced migration, and associated economic impacts. The review highlights the growing body of scientific research documenting these impacts. Yet, notable regional disparities still remain.
                     </div>
                 </li>
@@ -190,10 +190,10 @@
                 <a href="http://www.accessecon.com/Pubs/EB/2019/Volume39/EB-19-V39-I2-P113.pdf" target="_blank">[View]</a>
                 <a href="javascript:void(0)" onclick="toggleAbstract('abs-taxes')">[Abstract]</a>
             </div>
-            <div id="abs-taxes" class="abstract-box">
+            <div id="abs-amenities" class="abstract-box">
             Applications of hedonic price functions aimed at eliciting implicit prices of environmental goods generally rely on spatially aggregated measures to proxy for micro-level perceptions of these amenities. This paper provides empirical evidence of the bias that arises in the elicitation of these implicit prices due to spatial aggregation. Cross-sectional data on more than 12,000 rental homes is used to derive implicit prices of air quality, using households' perceptions of air pollution aggregated at different spatial levels. Results show that higher aggregation levels add a downward bias to marginal willingness-to-pay measures for air quality improvements, increasing point estimates of the price of air quality. These findings suggest caution when interpreting implicit prices elicited from spatially aggregated measures of environmental amenities.
             </div>
-                </li>
+        </li>   
 
                 <li class="pub-item">
                     <p class="pub-title">Disaggregation of Sectors in Social Accounting Matrices Using a Customized Wolsky Method: A Comment on its Estimation Bias</p>
@@ -203,7 +203,7 @@
                 <a href="https://www.tandfonline.com/doi/abs/10.1080/13504851.2015.1109031" target="_blank">[View]</a>
                 <a href="javascript:void(0)" onclick="toggleAbstract('abs-taxes')">[Abstract]</a>
             </div>
-            <div id="abs-taxes" class="abstract-box">
+            <div id="abs-wolsky" class="abstract-box">
             Barrera–Lozano et al. (2015) suggest an approach to disaggregate SAM matrices using a customized method based on Wolsky (1984). Starting from an aggregated sector, they propose the extraction of a branch instead of its partition. This study compares these two methods based on the magnitude of their estimation bias of the disaggregated technical coefficient matrix. From simulations of the disaggregated Leontief matrix, this work calculates linkages and multipliers for common sectors derived from using either the Wolsky (1984) sectoral disaggregation or the Barrera–Lozano et al. (2015) sectoral extraction. Results show that both approaches provide biased estimators, with the last one showing a significantly higher bias, especially in cases of incomplete information. This comparison suggests the need of additional research to provide bias corrections for input–output disaggregation methodologies.
             </div>
             </li>
@@ -216,7 +216,7 @@
                         <a href="https://www.eure.cl/index.php/eure/article/view/463/660" target="_blank">[View]</a>
                <a href="javascript:void(0)" onclick="toggleAbstract('abs-taxes')">[Abstract]</a>
             </div>
-            <div id="abs-taxes" class="abstract-box">
+            <div id="abs-scales" class="abstract-box">
             An important share of Chilean copper production is located in two regions: Antofagasta and Atacama. In recent years there has been a rise in the price of copper, and the incomes of the inhabitants of these regions have varied differently as a response to the variations in the price of copper. This article analyzes these differences between the evolu-tion of regional income based on the size or scale of production in the mining sector. Using an  input-output  model  disaggregated  by  the  scale  of  production  (large  versus  small  and  medium-sized  scales)  of  the  mining  sector  for  each  region,  linkages  and  multipliers have been calculated and a sensitivity analysis carried out in order to test the strength of  the estimations.  This  strategy  allowed  for  identifying  and  calculating  the  impact  of each  scale on  local  income  and  production,  showing  the  heterogeneous  impact  of  the mining  sector  on local  economies,  which  is  very  relevant  for  evaluating  the  current Chilean mining policy.
             </div>
             </li>
