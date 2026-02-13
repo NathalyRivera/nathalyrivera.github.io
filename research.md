@@ -200,7 +200,7 @@
                     <p class="pub-authors">Nathaly M. Rivera</p>
                     <p class="pub-journal"><em>Applied Economics Letters</em>, 2016</p>
             <div class="pub-links">
-                <a href="https://www.tandfonline.com/doi/abs/10.1080/13504851.2015.1109031 target="_blank">[View]</a>
+                <a href="https://www.tandfonline.com/doi/abs/10.1080/13504851.2015.1109031" target="_blank">[View]</a>
                 <a href="javascript:void(0)" onclick="toggleAbstract('abs-taxes')">[Abstract]</a>
             </div>
             <div id="abs-taxes" class="abstract-box">
