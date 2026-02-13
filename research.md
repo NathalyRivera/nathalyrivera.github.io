@@ -62,7 +62,7 @@
                     <p class="pub-authors">with <a href="https://www.sandraaguilargomez.com/" target="_blank" class="coauthor-link">Sandra Aguilar-Gomez</a></p>
                     <p class="pub-journal"><em>Oxford Research Encyclopedia of Economics and Finance</em>, 2025</p>
                     <div class="pub-links">
-                        <a href="https://doi.org/10.1093/acrefore/9780190625979.013.911" target="_blank">[View]</a>
+                        <a href="https://oxfordre.com/economics/display/10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-972" target="_blank">[View]</a>
                         <a href="javascript:void(0)" onclick="toggleAbstract('abs-globalsouth')">[Abstract]</a>
                     </div>
                     <div id="abs-globalsouth" class="abstract-box">

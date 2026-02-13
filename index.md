@@ -27,12 +27,12 @@
 
         <div class="intro-text">
             <h1>Nathaly M. Rivera</h1>
-            <p>
+        <p>
                 Welcome to my website! I am an Assistant Professor in the Department of 
                 Economics at the <strong>University of Chile</strong>. My research and 
                 teaching interests are Environmental and Resource 
                 Economics, Energy Economics, and Applied Econometrics. Here is my 
-                <strong>CV</strong>. 
+                <a href="assets/pdf/nathalyrivera_fullcv_feb2026.pdf" target="_blank" style="color: #2563eb; text-decoration: none; font-weight: 600; border-bottom: 1px solid #2563eb;">CV</a>.
             </p>
             <p>     
                 You can reach me at <strong>nmrivera[at]fen[.]uchile[.]cl</strong>
