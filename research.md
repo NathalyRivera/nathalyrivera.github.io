@@ -45,7 +45,7 @@
 
                 <li class="pub-item">
                     <p class="pub-title">Wood-Burning Restrictions and Air Pollution: The Case of Air Quality Warnings in Southern Chile</p>
-                    <p class="pub-authors">with <a href="https://www.linkedin.com/in/cristian-concha-faúndez-9511551b5/" target="_blank" class="coauthor-link">Cristian Concha</a></p>
+                    <p class="pub-authors">with <a href="https://www.linkedin.com/in/cristian-concha-faúndez-9511551b5/" target="_blank" class="coauthor-link">Cristian Concha (*student)</a></p>
                     <p class="pub-journal">Forthcoming in <em>Environment and Development Economics</em>, 2026</p>
                     <div class="pub-links">
                         <a href="https://www.cambridge.org/core/journals/environment-and-development-economics/article/abs/woodburning-restrictions-and-air-pollution-the-case-of-air-quality-warnings-in-southern-chile/D5E8D3E03698146778DDF32786DA3FC7?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark" target="_blank">[View]</a>
