@@ -39,7 +39,6 @@
   
             <li class="pub-item">
                 <p class="pub-title">Renewable Energies, Fossil Fuel Displacement and Academic Performance in Environmental Justice Communities</p>
-                <p class="pub-authors">Nathaly M. Rivera</p>
                 <p class="pub-journal">Winner of CAF Grant 2022-2023</p>
             </li>
 
