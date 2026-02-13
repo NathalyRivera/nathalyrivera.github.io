@@ -29,23 +29,23 @@
             <ol class="pub-list">
                 <li class="pub-item">
                     <p class="pub-title">Blasting Dust: The Pollution-Health Impact of Industrial Mining Developments</p>
-                    <p class="pub-authors">with <a href="#" class="coauthor-link">Gustavo Ahumada</a>, <a href="#" class="coauthor-link">Lenin Balza</a> and <a href="#" class="coauthor-link">Nicolás Gomez</a></p>
+                    <p class="pub-authors">with <a href="https://gahumada.weebly.com" class="coauthor-link">Gustavo Ahumada</a>, <a href="https://scholar.google.com/citations?hl=en&user=1K-_JF0AAAAJ&view_op=list_works" class="coauthor-link">Lenin Balza</a> and <a href="https://scholar.google.com/citations?user=1xjpsMgAAAAJ&hl=en" class="coauthor-link">Nicolás Gomez</a></p>
                     <div class="pub-links">
                         <a href="javascript:void(0)" onclick="toggleAbstract('abs-w1')">[Abstract]</a>
                     </div>
                     <div id="abs-w1" class="abstract-box">
-                        We study the pollution-health impact of industrial mining developments, specifically focusing on the effects of blasting dust...
+                    We study the pollution-health channel of the large-scale industrial mining developments leveraging exogenous variation in the geographical expansion of mineral leases in Chile over time and the distance to these installations. Using a battery of estimations in double differences and novel measures of expansion, we find a large negative impact of these developments on satellite-derived criteria air pollution concentrations within 50 km of these facilities, particularly SO$_2$. Later on, we link this increased pollution with the health outcomes of nearby communities. These results have important implications for the debate on the local welfare impact of mining developments
                     </div>
                 </li>
 
                 <li class="pub-item">
                     <p class="pub-title">Droughts, Dirty Energy, and Health</p>
-                    <p class="pub-authors">with <a href="#" class="coauthor-link">Danae Hernandez-Cortes</a>, <a href="#" class="coauthor-link">Sophie Mathes</a>, and <a href="#" class="coauthor-link">Ricardo Ramos Fontes</a></p>
+                    <p class="pub-authors">with <a href="https://hernandezcortes.github.io/#publications" class="coauthor-link">Danae Hernandez-Cortes</a>, <a href="https://sophie-mathes.com" class="coauthor-link">Sophie Mathes</a>, and <a href="https://www.econ.ucsb.edu/people/students/ricardo-jose-ramos-fontes" class="coauthor-link">Ricardo Ramos Fontes</a></p>
                     <div class="pub-links">
                         <a href="javascript:void(0)" onclick="toggleAbstract('abs-w2')">[Abstract]</a>
                     </div>
                     <div id="abs-w2" class="abstract-box">
-                        This paper investigates how water scarcity affecting hydroelectric generation leads to an increase in fossil fuel-based electricity production, impacting local air quality and infant health in Chile...
+                    Water availability threatened by climate change challenges the reliability of hydropower-based electricity generation systems. This paper evaluates the environmental and health impacts of ramped-up fossil fuel generation in response to periods of droughts in Brazil. For identification, we use exogenous variation in the standardized precipitation evapotranspiration index that relies on monthly precipitation and evapotranspiration to signal drought intensity and duration. We first document the ramping up of thermal combustion in periods of below-normal precipitations and its impacts on local air quality near thermal power plants. We use these estimates to quantify the impact of changes in air quality on hospitalizations. The results are expected to demonstrate an important link between climate change-induced water scarcity, fossil fuels, and health.
                     </div>
                 </li>
   
@@ -53,34 +53,16 @@
                 <p class="pub-title">Renewable Energies, Fossil Fuel Displacement and Academic Performance in Environmental Justice Communities</p>
                 <p class="pub-authors">Nathaly M. Rivera</p>
                 <p class="pub-journal">Winner of CAF Grant 2022-2023</p>
-                <div class="pub-links">
-                    <a href="javascript:void(0)" onclick="toggleAbstract('abs-wip1')">[Abstract]</a>
-                </div>
-                <div id="abs-wip1" class="abstract-box">
-                    This project investigates the nexus between renewable energy adoption and educational outcomes in vulnerable communities. By analyzing the displacement of fossil fuel generation, I estimate the potential gains in cognitive performance and school attendance resulting from improved local air quality...
-                </div>
             </li>
 
             <li class="pub-item">
                 <p class="pub-title">Environmental Enforcement in the Aftermath of Major Environmental Disasters</p>
-                <p class="pub-authors">with <a href="#" class="coauthor-link">Lenin Balza</a> and <a href="#" class="coauthor-link">Nicolás Gomez</a></p>
-                <div class="pub-links">
-                    <a href="javascript:void(0)" onclick="toggleAbstract('abs-wip2')">[Abstract]</a>
-                </div>
-                <div id="abs-wip2" class="abstract-box">
-                    We examine how environmental regulatory bodies adjust their enforcement stringency following large-scale ecological disasters. Using a panel of industrial facilities, we track changes in inspection frequencies and sanctioning behavior to understand the political and social drivers of regulatory responses...
-                </div>
+                <p class="pub-authors">with <a href="https://scholar.google.com/citations?hl=en&user=1K-_JF0AAAAJ&view_op=list_works" class="coauthor-link">Lenin Balza</a> and <a href="https://scholar.google.com/citations?user=1xjpsMgAAAAJ&hl=en" class="coauthor-link">Nicolás Gomez</a></p>
             </li>
 
             <li class="pub-item">
                 <p class="pub-title">The Economics of Green Technology Adoption in Latin America</p>
-                <p class="pub-authors">with <a href="#" class="coauthor-link">Lenin Balza</a>, <a href="#" class="coauthor-link">Hernán Bejarano</a>, and <a href="#" class="coauthor-link">Nicolás Gomez</a></p>
-                <div class="pub-links">
-                    <a href="javascript:void(0)" onclick="toggleAbstract('abs-wip3')">[Abstract]</a>
-                </div>
-                <div id="abs-wip3" class="abstract-box">
-                    This research explores the barriers and incentives for green technology diffusion in developing economies. We focus on how institutional quality and credit constraints shape the adoption of sustainable practices across various industrial sectors in the region...
-                </div>
+                <p class="pub-authors">with <a href="https://scholar.google.com/citations?hl=en&user=1K-_JF0AAAAJ&view_op=list_works" class="coauthor-link">Lenin Balza</a>, <a href="https://www.hernandbejarano.com" class="coauthor-link">Hernán Bejarano</a>, and <a href="https://scholar.google.com/citations?user=1xjpsMgAAAAJ&hl=en" class="coauthor-link">Nicolás Gomez</a></p>
             </li>
         </ol>                
         </div> </section>

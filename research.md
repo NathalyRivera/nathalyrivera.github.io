@@ -117,14 +117,14 @@
                 
         <li class="pub-item">
             <p class="pub-title">Coal-to-Gas Fuel Switching and its Effects on Housing Prices</p>
-            <p class="pub-authors">with <a href="https://www.canr.msu.edu/people/scott_loveridge" target="_blank" class="coauthor-link">Scott Loveridge</a></p>
+            <p class="pub-authors">with <a href="https://scholar.google.com/citations?user=Me9oDVQAAAAJ&hl=es" target="_blank" class="coauthor-link">Scott Loveridge</a></p>
             <p class="pub-journal"><em>Energy Economics</em>, 2022</p>
             <div class="pub-links">
-                <a href="https://doi.org/10.1016/j.eneco.2022.106103" target="_blank">[View]</a>
+                <a href="https://www.sciencedirect.com/science/article/abs/pii/S0140988321005818" target="_blank">[View]</a>
                 <a href="javascript:void(0)" onclick="toggleAbstract('abs-coal')">[Abstract]</a>
             </div>
             <div id="abs-coal" class="abstract-box">
-                We examine the local economic impacts of fuel switching in the power sector, specifically the transition from coal to natural gas. Using a hedonic housing price approach, we find that retiring coal units and replacing them with natural gas leads to significant property value appreciation in nearby communities...
+              We derive causal property value impacts of the coal-to-gas fuel switching conversion implemented by several power plants in the United States. We use an extensive dataset of property transactions around the country and adopt several spatial difference-in-difference approaches that use records of residential property transactions of homes with pollution exposure and proximity to the fuel-switching plants before and after the switch. The use of homes near coal-fired plants that did not innovate strengthens these estimations. The results suggest that the shutdown of coal-fired generators increased property values by roughly 12%–20% within 1 mile of distance from fuel-switching stations. These effects significantly increase once we consider wind exposure of homes around these plants, which brings to light the strong and localized disamenity effect of coal-fired power stations. Conservative back-of-the-envelope calculations suggest that the fuel-switching led to a $70-million increase in property values around the country.
             </div>
         </li>
 
@@ -132,11 +132,11 @@
             <p class="pub-title">Air Quality Warnings and Temporary Driving Bans: Evidence from Air Pollution, Car Trips, and Mass-Transit Ridership in Santiago</p>
             <p class="pub-authors">Nathaly M. Rivera</p> <p class="pub-journal"><em>Journal of Environmental Economics and Management</em>, 2021</p>
             <div class="pub-links">
-                <a href="https://doi.org/10.1016/j.jeem.2021.102434" target="_blank">[View]</a>
+                <a href="https://www.sciencedirect.com/science/article/abs/pii/S0095069621000371?dgcid=author#bib8" target="_blank">[View]</a>
                 <a href="javascript:void(0)" onclick="toggleAbstract('abs-santiago')">[Abstract]</a>
             </div>
             <div id="abs-santiago" class="abstract-box">
-                This paper evaluates the effectiveness of temporary driving bans triggered by air quality warnings in Santiago, Chile. By combining high-frequency data on pollution, traffic flows, and public transport ridership, I show how commuters respond to short-term environmental regulations and the resulting impact on air quality...
+            Driving restrictions are a common governmental strategy to reduce airborne pollution and traffic congestion in many cities of the world. Using high-frequency data on air pollution, car trips, and mass-transit systems ridership, I evaluate the effectiveness of temporary driving bans triggered by air quality warnings in Santiago, Chile. I employ a fuzzy regression discontinuity design that uses the thresholds in the air quality index used to announce these warnings as instruments for their announcement. Results show that these temporary bans reduce car trips by 6–9% during peak hours, and by 7–8% during off-peak hours. This is consistent with air pollution reductions during peak hours, and with increases in the use of Santiago's mass-transit systems during hours the systems run with excess capacity. Increments in mass-transit ridership uncover the importance of alternative modes of transportation in securing the effectiveness of temporary driving bans.
             </div>
         </li>    
         
@@ -145,11 +145,11 @@
             <p class="pub-authors">with <a href="https://www.alexandergjames.com" target="_blank" class="coauthor-link">Alex James</a></p>
             <p class="pub-journal"><em>Journal of Environmental Economics and Management</em>, 2022</p>
             <div class="pub-links">
-                <a href="https://doi.org/10.1016/j.jeem.2022.102660" target="_blank">[View]</a>
+                <a href="https://www.sciencedirect.com/science/article/abs/pii/S009506962100139X" target="_blank">[View]</a>
                 <a href="javascript:void(0)" onclick="toggleAbstract('abs-oil')">[Abstract]</a>
             </div>
             <div id="abs-oil" class="abstract-box">
-                We investigate whether oil wealth influences political corruption and public perception of governance. Using a variety of identification strategies, we explore the "resource curse" from a political economy perspective, focusing on the quality of institutions...
+            Does oil corrupt? We test this theory using forty years of U.S. state-level data measuring corruption as both convictions of corruption and the frequency that words like “corrupt”, “fraud”, and “bribe”—and their iterations—appear in newspapers. We find that oil-rich U.S. states experience more corruption than their oil-poor counterparts, but only during periods of high oil prices, suggesting a causal relationship. Results are robust to a variety of modeling assumptions and specifications. Implications and mechanisms are discussed.
             </div>
         </li>
 
@@ -158,24 +158,24 @@
             <p class="pub-authors">Nathaly M. Rivera</p>
             <p class="pub-journal"><em>Environmental and Resource Economics</em>, 2020</p>
             <div class="pub-links">
-                <a href="https://doi.org/10.1007/s10640-020-00511-y" target="_blank">[View]</a>
+                <a href="https://link.springer.com/epdf/10.1007/s10640-019-00397-w?author_access_token=3wbnIUF8kS1Okbzo5QW-2_e4RwlQNchNByi7wbcMAY4pKIZOf0hqbjdCIBQGE-m5cTs3jF5-9CS36apPRtzmX_QPrw81B9yhse1GoJCPDYNF8iz1Mv0FBLvku3un53casfaz9GjQ6BpfYa1VVwlUoQ%3D%3D" target="_blank">[View]</a>
                 <a href="javascript:void(0)" onclick="toggleAbstract('abs-disamenity')">[Abstract]</a>
             </div>
             <div id="abs-disamenity" class="abstract-box">
-                This paper examines the impact of industrial mining openings on local welfare, measured through housing prices. By analyzing property value fluctuations around new extraction sites, I provide evidence on how communities weigh the economic benefits against the environmental costs...
+            Extractive industries are often challenged by nearby communities due to their environ-mental and social impacts. If proximity to resource extraction sites represents a disamen-ity to households, the opening of new mines should lead to a decrease in housing prices. Using evidence from more than 6000 new extraction sites in Chile, this study addresses whether the heavy environmental and social impacts of digging activities outweigh their local economic benefits to the housing market in emerging economies. Findings from a spatial difference-in-difference nearest-neighbor matching estimator reveal that households near mining activity get compensated with lower rental prices, mostly in places with high perceptions of exposure to environmental pollution. Further analysis suggests that this compensation is lower among new residents of mining towns, which constitutes evidence of a taste-based sorting across space. Results in this study bring to light the need of incor-porating welfare effects of potential social and environmental disruptions in future studies addressing the economic impact of new mining operations.
             </div>
         </li>
 
         <li class="pub-item">
             <p class="pub-title">Mineral Taxes and the Local Public Goods Provision in Mining Communities</p>
-            <p class="pub-authors">with <a href="https://scholar.google.com/citations?user=P_P_K_8AAAAJ&hl=en" target="_blank" class="coauthor-link">Dusan Paredes</a></p>
+            <p class="pub-authors">with <a href="https://www.dusanparedes.cl" target="_blank" class="coauthor-link">Dusan Paredes</a></p>
             <p class="pub-journal"><em>Resources Policy</em>, 2017</p>
             <div class="pub-links">
-                <a href="https://doi.org/10.1016/j.resourpol.2017.06.012" target="_blank">[View]</a>
+                <a href="https://www.sciencedirect.com/science/article/abs/pii/S030142071730065X" target="_blank">[View]</a>
                 <a href="javascript:void(0)" onclick="toggleAbstract('abs-taxes')">[Abstract]</a>
             </div>
             <div id="abs-taxes" class="abstract-box">
-                We analyze how the redistribution of mineral tax revenues affects the provision of local public goods. Using data from mining districts, we show the extent to which fiscal windfalls are translated into improvements in local infrastructure and services...
+              Fiscal regimes to the mining industry facilitate the revenue-raising task of resource-dependent economies as they reduce the local tax burden of their residents. Whether these fiscal arrangements translate into a higher allocation of public goods in these economies remains yet unclear. We analyze the effects that local mineral taxation has on the provision of public goods in mining communities using Chile as a case study. We examine the effects of a non-distortionary tax on local concessions using a panel of 345 local governments between 2009 and 2014. To identify the effect, we compare the benefits of the tax on mining localities using two counterfactual groups of non-mining localities. We control for time-invariant and time-variant unobservable factors through both a fixed-effects and an instrumental variable fixed-effects estimator. Results show that the mineral tax increases the provision of only two out of four indicators of public goods. Further evidence suggests that local mineral taxation crowds out other local taxes.
             </div>
         </li>        
         </ol>
@@ -186,54 +186,65 @@
                     <p class="pub-title">Spatial Aggregation Bias in Implicit Prices of Environmental Amenities</p>
                     <p class="pub-authors">Nathaly M. Rivera</p>
                     <p class="pub-journal"><em>Economics Bulletin</em>, 2019</p>
-                    <div class="pub-links">
-                        <a href="#" target="_blank">[View]</a>
-                    </div>
+            <div class="pub-links">
+                <a href="http://www.accessecon.com/Pubs/EB/2019/Volume39/EB-19-V39-I2-P113.pdf" target="_blank">[View]</a>
+                <a href="javascript:void(0)" onclick="toggleAbstract('abs-taxes')">[Abstract]</a>
+            </div>
+            <div id="abs-taxes" class="abstract-box">
+            Applications of hedonic price functions aimed at eliciting implicit prices of environmental goods generally rely on spatially aggregated measures to proxy for micro-level perceptions of these amenities. This paper provides empirical evidence of the bias that arises in the elicitation of these implicit prices due to spatial aggregation. Cross-sectional data on more than 12,000 rental homes is used to derive implicit prices of air quality, using households' perceptions of air pollution aggregated at different spatial levels. Results show that higher aggregation levels add a downward bias to marginal willingness-to-pay measures for air quality improvements, increasing point estimates of the price of air quality. These findings suggest caution when interpreting implicit prices elicited from spatially aggregated measures of environmental amenities.
+            </div>
                 </li>
 
                 <li class="pub-item">
                     <p class="pub-title">Disaggregation of Sectors in Social Accounting Matrices Using a Customized Wolsky Method: A Comment on its Estimation Bias</p>
                     <p class="pub-authors">Nathaly M. Rivera</p>
                     <p class="pub-journal"><em>Applied Economics Letters</em>, 2016</p>
-                    <div class="pub-links">
-                        <a href="#" target="_blank">[View]</a>
-                    </div>
+            <div class="pub-links">
+                <a href="https://www.tandfonline.com/doi/abs/10.1080/13504851.2015.1109031"" target="_blank">[View]</a>
+                <a href="javascript:void(0)" onclick="toggleAbstract('abs-taxes')">[Abstract]</a>
+            </div>
+            <div id="abs-taxes" class="abstract-box">
+            Barrera–Lozano et al. (2015) suggest an approach to disaggregate SAM matrices using a customized method based on Wolsky (1984). Starting from an aggregated sector, they propose the extraction of a branch instead of its partition. This study compares these two methods based on the magnitude of their estimation bias of the disaggregated technical coefficient matrix. From simulations of the disaggregated Leontief matrix, this work calculates linkages and multipliers for common sectors derived from using either the Wolsky (1984) sectoral disaggregation or the Barrera–Lozano et al. (2015) sectoral extraction. Results show that both approaches provide biased estimators, with the last one showing a significantly higher bias, especially in cases of incomplete information. This comparison suggests the need of additional research to provide bias corrections for input–output disaggregation methodologies.
+            </div>
                 </li>
 
                 <li class="pub-item">
                     <p class="pub-title">Scales of Production and Mining Economies: The Case of Chile in its Regional Dimension</p>
-                    <p class="pub-authors">with <a href="#" class="coauthor-link">Patricio Aroca</a> (In Spanish)</p>
+                    <p class="pub-authors">with <a href="https://scholar.google.com/citations?hl=en&user=1cfyyTEAAAAJ&view_op=list_works" class="coauthor-link">Patricio Aroca</a> (In Spanish)</p>
                     <p class="pub-journal"><em>EURE</em>, 2014</p>
                     <div class="pub-links">
-                        <a href="#" target="_blank">[View]</a>
-                        <span class="media-links">— <a href="#" target="_blank">[Media Coverage]</a></span>
-                    </div>
-                </li>
+                        <a href="https://www.eure.cl/index.php/eure/article/view/463/660" target="_blank">[View]</a>
+               <a href="javascript:void(0)" onclick="toggleAbstract('abs-taxes')">[Abstract]</a>
+            </div>
+            <div id="abs-taxes" class="abstract-box">
+            An important share of Chilean copper production is located in two regions: Antofagasta and Atacama. In recent years there has been a rise in the price of copper, and the incomes of the inhabitants of these regions have varied differently as a response to the variations in the price of copper. This article analyzes these differences between the evolu-tion of regional income based on the size or scale of production in the mining sector. Using an  input-output  model  disaggregated  by  the  scale  of  production  (large  versus  small  and  medium-sized  scales)  of  the  mining  sector  for  each  region,  linkages  and  multipliers have been calculated and a sensitivity analysis carried out in order to test the strength of  the estimations.  This  strategy  allowed  for  identifying  and  calculating  the  impact  of each  scale on  local  income  and  production,  showing  the  heterogeneous  impact  of  the mining  sector  on local  economies,  which  is  very  relevant  for  evaluating  the  current Chilean mining policy.
+            </div>
+            </li>
             </ol>
 
             <h2 class="section-heading" style="margin-top: 50px;">Chapters in Books</h2>
             <ol class="pub-list" reversed>
                 <li class="pub-item">
                     <p class="pub-title">Project Analysis and the Regional Dimension</p>
-                    <p class="pub-authors">with <a href="#" class="coauthor-link">Patricio Aroca</a></p>
+                    <p class="pub-authors">with <a href="https://scholar.google.com/citations?hl=en&user=1cfyyTEAAAAJ&view_op=list_works" class="coauthor-link">Patricio Aroca</a></p>
                     <p class="pub-journal">in <em>Evaluación Social de Proyectos: Orientaciones para su Aplicación</em>. Aguilera, R. (Editor). Facultad de Ciencias Sociales, Universidad de la República, Uruguay. 2011</p>
                 </li>
 
                 <li class="pub-item">
                     <p class="pub-title">Copper Mining in the Antofagasta Region</p>
-                    <p class="pub-authors">with <a href="#" class="coauthor-link">Patricio Aroca</a></p>
+                    <p class="pub-authors">with <a href="https://scholar.google.com/citations?hl=en&user=1cfyyTEAAAAJ&view_op=list_works" class="coauthor-link">Patricio Aroca</a></p>
                     <p class="pub-journal">in <em>Región de Antofagasta, Pasado, Presente y Futuro</em>. Llagostera, A. (Editor). Ediciones Universitarias, Universidad Católica del Norte, Chile. 2010</p>
                 </li>
 
                 <li class="pub-item">
                     <p class="pub-title">Water Resources in a Dry Area</p>
-                    <p class="pub-authors">with <a href="#" class="coauthor-link">Marcelo Lufin</a> and <a href="#" class="coauthor-link">Marcos Hasewaga</a></p>
+                    <p class="pub-authors">with <a href="https://sites.google.com/a/ucn.cl/mlufin/inicio" class="coauthor-link">Marcelo Lufin</a> and <a href="https://www.linkedin.com/in/marcos-minoru-hasegawa-a20b0611/" class="coauthor-link">Marcos Hasewaga</a></p>
                     <p class="pub-journal">in <em>Región de Antofagasta, Pasado, Presente y Futuro</em>. Llagostera, A. (Editor). Ediciones Universitarias, Universidad Católica del Norte, Chile. 2010</p>
                 </li>
 
                 <li class="pub-item">
                     <p class="pub-title">La Experiencia del Instituto de Economía Aplicada Regional (IDEAR) de la Universidad Católica del Norte</p>
-                    <p class="pub-authors">with <a href="#" class="coauthor-link">Esteban Lopez Ochoa</a></p>
+                    <p class="pub-authors">with <a href="https://estebanlp.github.io/mywebsite/index.html" class="coauthor-link">Esteban Lopez Ochoa</a></p>
                     <p class="pub-journal">in <em>Centros de pensamiento estratégico territorial: Instrumentos de la gobernanza regional en Chile</em>, Vergara, P. (Editor). Subsecretaría de Desarrollo Regional y Administrativo, Chile. 2010</p>
                 </li>
             </ol>        
