@@ -226,25 +226,25 @@
             <ol class="pub-list" reversed>
                 <li class="pub-item">
                     <p class="pub-title">Project Analysis and the Regional Dimension</p>
-                    <p class="pub-authors">with <a href="https://scholar.google.com/citations?hl=en&user=1cfyyTEAAAAJ&view_op=list_works" class="coauthor-link">Patricio Aroca</a></p>
+                    <p class="pub-authors">with <a href="https://scholar.google.com/citations?hl=en&user=1cfyyTEAAAAJ&view_op=list_works" target="_blank" class="coauthor-link">Patricio Aroca</a></p>
                     <p class="pub-journal">in <em>Evaluación Social de Proyectos: Orientaciones para su Aplicación</em>. Aguilera, R. (Editor). Facultad de Ciencias Sociales, Universidad de la República, Uruguay. 2011</p>
                 </li>
 
                 <li class="pub-item">
                     <p class="pub-title">Copper Mining in the Antofagasta Region</p>
-                    <p class="pub-authors">with <a href="https://scholar.google.com/citations?hl=en&user=1cfyyTEAAAAJ&view_op=list_works" class="coauthor-link">Patricio Aroca</a></p>
+                    <p class="pub-authors">with <a href="https://scholar.google.com/citations?hl=en&user=1cfyyTEAAAAJ&view_op=list_works" target="_blank" class="coauthor-link">Patricio Aroca</a></p>
                     <p class="pub-journal">in <em>Región de Antofagasta, Pasado, Presente y Futuro</em>. Llagostera, A. (Editor). Ediciones Universitarias, Universidad Católica del Norte, Chile. 2010</p>
                 </li>
 
                 <li class="pub-item">
                     <p class="pub-title">Water Resources in a Dry Area</p>
-                    <p class="pub-authors">with <a href="https://sites.google.com/a/ucn.cl/mlufin/inicio" class="coauthor-link">Marcelo Lufin</a> and <a href="https://www.linkedin.com/in/marcos-minoru-hasegawa-a20b0611/" class="coauthor-link">Marcos Hasewaga</a></p>
+                    <p class="pub-authors">with <a href="https://sites.google.com/a/ucn.cl/mlufin/inicio" target="_blank" class="coauthor-link">Marcelo Lufin</a> and <a href="https://www.linkedin.com/in/marcos-minoru-hasegawa-a20b0611/" target="_blank" class="coauthor-link">Marcos Hasewaga</a></p>
                     <p class="pub-journal">in <em>Región de Antofagasta, Pasado, Presente y Futuro</em>. Llagostera, A. (Editor). Ediciones Universitarias, Universidad Católica del Norte, Chile. 2010</p>
                 </li>
 
                 <li class="pub-item">
                     <p class="pub-title">La Experiencia del Instituto de Economía Aplicada Regional (IDEAR) de la Universidad Católica del Norte</p>
-                    <p class="pub-authors">with <a href="https://estebanlp.github.io/mywebsite/index.html" class="coauthor-link">Esteban Lopez Ochoa</a></p>
+                    <p class="pub-authors">with <a href="https://estebanlp.github.io/mywebsite/index.html" target="_blank" class="coauthor-link">Esteban Lopez Ochoa</a></p>
                     <p class="pub-journal">in <em>Centros de pensamiento estratégico territorial: Instrumentos de la gobernanza regional en Chile</em>, Vergara, P. (Editor). Subsecretaría de Desarrollo Regional y Administrativo, Chile. 2010</p>
                 </li>
             </ol>        
