@@ -130,7 +130,7 @@
 
         <li class="pub-item">
             <p class="pub-title">Air Quality Warnings and Temporary Driving Bans: Evidence from Air Pollution, Car Trips, and Mass-Transit Ridership in Santiago</p>
-            <p class="pub-authors">Nathaly M. Rivera</p> <p class="pub-journal"><em>Journal of Environmental Economics and Management</em>, 2021</p>
+            <p class="pub-journal"><em>Journal of Environmental Economics and Management</em>, 2021</p>
             <div class="pub-links">
                 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0095069621000371?dgcid=author#bib8" target="_blank">[View]</a>
                 <a href="javascript:void(0)" onclick="toggleAbstract('abs-santiago')">[Abstract]</a>
@@ -155,7 +155,6 @@
 
         <li class="pub-item">
             <p class="pub-title">Is Mining and Environmental Disamenity? Evidence from Resource Extraction Site Openings</p>
-            <p class="pub-authors">Nathaly M. Rivera</p>
             <p class="pub-journal"><em>Environmental and Resource Economics</em>, 2020</p>
             <div class="pub-links">
                 <a href="https://link.springer.com/epdf/10.1007/s10640-019-00397-w?author_access_token=3wbnIUF8kS1Okbzo5QW-2_e4RwlQNchNByi7wbcMAY4pKIZOf0hqbjdCIBQGE-m5cTs3jF5-9CS36apPRtzmX_QPrw81B9yhse1GoJCPDYNF8iz1Mv0FBLvku3un53casfaz9GjQ6BpfYa1VVwlUoQ%3D%3D" target="_blank">[View]</a>
