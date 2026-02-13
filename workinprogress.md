@@ -29,12 +29,12 @@
             <ol class="pub-list">
                 <li class="pub-item">
                     <p class="pub-title">Blasting Dust: The Pollution-Health Impact of Industrial Mining Developments</p>
-                    <p class="pub-authors">with <a href="https://gahumada.weebly.com" class="coauthor-link">Gustavo Ahumada</a>, <a href="https://scholar.google.com/citations?hl=en&user=1K-_JF0AAAAJ&view_op=list_works" class="coauthor-link">Lenin Balza</a> and <a href="https://scholar.google.com/citations?user=1xjpsMgAAAAJ&hl=en" class="coauthor-link">Nicolás Gomez</a></p>
+                    <p class="pub-authors">with <a href="https://gahumada.weebly.com" target="_blank" class="coauthor-link">Gustavo Ahumada</a>, <a href="https://scholar.google.com/citations?hl=en&user=1K-_JF0AAAAJ&view_op=list_works" target="_blank" class="coauthor-link">Lenin Balza</a> and <a href="https://scholar.google.com/citations?user=1xjpsMgAAAAJ&hl=en" target="_blank" class="coauthor-link">Nicolás Gomez</a></p>
                 </li>
 
                 <li class="pub-item">
                     <p class="pub-title">Droughts, Dirty Energy, and Health</p>
-                    <p class="pub-authors">with <a href="https://hernandezcortes.github.io/#publications" class="coauthor-link">Danae Hernandez-Cortes</a>, <a href="https://sophie-mathes.com" class="coauthor-link">Sophie Mathes</a>, and <a href="https://www.econ.ucsb.edu/people/students/ricardo-jose-ramos-fontes" class="coauthor-link">Ricardo Ramos Fontes</a></p>
+                    <p class="pub-authors">with <a href="https://hernandezcortes.github.io/#publications" target="_blank" class="coauthor-link">Danae Hernandez-Cortes</a>, <a href="https://sophie-mathes.com" target="_blank" class="coauthor-link">Sophie Mathes</a>, and <a href="https://www.econ.ucsb.edu/people/students/ricardo-jose-ramos-fontes" target="_blank" class="coauthor-link">Ricardo Ramos Fontes</a></p>
                 </li>
   
             <li class="pub-item">
@@ -45,12 +45,12 @@
 
             <li class="pub-item">
                 <p class="pub-title">Environmental Enforcement in the Aftermath of Major Environmental Disasters</p>
-                <p class="pub-authors">with <a href="https://scholar.google.com/citations?hl=en&user=1K-_JF0AAAAJ&view_op=list_works" class="coauthor-link">Lenin Balza</a> and <a href="https://scholar.google.com/citations?user=1xjpsMgAAAAJ&hl=en" class="coauthor-link">Nicolás Gomez</a></p>
+                <p class="pub-authors">with <a href="https://scholar.google.com/citations?hl=en&user=1K-_JF0AAAAJ&view_op=list_works" target="_blank" class="coauthor-link">Lenin Balza</a> and <a href="https://scholar.google.com/citations?user=1xjpsMgAAAAJ&hl=en" target="_blank" class="coauthor-link">Nicolás Gomez</a></p>
             </li>
 
             <li class="pub-item">
                 <p class="pub-title">The Economics of Green Technology Adoption in Latin America</p>
-                <p class="pub-authors">with <a href="https://scholar.google.com/citations?hl=en&user=1K-_JF0AAAAJ&view_op=list_works" class="coauthor-link">Lenin Balza</a>, <a href="https://www.hernandbejarano.com" class="coauthor-link">Hernán Bejarano</a>, and <a href="https://scholar.google.com/citations?user=1xjpsMgAAAAJ&hl=en" class="coauthor-link">Nicolás Gomez</a></p>
+                <p class="pub-authors">with <a href="https://scholar.google.com/citations?hl=en&user=1K-_JF0AAAAJ&view_op=list_works" target="_blank" class="coauthor-link">Lenin Balza</a>, <a href="https://www.hernandbejarano.com" target="_blank" class="coauthor-link">Hernán Bejarano</a>, and <a href="https://scholar.google.com/citations?user=1xjpsMgAAAAJ&hl=en" target="_blank" class="coauthor-link">Nicolás Gomez</a></p>
             </li>
         </ol>                
         </div> </section>
