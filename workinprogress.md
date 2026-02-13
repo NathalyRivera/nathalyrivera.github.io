@@ -30,23 +30,11 @@
                 <li class="pub-item">
                     <p class="pub-title">Blasting Dust: The Pollution-Health Impact of Industrial Mining Developments</p>
                     <p class="pub-authors">with <a href="https://gahumada.weebly.com" class="coauthor-link">Gustavo Ahumada</a>, <a href="https://scholar.google.com/citations?hl=en&user=1K-_JF0AAAAJ&view_op=list_works" class="coauthor-link">Lenin Balza</a> and <a href="https://scholar.google.com/citations?user=1xjpsMgAAAAJ&hl=en" class="coauthor-link">Nicolás Gomez</a></p>
-                    <div class="pub-links">
-                        <a href="javascript:void(0)" onclick="toggleAbstract('abs-w1')">[Abstract]</a>
-                    </div>
-                    <div id="abs-w1" class="abstract-box">
-                    We study the pollution-health channel of the large-scale industrial mining developments leveraging exogenous variation in the geographical expansion of mineral leases in Chile over time and the distance to these installations. Using a battery of estimations in double differences and novel measures of expansion, we find a large negative impact of these developments on satellite-derived criteria air pollution concentrations within 50 km of these facilities, particularly SO$_2$. Later on, we link this increased pollution with the health outcomes of nearby communities. These results have important implications for the debate on the local welfare impact of mining developments
-                    </div>
                 </li>
 
                 <li class="pub-item">
                     <p class="pub-title">Droughts, Dirty Energy, and Health</p>
                     <p class="pub-authors">with <a href="https://hernandezcortes.github.io/#publications" class="coauthor-link">Danae Hernandez-Cortes</a>, <a href="https://sophie-mathes.com" class="coauthor-link">Sophie Mathes</a>, and <a href="https://www.econ.ucsb.edu/people/students/ricardo-jose-ramos-fontes" class="coauthor-link">Ricardo Ramos Fontes</a></p>
-                    <div class="pub-links">
-                        <a href="javascript:void(0)" onclick="toggleAbstract('abs-w2')">[Abstract]</a>
-                    </div>
-                    <div id="abs-w2" class="abstract-box">
-                    Water availability threatened by climate change challenges the reliability of hydropower-based electricity generation systems. This paper evaluates the environmental and health impacts of ramped-up fossil fuel generation in response to periods of droughts in Brazil. For identification, we use exogenous variation in the standardized precipitation evapotranspiration index that relies on monthly precipitation and evapotranspiration to signal drought intensity and duration. We first document the ramping up of thermal combustion in periods of below-normal precipitations and its impacts on local air quality near thermal power plants. We use these estimates to quantify the impact of changes in air quality on hospitalizations. The results are expected to demonstrate an important link between climate change-induced water scarcity, fossil fuels, and health.
-                    </div>
                 </li>
   
             <li class="pub-item">
