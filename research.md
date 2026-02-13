@@ -183,7 +183,6 @@
             <ol class="pub-list" reversed>
                 <li class="pub-item">
                     <p class="pub-title">Spatial Aggregation Bias in Implicit Prices of Environmental Amenities</p>
-                    <p class="pub-authors">Nathaly M. Rivera</p>
                     <p class="pub-journal"><em>Economics Bulletin</em>, 2019</p>
             <div class="pub-links">
                 <a href="http://www.accessecon.com/Pubs/EB/2019/Volume39/EB-19-V39-I2-P113.pdf" target="_blank">[View]</a>
@@ -196,7 +195,6 @@
 
                 <li class="pub-item">
                     <p class="pub-title">Disaggregation of Sectors in Social Accounting Matrices Using a Customized Wolsky Method: A Comment on its Estimation Bias</p>
-                    <p class="pub-authors">Nathaly M. Rivera</p>
                     <p class="pub-journal"><em>Applied Economics Letters</em>, 2016</p>
             <div class="pub-links">
                 <a href="https://www.tandfonline.com/doi/abs/10.1080/13504851.2015.1109031" target="_blank">[View]</a>
@@ -221,7 +219,7 @@
             </li>
             </ol>
 
-            <h2 class="section-heading" style="margin-top: 50px;">Chapters in Books</h2>
+            <h2 class="section-heading" style="margin-top: 50px;">Chapters in Books (in Spanish)</h2>
             <ol class="pub-list" reversed>
                 <li class="pub-item">
                     <p class="pub-title">Project Analysis and the Regional Dimension</p>
