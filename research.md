@@ -200,13 +200,13 @@
                     <p class="pub-authors">Nathaly M. Rivera</p>
                     <p class="pub-journal"><em>Applied Economics Letters</em>, 2016</p>
             <div class="pub-links">
-                <a href="https://www.tandfonline.com/doi/abs/10.1080/13504851.2015.1109031"" target="_blank">[View]</a>
+                <a href="https://www.tandfonline.com/doi/abs/10.1080/13504851.2015.1109031 target="_blank">[View]</a>
                 <a href="javascript:void(0)" onclick="toggleAbstract('abs-taxes')">[Abstract]</a>
             </div>
             <div id="abs-taxes" class="abstract-box">
             Barrera–Lozano et al. (2015) suggest an approach to disaggregate SAM matrices using a customized method based on Wolsky (1984). Starting from an aggregated sector, they propose the extraction of a branch instead of its partition. This study compares these two methods based on the magnitude of their estimation bias of the disaggregated technical coefficient matrix. From simulations of the disaggregated Leontief matrix, this work calculates linkages and multipliers for common sectors derived from using either the Wolsky (1984) sectoral disaggregation or the Barrera–Lozano et al. (2015) sectoral extraction. Results show that both approaches provide biased estimators, with the last one showing a significantly higher bias, especially in cases of incomplete information. This comparison suggests the need of additional research to provide bias corrections for input–output disaggregation methodologies.
             </div>
-                </li>
+            </li>
 
                 <li class="pub-item">
                     <p class="pub-title">Scales of Production and Mining Economies: The Case of Chile in its Regional Dimension</p>
