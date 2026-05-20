@@ -37,6 +37,7 @@
                         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0305750X25003973?dgcid=author" target="_blank">[View]</a>
                         <a href="#" target="_blank">[Accepted Version]</a>
                         <a href="javascript:void(0)" onclick="toggleAbstract('abs-world')">[Abstract]</a>
+                   <span class="media-links">— Featured in: <a href="https://econ.uchile.cl/noticia/como-el-precio-del-cobre-impacta-en-las-trayectorias-educativas-en-zonas-mineras/" target="_blank">[Decon]</a></span>
                     </div>
                     <div id="abs-world" class="abstract-box">
                         Do resource-extraction booms deter postsecondary education? We explore this question by examining the higher education-related decisions of Chilean high school graduates during the 2000s commodities boom. Mineral extraction boosts enrollment in technical education but lowers completion rates for four-year professional degrees. Effects vary by economic background, with dropout rates higher among public high school graduates, who typically serve low-income groups. Our study highlights the unequal impact of natural resources on human capital accumulation across income groups within resource-rich developing economies.
