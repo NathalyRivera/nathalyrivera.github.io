@@ -46,7 +46,10 @@
                         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0305750X25003973?dgcid=author" target="_blank">[View]</a>
                         <a href="#" target="_blank">[Accepted Version]</a>
                         <a href="javascript:void(0)" onclick="toggleAbstract('abs-world')">[Abstract]</a>
-                   <span class="media-links">— Featured in: <a href="https://econ.uchile.cl/noticia/como-el-precio-del-cobre-impacta-en-las-trayectorias-educativas-en-zonas-mineras/" target="_blank">[Decon]</a></span>
+                   <span class="media-links">— Featured in: 
+                      <a href="https://econ.uchile.cl/noticia/como-el-precio-del-cobre-impacta-en-las-trayectorias-educativas-en-zonas-mineras/" target="_blank">[FEN-Decon]</a>
+                      <a href="https://uchile.cl/noticias/240733/u-de-chile-revela-impacto-educativo-del-precio-del-cobre-en-zonas-mineras" target="_blank">[U of Chile]</a>
+                      </span>
                     </div>
                     <div id="abs-world" class="abstract-box">
                         Do resource-extraction booms deter postsecondary education? We explore this question by examining the higher education-related decisions of Chilean high school graduates during the 2000s commodities boom. Mineral extraction boosts enrollment in technical education but lowers completion rates for four-year professional degrees. Effects vary by economic background, with dropout rates higher among public high school graduates, who typically serve low-income groups. Our study highlights the unequal impact of natural resources on human capital accumulation across income groups within resource-rich developing economies.
@@ -60,7 +63,10 @@
                     <div class="pub-links">
                         <a href="https://www.cambridge.org/core/journals/environment-and-development-economics/article/abs/woodburning-restrictions-and-air-pollution-the-case-of-air-quality-warnings-in-southern-chile/D5E8D3E03698146778DDF32786DA3FC7?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark" target="_blank">[View]</a>
                         <a href="javascript:void(0)" onclick="toggleAbstract('abs-woodburning')">[Abstract]</a>
-                        <span class="media-links">— Featured in: <a href="https://uchile.cl/noticias/230506/u-de-chile-evalua-plan-anticontaminacion-en-los-angeles-y-sus-limites" target="_blank">[Universidad de Chile]</a> <a href="#">[La Tribuna]</a></span>
+                        <span class="media-links">— Featured in: 
+                        <a href="https://uchile.cl/noticias/230506/u-de-chile-evalua-plan-anticontaminacion-en-los-angeles-y-sus-limites" target="_blank">[Universidad de Chile]</a>  
+                        <a href="https://www.latribuna.cl/medio-ambiente/2025/08/02/investigacion-advierte-sobre-limitada-eficacia-de-las-restricciones-en-el-uso-de-lena-en-los-angeles.html" target="_blank">[La Tribuna]</a> 
+                      </span>
                     </div>
                     <div id="abs-woodburning" class="abstract-box">
                         Despite the substantial evidence linking particulate matter exposure to adverse health outcomes, a large portion of the global population, particularly in low-income countries, continues to rely on highly polluting fuels, such as wood, for cooking and heating. This study evaluates the immediate effects of wood-burning restrictions, which are triggered by air quality warnings, on levels of fine (PM2.5) and coarse (PM10) particulate matter in southern Chile. Using a difference-in-differences design that incorporates pre-policy data, we provide plausible causal estimates indicating that wood-burning restrictions lead to significant reductions in hourly PM10 and PM2.5 concentrations during the most severe air quality warning. Additional analyses, including a regression discontinuity design, further support these findings. While our analysis suggests that wood-burning restrictions are effective, they may not be sufficient to reduce air pollution concentrations to levels that are considered safe for public health.
