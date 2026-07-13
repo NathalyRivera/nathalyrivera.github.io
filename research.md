@@ -49,6 +49,11 @@
                    <span class="media-links">— Featured in: 
                       <a href="https://econ.uchile.cl/noticia/como-el-precio-del-cobre-impacta-en-las-trayectorias-educativas-en-zonas-mineras/" target="_blank">[FEN-Decon]</a>
                       <a href="https://uchile.cl/noticias/240733/u-de-chile-revela-impacto-educativo-del-precio-del-cobre-en-zonas-mineras" target="_blank">[U of Chile]</a>
+                      <a href="https://mundomineria.cl/2026/06/08/estudio-revela-como-el-precio-del-cobre-y-educacion-superior-se-relacionan-en-zonas-mineras/" target="_blank">[Mundo Minería]</a>        
+                      <a href="https://www.mch.cl/estudio-revela-como-el-precio-del-cobre-incide-en-las-trayectorias-educativas-en-las-zonas-mineras/" target="_blank">[Minería Chilena]</a>   
+                      <a href="https://sosteniblehoy.cl/alto-precio-del-cobre-estudio-u-de-chile-explica-inesperado-efecto-en-la-formacion-educativa/" target="_blank">[Sostenible Hoy]</a>
+                      <a href="https://atacama360.cl/boom-del-cobre-impulsa-ingreso-a-la-educacion-superior-pero-tambien-aumenta-la-desercion-en-zonas-mineras/" target="_blank">[Atacama 360]</a> 
+                      <a href="https://www.elnortero.cl/noticia/economia/alza-del-precio-del-cobre-influye-en-decisiones-educativas-de-jovenes-en-zonas-mine" target="_blank">[El Nortero]</a>                      
                       </span>
                     </div>
                     <div id="abs-world" class="abstract-box">
