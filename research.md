@@ -53,7 +53,8 @@
                       <a href="https://www.mch.cl/estudio-revela-como-el-precio-del-cobre-incide-en-las-trayectorias-educativas-en-las-zonas-mineras/" target="_blank">[Minería Chilena]</a>   
                       <a href="https://sosteniblehoy.cl/alto-precio-del-cobre-estudio-u-de-chile-explica-inesperado-efecto-en-la-formacion-educativa/" target="_blank">[Sostenible Hoy]</a>
                       <a href="https://atacama360.cl/boom-del-cobre-impulsa-ingreso-a-la-educacion-superior-pero-tambien-aumenta-la-desercion-en-zonas-mineras/" target="_blank">[Atacama 360]</a> 
-                      <a href="https://www.elnortero.cl/noticia/economia/alza-del-precio-del-cobre-influye-en-decisiones-educativas-de-jovenes-en-zonas-mine" target="_blank">[El Nortero]</a>                      
+                      <a href="https://www.elnortero.cl/noticia/economia/alza-del-precio-del-cobre-influye-en-decisiones-educativas-de-jovenes-en-zonas-mine" target="_blank">[El Nortero]</a>  
+                      <a href="https://territoriominero.cl/precio-del-cobre-abre-debate-sobre-educacion-y-futuro-sostenible-en-zonas-mineras/" target="_blank">[Territorio Minero]</a>                        
                       </span>
                     </div>
                     <div id="abs-world" class="abstract-box">
@@ -114,7 +115,10 @@
                         <span class="media-links">— Featured in: 
                             <a href="https://blogs.edf.org/markets/2021/05/17/solar-power-can-have-positive-health-impacts-for-chiles-most-vulnerable-heres-how/" target="_blank">[EDF Blog Post]</a> 
                             <a href="https://dev.focoeconomico.org/2022/03/28/los-beneficios-en-salud-de-descarbonizar-matrices-energeticas-con-energias-renovables-no-convencionales/" target="_blank">[Foco Económico]</a> 
+                            <a href="https://econ.uchile.cl/noticia/estudio-mide-brutal-impacto-de-plantas-de-carbon-en-enfermedades-respiratorias/" target="_blank">[FEN-Decon]</a>
                             <a href="https://www.latercera.com/que-pasa/noticia/tocopilla-antofagasta-arica-estudio-mide-brutal-impacto-de-plantas-de-carbon-en-enfermedades-respiratorias/FYOCMCM4KJBZNGKMHC3UFEZJWY/#" target="_blank">[La Tercera]</a>
+                            <a href="https://www.terram.cl/tocopilla-antofagasta-arica-estudio-mide-brutal-impacto-de-plantas-de-carbon-en-enfermedades-respiratorias/" target="_blank">[Fundación Terram]</a>
+                            <a href="https://www.soychile.cl/antofagasta/sociedad/2024/07/24/869905/estudio-antofagasta-impacto-plantas-carbon.html" target="_blank">[Soy Chile]</a>                            
                         </span>
                     </div>
                     <div id="abs-solar" class="abstract-box">
