@@ -36,15 +36,23 @@
         <div class="intro-text">
            <h2 class="section-heading" style="margin-top: 50px;">Selected Work in Progress</h2>
             <ol class="pub-list">
+                 <li class="pub-item">
+                 <p class="pub-title">Droughts, Dirty Energy, and Health</p>
+                 <p class="pub-authors">with <a href="https://hernandezcortes.github.io/#publications" target="_blank" class="coauthor-link">Danae Hernandez-Cortes</a>, <a href="https://sophie-mathes.com" target="_blank" class="coauthor-link">Sophie Mathes</a>, and <a href="https://www.econ.ucsb.edu/people/students/ricardo-jose-ramos-fontes" target="_blank" class="coauthor-link">Ricardo Ramos Fontes</a></p>
+                <div class="pub-links">
+                    <a href="javascript:void(0)" onclick="toggleAbstract('abs-inquiry')">[Abstract]</a>
+                </div>
+                <div id="abs-inquiry" class="abstract-box">
+                Hydropower-dependent electricity systems are increasingly exposed to drought risk. We study one consequence of this vulnerability: when droughts reduce hydropower availability, system operators increase fossil-fuel generation, worsening air pollution and respiratory health. We combine plant-level electricity generation, hydrological conditions, ERA5 wind fields, and hospitalization records from Brazil's public health system to estimate the health impacts of drought-induced fossil generation. Using source-receptor weights based on distance and wind direction, we construct a drought-predicted measure of exposure to transported emissions from thermal power plants. We show that droughts reduce hydro inflows and reservoir storage, increasing generation from coal, oil, and natural gas. Higher exposure to this drought-induced fossil generation significantly increases urgent respiratory hospitalizations. Surprisingly, we find that even natural gas generation is associated with substantial increases in respiratory morbidity. Finally, we show that the expansion of wind and solar power weakened the fossil-fuel response to hydropower scarcity. Counterfactual simulations suggest that this reduced drought-induced thermal generation and prevented several hundred urgent respiratory hospitalizations.
+                </div>               
+                 </li>
+                            
                 <li class="pub-item">
                     <p class="pub-title">Blasting Dust: The Pollution-Health Impact of Industrial Mining Developments</p>
                     <p class="pub-authors">with <a href="https://gahumada.weebly.com" target="_blank" class="coauthor-link">Gustavo Ahumada</a>, <a href="https://scholar.google.com/citations?hl=en&user=1K-_JF0AAAAJ&view_op=list_works" target="_blank" class="coauthor-link">Lenin Balza</a> and <a href="https://scholar.google.com/citations?user=1xjpsMgAAAAJ&hl=en" target="_blank" class="coauthor-link">Nicolás Gomez</a></p>
                 </li>
 
-                <li class="pub-item">
-                    <p class="pub-title">Droughts, Dirty Energy, and Health</p>
-                    <p class="pub-authors">with <a href="https://hernandezcortes.github.io/#publications" target="_blank" class="coauthor-link">Danae Hernandez-Cortes</a>, <a href="https://sophie-mathes.com" target="_blank" class="coauthor-link">Sophie Mathes</a>, and <a href="https://www.econ.ucsb.edu/people/students/ricardo-jose-ramos-fontes" target="_blank" class="coauthor-link">Ricardo Ramos Fontes</a></p>
-                </li>
+
   
             <li class="pub-item">
                 <p class="pub-title">Renewable Energies, Fossil Fuel Displacement and Academic Performance in Environmental Justice Communities</p>
