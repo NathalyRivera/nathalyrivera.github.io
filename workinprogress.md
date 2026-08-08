@@ -75,10 +75,6 @@
                 <p class="pub-authors">with <a href="https://scholar.google.com/citations?hl=en&user=1K-_JF0AAAAJ&view_op=list_works" target="_blank" class="coauthor-link">Lenin Balza</a> and <a href="https://scholar.google.com/citations?user=1xjpsMgAAAAJ&hl=en" target="_blank" class="coauthor-link">Nicolás Gomez</a></p>
             </li>
 
-            <li class="pub-item">
-                <p class="pub-title">The Economics of Green Technology Adoption in Latin America</p>
-                <p class="pub-authors">with <a href="https://scholar.google.com/citations?hl=en&user=1K-_JF0AAAAJ&view_op=list_works" target="_blank" class="coauthor-link">Lenin Balza</a>, <a href="https://www.hernandbejarano.com" target="_blank" class="coauthor-link">Hernán Bejarano</a>, and <a href="https://scholar.google.com/citations?user=1xjpsMgAAAAJ&hl=en" target="_blank" class="coauthor-link">Nicolás Gomez</a></p>
-            </li>
         </ol>                
         </div> </section>
 
