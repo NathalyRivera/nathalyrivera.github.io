@@ -48,13 +48,13 @@
                  </li>
                             
              <li class="pub-item">
-                 <p class="pub-title">Electrifying Latin American Cities: Incentives, Insecurity, and the Demand for Electric Vehicles</p>
+                 <p class="pub-title">Policy Instruments and Non-Price Barriers to Electric Vehicle Adoption</p>
                  <p class="pub-authors">with <a href="https://scholar.google.com/citations?hl=en&user=1K-_JF0AAAAJ&view_op=list_works" target="_blank" class="coauthor-link">Lenin Balza</a>, <a href="https://www.hernandbejarano.com" target="_blank" class="coauthor-link">Hernán Bejarano</a>, and <a href="https://scholar.google.com/citations?user=1xjpsMgAAAAJ&hl=en" target="_blank" class="coauthor-link">Nicolás Gomez</a></p>
                 <div class="pub-links">
                     <a href="javascript:void(0)" onclick="toggleAbstract('evs')">[Abstract]</a>
                 </div>
                 <div id="evs" class="abstract-box">
-              Electric vehicles (EVs) are central to decarbonization, yet adoption remains low in many developing countries despite widespread policy support. We study the relative importance of the three main policy instruments used to promote EV adoption, i.e., purchase subsidies, public charging infrastructure, and exemptions from driving restrictions, and compare them with a previously overlooked barrier: perceived urban insecurity. Using an original discrete choice experiment conducted in Bogotá and Santiago, we estimate consumers' willingness to pay for each policy instrument and quantify the effect of fear of vehicle theft on EV demand. We find that perceived insecurity substantially reduces the attractiveness of EVs, with an effect comparable in magnitude to the value consumers assign to charging expansion and driving-restriction exemptions, and larger than the remaining EV price premium. Our findings suggest that conventional electrification policies address only part of the adoption problem, highlighting the importance of institutional and security-related constraints in the transition to clean transportation.
+              Electric vehicle (EV) adoption remains limited in Latin America despite growing efforts to decarbonize urban transportation. This paper examines how consumers respond to alternative EV policy instruments and non-price barriers in Bogotá, Colombia, and Santiago, Chile. We conduct a discrete choice experiment among prospective vehicle buyers, who face hypothetical choices between conventional and electric vehicles with varying prices, technical characteristics, charging availability, and regulatory benefits. Using conditional and mixed logit models, we estimate consumers' willingness to pay for different vehicle attributes and policy incentives. Our findings highlight the importance of charging infrastructure and exemptions from driving restrictions as alternatives to traditional purchase subsidies. Regulatory incentives are particularly relevant in cities where driving restrictions impose greater constraints on vehicle use, illustrating how local institutional conditions shape consumer preferences. We also document substantial differences in EV valuations associated with home-charging access, prior experience with electric vehicles, and preferences for new versus used cars. Overall, the findings suggest that policies to accelerate EV adoption in Latin America should consider not only vehicle affordability but also infrastructure access, existing transportation regulations, and differences in consumer circumstances.
                </div>               
                  </li>
                                         
@@ -64,7 +64,6 @@
                 </li>
 
 
-  
             <li class="pub-item">
                 <p class="pub-title">Renewable Energies, Fossil Fuel Displacement and Academic Performance in Environmental Justice Communities</p>
                 <p class="pub-journal">Winner of CAF Grant 2022-2023</p>
