@@ -57,7 +57,17 @@
               Electric vehicle (EV) adoption remains limited in Latin America despite growing efforts to decarbonize urban transportation. This paper examines how consumers respond to alternative EV policy instruments and non-price barriers in Bogotá, Colombia, and Santiago, Chile. We conduct a discrete choice experiment among prospective vehicle buyers, who face hypothetical choices between conventional and electric vehicles with varying prices, technical characteristics, charging availability, and regulatory benefits. Using conditional and mixed logit models, we estimate consumers' willingness to pay for different vehicle attributes and policy incentives. Our findings highlight the importance of charging infrastructure and exemptions from driving restrictions as alternatives to traditional purchase subsidies. Regulatory incentives are particularly relevant in cities where driving restrictions impose greater constraints on vehicle use, illustrating how local institutional conditions shape consumer preferences. We also document substantial differences in EV valuations associated with home-charging access, prior experience with electric vehicles, and preferences for new versus used cars. Overall, the findings suggest that policies to accelerate EV adoption in Latin America should consider not only vehicle affordability but also infrastructure access, existing transportation regulations, and differences in consumer circumstances.
                </div>               
                  </li>
-                                        
+                   
+             <li class="pub-item">
+                <p class="pub-title">Disasters, State Capacity, and Environmental Enforcement</p>
+                <p class="pub-authors">with <a href="https://scholar.google.com/citations?hl=en&user=1K-_JF0AAAAJ&view_op=list_works" target="_blank" class="coauthor-link">Lenin Balza</a> and <a href="https://scholar.google.com/citations?user=1xjpsMgAAAAJ&hl=en" target="_blank" class="coauthor-link">Nicolás Gomez</a></p>
+                  <a href="javascript:void(0)" onclick="toggleAbstract('evs')">[Abstract]</a>
+              </div>
+                <div id="evs" class="abstract-box">
+                How do governments allocate scarce regulatory resources when unexpected disasters shift enforcement priorities? This paper examines whether major environmental disasters generate unintended spillovers by diverting enforcement capacity away from otherwise unaffected sectors and locations. We study two catastrophic mining dam failures in Brazil, which sharply increased demand for environmental oversight. We develop a framework in which regulators allocate limited monitoring resources across competing activities, while firms adjust compliance decisions in response to expected enforcement. Combining administrative records of environmental infractions, government officials' travel, and high-frequency satellite measures of deforestation and fires, we investigate how disaster-induced changes in regulatory priorities affect enforcement allocation and environmental outcomes. By linking emergency responses to the opportunity cost of regulatory attention, the paper seeks to advance our understanding of state capacity, optimal enforcement, and the unintended consequences of public resource allocation under institutional constraints.
+             </div>               
+            </li>
+            
                 <li class="pub-item">
                     <p class="pub-title">Blasting Dust: The Pollution-Health Impact of Industrial Mining Developments</p>
                     <p class="pub-authors">with <a href="https://gahumada.weebly.com" target="_blank" class="coauthor-link">Gustavo Ahumada</a>, <a href="https://scholar.google.com/citations?hl=en&user=1K-_JF0AAAAJ&view_op=list_works" target="_blank" class="coauthor-link">Lenin Balza</a> and <a href="https://scholar.google.com/citations?user=1xjpsMgAAAAJ&hl=en" target="_blank" class="coauthor-link">Nicolás Gomez</a></p>
@@ -67,11 +77,6 @@
             <li class="pub-item">
                 <p class="pub-title">Renewable Energies, Fossil Fuel Displacement and Academic Performance in Environmental Justice Communities</p>
                 <p class="pub-journal">Winner of CAF Grant 2022-2023</p>
-            </li>
-
-            <li class="pub-item">
-                <p class="pub-title">Environmental Enforcement in the Aftermath of Major Environmental Disasters</p>
-                <p class="pub-authors">with <a href="https://scholar.google.com/citations?hl=en&user=1K-_JF0AAAAJ&view_op=list_works" target="_blank" class="coauthor-link">Lenin Balza</a> and <a href="https://scholar.google.com/citations?user=1xjpsMgAAAAJ&hl=en" target="_blank" class="coauthor-link">Nicolás Gomez</a></p>
             </li>
 
         </ol>                
