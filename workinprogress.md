@@ -61,12 +61,13 @@
              <li class="pub-item">
                 <p class="pub-title">Disasters, State Capacity, and Environmental Enforcement</p>
                 <p class="pub-authors">with <a href="https://scholar.google.com/citations?hl=en&user=1K-_JF0AAAAJ&view_op=list_works" target="_blank" class="coauthor-link">Lenin Balza</a> and <a href="https://scholar.google.com/citations?user=1xjpsMgAAAAJ&hl=en" target="_blank" class="coauthor-link">Nicolás Gomez</a></p>
+                <div class="pub-links">  
                   <a href="javascript:void(0)" onclick="toggleAbstract('evs')">[Abstract]</a>
               </div>
-                <div id="evs" class="abstract-box">
+              <div id="env_enforcement" class="abstract-box">
                 How do governments allocate scarce regulatory resources when unexpected disasters shift enforcement priorities? This paper examines whether major environmental disasters generate unintended spillovers by diverting enforcement capacity away from otherwise unaffected sectors and locations. We study two catastrophic mining dam failures in Brazil, which sharply increased demand for environmental oversight. We develop a framework in which regulators allocate limited monitoring resources across competing activities, while firms adjust compliance decisions in response to expected enforcement. Combining administrative records of environmental infractions, government officials' travel, and high-frequency satellite measures of deforestation and fires, we investigate how disaster-induced changes in regulatory priorities affect enforcement allocation and environmental outcomes. By linking emergency responses to the opportunity cost of regulatory attention, the paper seeks to advance our understanding of state capacity, optimal enforcement, and the unintended consequences of public resource allocation under institutional constraints.
              </div>               
-            </li>
+               </li>
             
                 <li class="pub-item">
                     <p class="pub-title">Blasting Dust: The Pollution-Health Impact of Industrial Mining Developments</p>
